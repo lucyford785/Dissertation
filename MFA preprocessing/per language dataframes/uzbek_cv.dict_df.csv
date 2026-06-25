@@ -1,0 +1,910 @@
+,Word,Transcription,Clusters,No. Syllables(Vowels),No.Phonemes,Mean cluster length
+0,abbosiylar,a b b ɒ s i j l a r,/bb/s/jl/r,4,10,1.5
+1,adolat,a d̪ ɒ l a t̪,/d̪/l/t̪,3,8,1.6666666666666667
+2,agar,a ɡ a r,/ɡ/r,2,4,1
+3,ahmoq-tentaklar,a h m ɒ q t̪ e n t̪ a k l a r,/hm/qt̪/nt̪/kl/r,5,16,2.2
+4,aholi,a h ɒ l i,/h/l/,3,5,1
+5,aholining,a h ɒ l i n i ŋ,/h/l/n/ŋ,4,8,1
+6,ajratib,a d͡ʒ r a t̪ i b,/d͡ʒr/t̪/b,3,10,2.3333333333333335
+7,aksariyat,a k s a r i j a t̪,/ks/r/j/t̪,4,10,1.5
+8,albatta,a l b a t̪ t̪ a,/lb/t̪t̪/,3,9,3
+9,"albatta,",a l b a t̪ t̪ a,/lb/t̪t̪/,3,9,3
+10,aldov,a l d̪ ɒ v,/ld̪/v,2,6,2
+11,alisher,a l i ʃ e r,/l/ʃ/r,3,6,1
+12,almashadi.,a l m a ʃ a d̪ i,/lm/ʃ/d̪/,4,9,1.6666666666666667
+13,amal,a m a l,/m/l,2,4,1
+14,amaldagi,a m a l d̪ a ɡ i,/m/ld̪/ɡ/,4,9,1.6666666666666667
+15,amalga,a m a l ɡ a,/m/lɡ/,3,6,1.5
+16,amaliyotini,a m a l i j ɒ t̪ i n i,/m/l/j/t̪/n/,6,12,1.2
+17,amerikaliklar,a m e r i k a l i k l a r,/m/r/k/l/kl/r,6,13,1.1666666666666667
+18,ammo,a m m ɒ,/mm/,2,4,2
+19,anglatadi.,a ŋ l a t̪ a d̪ i,/ŋl/t̪/d̪/,4,10,2
+20,aniq,a n i q,/n/q,2,4,1
+21,arab,a r a b,/r/b,2,4,1
+22,aralashuvi,a r a l a ʃ u v i,/r/l/ʃ/v/,5,9,1
+23,asarlarida,a s a r l a r i d̪ a,/s/rl/r/d̪/,5,11,1.5
+24,asboblari,a s b ɒ b l a r i,/sb/bl/r/,4,9,1.6666666666666667
+25,aslida,a s l i d̪ a,/sl/d̪/,3,7,2
+26,asosan,a s ɒ s a n,/s/s/n,3,6,1
+27,asosida,a s ɒ s i d̪ a,/s/s/d̪/,4,8,1.3333333333333333
+28,asosiy,a s ɒ s i j,/s/s/j,3,6,1
+29,asoslanadi.,a s ɒ s l a n a d̪ i,/s/sl/n/d̪/,5,11,1.5
+30,asoslangan,a s ɒ s l a ŋ a n,/s/sl/ŋ/n,4,9,1.25
+31,asrda,a s r d̪ a,/srd̪/,2,6,4
+32,asrga,a s r ɡ a,/srɡ/,2,5,3
+33,atrofi,a t̪ r ɒ ɸ i,/t̪r/ɸ/,3,7,2
+34,avval,a v v a l,/vv/l,2,5,1.5
+35,avvaliga,a v v a l i ɡ a,/vv/l/ɡ/,4,8,1.3333333333333333
+36,aylanishi,a j l a n i ʃ i,/jl/n/ʃ/,4,8,1.3333333333333333
+37,aynan,a j n a n,/jn/n,2,5,1.5
+38,aytgan,a j t̪ ɡ a n,/jt̪ɡ/n,2,7,2.5
+39,"aytib,",a j t̪ i b,/jt̪/b,2,6,2
+40,aytish,a j t̪ i ʃ,/jt̪/ʃ,2,6,2
+41,aytishga,a j t̪ i ʃ ɡ a,/jt̪/ʃɡ/,3,8,2.5
+42,"aytsa,",a j t͡s a,/jt͡s/,2,6,4
+43,azon,a z ɒ n,/z/n,2,4,1
+44,balandlatdi,b a l a n d̪ l a t̪ d̪ i,b/l/nd̪l/t̪d̪/,4,14,2.5
+45,banditlar,b a n d̪ i t̪ l a r,b/nd̪/t̪l/r,3,11,2
+46,baraka,b a r a k a,b/r/k/,3,6,1
+47,barham,b a r h a m,b/rh/m,2,6,1.3333333333333333
+48,bas.,b a s,b/s,1,3,1
+49,batamom,b a t̪ a m ɒ m,b/t̪/m/m,3,8,1.25
+50,baxtli,b a χ t̪ l i,b/χt̪l/,2,7,2.5
+51,bekor,b e k ɒ r,b/k/r,2,5,1
+52,berayotgan,b e r a j ɒ t̪ ɡ a n,b/r/j/t̪ɡ/n,4,11,1.4
+53,berganingizda,b e r ɡ a n i ŋ i z d̪ a,b/rɡ/n/ŋ/zd̪/,5,13,1.6
+54,beri,b e r i,b/r/,2,4,1
+55,berib,b e r i b,b/r/b,2,5,1
+56,beribdi.,b e r i b d̪ i,b/r/bd̪/,3,8,1.6666666666666667
+57,berilgandi.,b e r i l ɡ a n d̪ i,b/r/lɡ/nd̪/,4,11,1.75
+58,berilishiga,b e r i l i ʃ i ɡ a,b/r/l/ʃ/ɡ/,5,10,1
+59,bering,b e r i ŋ,b/r/ŋ,2,5,1
+60,berishingiz,b e r i ʃ i ŋ i z,b/r/ʃ/ŋ/z,4,9,1
+61,bermaslik,b e r m a s l i k,b/rm/sl/k,3,9,1.5
+62,besh,b e ʃ,b/ʃ,1,3,1
+63,beton,b e t̪ ɒ n,b/t̪/n,2,6,1.3333333333333333
+64,bezgak,b e z ɡ a k,b/zɡ/k,2,6,1.3333333333333333
+65,bilan,b i l a n,b/l/n,2,5,1
+66,bilganlarim,b i l ɡ a n l a r i m,b/lɡ/nl/r/m,4,11,1.4
+67,bilmaydigan,b i l m a j d̪ i ɡ a n,b/lm/jd̪/ɡ/n,4,12,1.6
+68,biologiya,b i ɒ l ɒ ɡ i j a,b/l/ɡ/j/,4,9,1
+69,bir,b i r,b/r,1,3,1
+70,birdaniga,b i r d̪ a n i ɡ a,b/rd̪/n/ɡ/,4,10,1.5
+71,"birdek,",b i r d̪ e k,b/rd̪/k,2,7,1.6666666666666667
+72,birgina,b i r ɡ i n a,b/rɡ/n/,3,7,1.3333333333333333
+73,biri,b i r i,b/r/,2,4,1
+74,biridir.,b i r i d̪ i r,b/r/d̪/r,3,8,1.25
+75,birinchi,b i r i n t͡ʃ i,b/r/nt͡ʃ/,3,9,2
+76,biror,b i r ɒ r,b/r/r,2,5,1
+77,birorta,b i r ɒ r t̪ a,b/r/rt̪/,3,8,1.6666666666666667
+78,birortasi,b i r ɒ r t̪ a s i,b/r/rt̪/s/,4,10,1.5
+79,birov,b i r ɒ v,b/r/v,2,5,1
+80,bitdi,b i t̪ d̪ i,b/t̪d̪/,2,7,2.5
+81,bitirib,b i t̪ i r i b,b/t̪/r/b,3,8,1.25
+82,bitta,b i t̪ t̪ a,b/t̪t̪/,2,7,2.5
+83,bo'la,b o l a,b/l/,2,4,1
+84,bo'ladi,b o l a d̪ i,b/l/d̪/,3,7,1.3333333333333333
+85,bo'ladi.,b o l a d̪ i,b/l/d̪/,3,7,1.3333333333333333
+86,bo'ldi,b o l d̪ i,b/ld̪/,2,6,2
+87,bo'ldi.,b o l d̪ i,b/ld̪/,2,6,2
+88,bo'lgan,b o l ɡ a n,b/lɡ/n,2,6,1.3333333333333333
+89,bo'lgan.,b o l ɡ a n,b/lɡ/n,2,6,1.3333333333333333
+90,bo'lganingizdan,b o l ɡ a n i ŋ i z d̪ a n,b/lɡ/n/ŋ/zd̪/n,5,14,1.5
+91,bo'lib,b o l i b,b/l/b,2,5,1
+92,bo'linib,b o l i n i b,b/l/n/b,3,7,1
+93,bo'lishadi.,b o l i ʃ a d̪ i,b/l/ʃ/d̪/,4,9,1.25
+94,bo'lishga,b o l i ʃ ɡ a,b/l/ʃɡ/,3,7,1.3333333333333333
+95,bo'lishgandi,b o l i ʃ ɡ a n d̪ i,b/l/ʃɡ/nd̪/,4,11,1.75
+96,bo'lishi,b o l i ʃ i,b/l/ʃ/,3,6,1
+97,bo'lsa,b o l s a,b/ls/,2,5,1.5
+98,bo'lur.,b o l u r,b/l/r,2,5,1
+99,bo'yicha,b o j i t͡ʃ a,b/j/t͡ʃ/,3,8,1.6666666666666667
+100,bo'yingiz,b o j i ŋ i z,b/j/ŋ/z,3,7,1
+101,bo'ylab,b o j l a b,b/jl/b,2,6,1.3333333333333333
+102,bog'langanini,b ɒ ʁ l a ŋ a n i n i,b/ʁl/ŋ/n/n/,5,11,1.2
+103,bois,b ɒ i s,b/s,1,4,1
+104,bombalashga,b ɒ m b a l a ʃ ɡ a,b/mb/l/ʃɡ/,4,10,1.5
+105,boqaylik.,b ɒ q a j l i k,b/q/jl/k,3,8,1.25
+106,bordir.,b ɒ r d̪ i r,b/rd̪/r,2,7,1.6666666666666667
+107,"borganida,",b ɒ r ɡ a n i d̪ a,b/rɡ/n/d̪/,4,10,1.5
+108,borildi.,b ɒ r i l d̪ i,b/r/ld̪/,3,8,1.6666666666666667
+109,borishi.,b ɒ r i ʃ i,b/r/ʃ/,3,6,1
+110,"bormi-yo'qmi,",b ɒ r m i j o q m i,b/rm/j/qm/,4,10,1.5
+111,bormoqda.,b ɒ r m ɒ q d̪ a,b/rm/qd̪/,3,9,2
+112,boshlagan,b ɒ ʃ l a ɡ a n,b/ʃl/ɡ/n,3,8,1.25
+113,boshlanadi,b ɒ ʃ l a n a d̪ i,b/ʃl/n/d̪/,4,10,1.5
+114,boshlariga,b ɒ ʃ l a r i ɡ a,b/ʃl/r/ɡ/,4,9,1.25
+115,boshlash,b ɒ ʃ l a ʃ,b/ʃl/ʃ,2,6,1.3333333333333333
+116,boshlashdi,b ɒ ʃ l a ʃ d̪ i,b/ʃl/ʃd̪/,3,9,2
+117,boshqa,b ɒ ʃ q a,b/ʃq/,2,5,1.5
+118,boshqaruvi.,b ɒ ʃ q a r u v i,b/ʃq/r/v/,4,9,1.25
+119,bosqini,b ɒ s q i n i,b/sq/n/,3,7,1.3333333333333333
+120,boyib,b ɒ j i b,b/j/b,2,5,1
+121,bozor,b ɒ z ɒ r,b/z/r,2,5,1
+122,bu,b u,b/,1,2,1
+123,"budda,",b u d̪ d̪ a,b/d̪d̪/,2,7,2.5
+124,bularning,b u l a r n i ŋ,b/l/rn/ŋ,3,8,1.25
+125,bundan,b u n d̪ a n,b/nd̪/n,2,7,1.6666666666666667
+126,bunday,b u n d̪ a j,b/nd̪/j,2,7,1.6666666666666667
+127,bunga,b u ŋ a,b/ŋ/,2,4,1
+128,buni,b u n i,b/n/,2,4,1
+129,buning,b u n i ŋ,b/n/ŋ,2,5,1
+130,burilib,b u r i l i b,b/r/l/b,3,7,1
+131,butkul,b u t̪ k u l,b/t̪k/l,2,7,1.6666666666666667
+132,butun,b u t̪ u n,b/t̪/n,2,6,1.3333333333333333
+133,buxoro,b u χ ɒ r ɒ,b/χ/r/,3,6,1
+134,buyruq,b u j r u q,b/jr/q,2,6,1.3333333333333333
+135,byudjetini,b j u d̪ d͡ʒ e t̪ i n i,bj/d̪d͡ʒ/t̪/n/,4,14,2.5
+136,byulleteni,b j u l l e t̪ e n i,bj/ll/t̪/n/,4,11,1.75
+137,chaqirildi.,t͡ʃ a q i r i l d̪ i,t͡ʃ/q/r/ld̪/,4,12,2
+138,chaqirtirib,t͡ʃ a q i r t̪ i r i b,t͡ʃ/q/rt̪/r/b,4,13,1.8
+139,chegaradagi,t͡ʃ e ɡ a r a d̪ a ɡ i,t͡ʃ/ɡ/r/d̪/ɡ/,5,13,1.6
+140,chempionat.,t͡ʃ e m p i ɒ n a t̪,t͡ʃ/mp/n/t̪,3,12,2
+141,chetda,t͡ʃ e t̪ d̪ a,t͡ʃ/t̪d̪/,2,9,3.5
+142,chilparchin,t͡ʃ i l p a r t͡ʃ i n,t͡ʃ/lp/rt͡ʃ/n,3,13,2.5
+143,chiqadi,t͡ʃ i q a d̪ i,t͡ʃ/q/d̪/,3,9,2
+144,chiqargan.,t͡ʃ i q a r ɡ a n,t͡ʃ/q/rɡ/n,3,10,1.75
+145,chiqarilmasligi,t͡ʃ i q a r i l m a s l i ɡ i,t͡ʃ/q/r/lm/sl/ɡ/,6,16,1.6666666666666667
+146,chiroysan.,t͡ʃ i r ɒ j s a n,t͡ʃ/r/js/n,3,10,1.75
+147,chirqillab,t͡ʃ i r q i l l a b,t͡ʃ/rq/ll/b,3,11,2
+148,cholg'u,t͡ʃ ɒ l ʁ u,t͡ʃ/lʁ/,2,7,2.5
+149,chop,t͡ʃ ɒ p,t͡ʃ/p,1,5,2
+150,choralar,t͡ʃ ɒ r a l a r,t͡ʃ/r/l/r,3,9,1.5
+151,chumchuqlar,t͡ʃ u m t͡ʃ u q l a r,t͡ʃ/mt͡ʃ/ql/r,3,13,2.5
+152,chunki,t͡ʃ u n k i,t͡ʃ/nk/,2,7,2.5
+153,chuqur,t͡ʃ u q u r,t͡ʃ/q/r,2,7,1.6666666666666667
+154,chuqurlashtirish,t͡ʃ u q u r l a ʃ t̪ i r i ʃ,t͡ʃ/q/rl/ʃt̪/r/ʃ,5,16,1.8333333333333333
+155,dag'-dag',d̪ a ʁ d̪ a ʁ,d̪/ʁd̪/ʁ,2,8,2
+156,darajasi,d̪ a r a d͡ʒ a s i,d̪/r/d͡ʒ/s/,4,11,1.75
+157,davlat,d̪ a v l a t̪,d̪/vl/t̪,2,8,2
+158,davrida,d̪ a v r i d̪ a,d̪/vr/d̪/,3,9,2
+159,dedi,d̪ e d̪ i,d̪/d̪/,2,6,2
+160,degan,d̪ e ɡ a n,d̪/ɡ/n,2,6,1.3333333333333333
+161,degani.,d̪ e ɡ a n i,d̪/ɡ/n/,3,7,1.3333333333333333
+162,dehqonchilikdan,d̪ e h q ɒ n t͡ʃ i l i k d̪ a n,d̪/hq/nt͡ʃ/l/kd̪/n,5,18,2.1666666666666665
+163,dehqonlarning,d̪ e h q ɒ n l a r n i ŋ,d̪/hq/nl/rn/ŋ,4,13,1.8
+164,"demak,",d̪ e m a k,d̪/m/k,2,6,1.3333333333333333
+165,demokratik,d̪ e m ɒ k r a t̪ i k,d̪/m/kr/t̪/k,4,12,1.6
+166,devor,d̪ e v ɒ r,d̪/v/r,2,6,1.3333333333333333
+167,dinlariga,d̪ i n l a r i ɡ a,d̪/nl/r/ɡ/,4,10,1.5
+168,diplom,d̪ i p l ɒ m,d̪/pl/m,2,7,1.6666666666666667
+169,diyorimizda,d̪ i j ɒ r i m i z d̪ a,d̪/j/r/m/zd̪/,5,13,1.6
+170,do'koniga,d̪ o k ɒ n i ɡ a,d̪/k/n/ɡ/,4,9,1.25
+171,dod,d̪ ɒ d̪,d̪/d̪,1,5,2
+172,dollarga,d̪ ɒ l l a r ɡ a,d̪/ll/rɡ/,3,9,2
+173,dunyo,d̪ u n j ɒ,d̪/nj/,2,6,2
+174,dunyoda,d̪ u n j ɒ d̪ a,d̪/nj/d̪/,3,9,2
+175,e'tibor,e ʔ t̪ i b ɒ r,/ʔt̪/b/r,3,8,1.6666666666666667
+176,e'tiqod,e ʔ t̪ i q ɒ d̪,/ʔt̪/q/d̪,3,9,2
+177,edi.,e d̪ i,/d̪/,2,4,2
+178,eftallarga,e ɸ t̪ a l l a r ɡ a,/ɸt̪/ll/rɡ/,4,11,2.3333333333333335
+179,ega,e ɡ a,/ɡ/,2,3,1
+180,egaligiga,e ɡ a l i ɡ i ɡ a,/ɡ/l/ɡ/ɡ/,5,9,1
+181,ehtimolini,e h t̪ i m ɒ l i n i,/ht̪/m/l/n/,5,11,1.5
+182,ekan.,e k a n,/k/n,2,4,1
+183,ekin,e k i n,/k/n,2,4,1
+184,elchixona,e l t͡ʃ i χ ɒ n a,/lt͡ʃ/χ/n/,4,10,2
+185,"emas,",e m a s,/m/s,2,4,1
+186,emas.,e m a s,/m/s,2,4,1
+187,emotsiyasiga,e m ɒ t͡s i j a s i ɡ a,/m/t͡s/j/s/ɡ/,6,13,1.4
+188,eng,e ŋ,/ŋ,1,2,1
+189,ensiklopediyaga,e n s i k l ɒ p e d̪ i j a ɡ a,/ns/kl/p/d̪/j/ɡ/,7,16,1.5
+190,ergashib,e r ɡ a ʃ i b,/rɡ/ʃ/b,3,7,1.3333333333333333
+191,erkaklar,e r k a k l a r,/rk/kl/r,3,8,1.6666666666666667
+192,esa,e s a,/s/,2,3,1
+193,eshigini,e ʃ i ɡ i n i,/ʃ/ɡ/n/,4,7,1
+194,"eshitamiz,",e ʃ i t̪ a m i z,/ʃ/t̪/m/z,4,9,1.25
+195,etaman.,e t̪ a m a n,/t̪/m/n,3,7,1.3333333333333333
+196,etik,e t̪ i k,/t̪/k,2,5,1.5
+197,etilgan,e t̪ i l ɡ a n,/t̪/lɡ/n,3,8,1.6666666666666667
+198,etish,e t̪ i ʃ,/t̪/ʃ,2,5,1.5
+199,etishayotgan,e t̪ i ʃ a j ɒ t̪ ɡ a n,/t̪/ʃ/j/t̪ɡ/n,5,13,1.6
+200,etishi,e t̪ i ʃ i,/t̪/ʃ/,3,6,1.5
+201,etmagan.,e t̪ m a ɡ a n,/t̪m/ɡ/n,3,8,1.6666666666666667
+202,etmoqchimiz.,e t̪ m ɒ q t͡ʃ i m i z,/t̪m/qt͡ʃ/m/z,4,13,2.25
+203,faoliyatiga,ɸ a ɒ l i j a t̪ i ɡ a,ɸ/l/j/t̪/ɡ/,5,12,1.2
+204,faqat,ɸ a q a t̪,ɸ/q/t̪,2,6,1.3333333333333333
+205,favqulodda,ɸ a v q u l ɒ d̪ d̪ a,ɸ/vq/l/d̪d̪/,4,12,2
+206,fikr,ɸ i k r,ɸ/kr,1,4,1.5
+207,fikrlashni,ɸ i k r l a ʃ n i,ɸ/krl/ʃn/,3,9,2
+208,fonarni,ɸ o n a r n i,ɸ/n/rn/,3,7,1.3333333333333333
+209,formulasi,ɸ ɒ r m u l a s i,ɸ/rm/l/s/,4,9,1.25
+210,foyda,ɸ ɒ j d̪ a,ɸ/jd̪/,2,6,2
+211,foydalanish,ɸ ɒ j d̪ a l a n i ʃ,ɸ/jd̪/l/n/ʃ,4,11,1.4
+212,fuqarolararo,ɸ u q a r ɒ l a r a r ɒ,ɸ/q/r/l/r/r/,6,12,1
+213,fursatda,ɸ u r s a t̪ d̪ a,ɸ/rs/t̪d̪/,3,10,2.3333333333333335
+214,g'azoni,ʁ a z ɒ n i,ʁ/z/n/,3,6,1
+215,gap,ɡ a p,ɡ/p,1,3,1
+216,gapi,ɡ a p i,ɡ/p/,2,4,1
+217,go'yo,ɡ o j ɒ,ɡ/j/,2,4,1
+218,guvohnomangizni,ɡ u v ɒ h n ɒ m a ŋ i z n i,ɡ/v/hn/m/ŋ/zn/,6,14,1.3333333333333333
+219,haddan,h a d̪ d̪ a n,h/d̪d̪/n,2,8,2
+220,hafta,h a ɸ t̪ a,h/ɸt̪/,2,6,2
+221,hakamga,h a k a m ɡ a,h/k/mɡ/,3,7,1.3333333333333333
+222,haligacha,h a l i ɡ a t͡ʃ a,h/l/ɡ/t͡ʃ/,4,10,1.5
+223,ham,h a m,h/m,1,3,1
+224,"ham,",h a m,h/m,1,3,1
+225,hamas,h a m a s,h/m/s,2,5,1
+226,hamma,h a m m a,h/mm/,2,5,1.5
+227,hammasini,h a m m a s i n i,h/mm/s/n/,4,9,1.25
+228,haqida,h a q i d̪ a,h/q/d̪/,3,7,1.3333333333333333
+229,haqli.,h a q l i,h/ql/,2,5,1.5
+230,har,h a r,h/r,1,3,1
+231,harakat,h a r a k a t̪,h/r/k/t̪,3,8,1.25
+232,harom,h a r ɒ m,h/r/m,2,5,1
+233,havola,h a v ɒ l a,h/v/l/,3,6,1
+234,hayotda,h a j ɒ t̪ d̪ a,h/j/t̪d̪/,3,9,2
+235,hayron,h a j r ɒ n,h/jr/n,2,6,1.3333333333333333
+236,hech,h e t͡ʃ,h/t͡ʃ,1,5,2
+237,hisob,h i s ɒ b,h/s/b,2,5,1
+238,hisoblashda,h i s ɒ b l a ʃ d̪ a,h/s/bl/ʃd̪/,4,11,1.75
+239,hokimliklar,h ɒ k i m l i k l a r,h/k/ml/kl/r,4,11,1.4
+240,hokimliklarga,h ɒ k i m l i k l a r ɡ a,h/k/ml/kl/rɡ/,5,13,1.6
+241,holat.,h ɒ l a t̪,h/l/t̪,2,6,1.3333333333333333
+242,holatlarda,h ɒ l a t̪ l a r d̪ a,h/l/t̪l/rd̪/,4,12,2
+243,holatlari,h ɒ l a t̪ l a r i,h/l/t̪l/r/,4,10,1.5
+244,holda,h ɒ l d̪ a,h/ld̪/,2,6,2
+245,holicha,h ɒ l i t͡ʃ a,h/l/t͡ʃ/,3,8,1.6666666666666667
+246,hollarda,h ɒ l l a r d̪ a,h/ll/rd̪/,3,9,2
+247,hosil,h ɒ s i l,h/s/l,2,5,1
+248,hovlisiga,h ɒ v l i s i ɡ a,h/vl/s/ɡ/,4,9,1.25
+249,hozir,h ɒ z i r,h/z/r,2,5,1
+250,hozircha,h ɒ z i r t͡ʃ a,h/z/rt͡ʃ/,3,9,2
+251,hududida,h u d̪ u d̪ i d̪ a,h/d̪/d̪/d̪/,4,11,1.75
+252,hududlar,h u d̪ u d̪ l a r,h/d̪/d̪l/r,3,10,1.75
+253,hunarmandchilikda,h u n a r m a n d̪ t͡ʃ i l i k d̪ a,h/n/rm/nd̪t͡ʃ/l/kd̪/,6,20,2.3333333333333335
+254,hunarmandlar,h u n a r m a n d̪ l a r,h/n/rm/nd̪l/r,4,13,1.8
+255,huquqi,h u q u q i,h/q/q/,3,6,1
+256,huquqliligiga,h u q u q l i l i ɡ i ɡ a,h/q/ql/l/ɡ/ɡ/,6,13,1.1666666666666667
+257,hurriyat,h u r r i j a t̪,h/rr/j/t̪,3,9,1.5
+258,iborani,i b ɒ r a n i,/b/r/n/,4,7,1
+259,ichidan,i t͡ʃ i d̪ a n,/t͡ʃ/d̪/n,3,9,2
+260,idish,i d̪ i ʃ,/d̪/ʃ,2,5,1.5
+261,idorasi,i d̪ ɒ r a s i,/d̪/r/s/,4,8,1.3333333333333333
+262,ijtimoiy-iqtisodiy,i d͡ʒ t̪ i m ɒ i j i q t̪ i s ɒ d̪ i j,/d͡ʒt̪/m/j/qt̪/s/d̪/j,7,22,2
+263,ikki,i k k i,/kk/,2,4,2
+264,ikkitaga,i k k i t̪ a ɡ a,/kk/t̪/ɡ/,4,9,1.6666666666666667
+265,ildizi,i l d̪ i z i,/ld̪/z/,3,7,2
+266,ilgari,i l ɡ a r i,/lɡ/r/,3,6,1.5
+267,ilmiy,i l m i j,/lm/j,2,5,1.5
+268,imtihon,i m t̪ i h ɒ n,/mt̪/h/n,3,8,1.6666666666666667
+269,inqilobiy,i n q i l ɒ b i j,/nq/l/b/j,4,9,1.25
+270,insoniyatga,i n s ɒ n i j a t̪ ɡ a,/ns/n/j/t̪ɡ/,5,12,1.75
+271,insonlarga,i n s ɒ n l a r ɡ a,/ns/nl/rɡ/,4,10,2
+272,intihosiga,i n t̪ i h ɒ s i ɡ a,/nt̪/h/s/ɡ/,5,11,1.5
+273,iqtisodchilar,i q t̪ i s ɒ d̪ t͡ʃ i l a r,/qt̪/s/d̪t͡ʃ/l/r,5,16,2.2
+274,iqtisodiga,i q t̪ i s ɒ d̪ i ɡ a,/qt̪/s/d̪/ɡ/,5,12,1.75
+275,iqtisodiyot,i q t̪ i s ɒ d̪ i j ɒ t̪,/qt̪/s/d̪/j/t̪,5,14,1.8
+276,"irlandiyaliklar,",i r l a n d̪ i j a l i k l a r,/rl/nd̪/j/l/kl/r,6,16,1.6666666666666667
+277,irmoq,i r m ɒ q,/rm/q,2,5,1.5
+278,irsiy,i r s i j,/rs/j,2,5,1.5
+279,ish,i ʃ,/ʃ,1,2,1
+280,ishga,i ʃ ɡ a,/ʃɡ/,2,4,2
+281,ishimizning,i ʃ i m i z n i ŋ,/ʃ/m/zn/ŋ,4,9,1.25
+282,ishlar,i ʃ l a r,/ʃl/r,2,5,1.5
+283,ishlari,i ʃ l a r i,/ʃl/r/,3,6,1.5
+284,ishlarini,i ʃ l a r i n i,/ʃl/r/n/,4,8,1.3333333333333333
+285,"ishlasa,",i ʃ l a s a,/ʃl/s/,3,6,1.5
+286,ishlatamiz.,i ʃ l a t̪ a m i z,/ʃl/t̪/m/z,4,10,1.5
+287,ishlaydi.,i ʃ l a j d̪ i,/ʃl/jd̪/,3,8,2.5
+288,ishning,i ʃ n i ŋ,/ʃn/ŋ,2,5,1.5
+289,islohotlarni,i s l ɒ h ɒ t̪ l a r n i,/sl/h/t̪l/rn/,5,13,2
+290,islom,i s l ɒ m,/sl/m,2,5,1.5
+291,isroil,i s r ɒ i l,/sr/l,2,6,1.5
+292,istilo,i s t̪ i l ɒ,/st̪/l/,3,7,2
+293,italiya,i t̪ a l i j a,/t̪/l/j/,4,8,1.3333333333333333
+294,italyan,i t̪ a l j a n,/t̪/lj/n,3,8,1.6666666666666667
+295,ixtiyoriy,i χ t̪ i j ɒ r i j,/χt̪/j/r/j,4,10,1.5
+296,iymondagi,i j m ɒ n d̪ a ɡ i,/jm/nd̪/ɡ/,4,10,2
+297,izlanadi.,i z l a n a d̪ i,/zl/n/d̪/,4,9,1.6666666666666667
+298,izoh,i z ɒ h,/z/h,2,4,1
+299,izohli,i z ɒ h l i,/z/hl/,3,6,1.5
+300,jahd,d͡ʒ a h d̪,d͡ʒ/hd̪,1,7,3
+301,jamiyat,d͡ʒ a m i j a t̪,d͡ʒ/m/j/t̪,3,10,1.75
+302,jamiyatga,d͡ʒ a m i j a t̪ ɡ a,d͡ʒ/m/j/t̪ɡ/,4,12,2
+303,jamoat,d͡ʒ a m ɒ a t̪,d͡ʒ/m/t̪,2,9,2
+304,javob,d͡ʒ a v ɒ b,d͡ʒ/v/b,2,7,1.6666666666666667
+305,javoban,d͡ʒ a v ɒ b a n,d͡ʒ/v/b/n,3,9,1.5
+306,javobi,d͡ʒ a v ɒ b i,d͡ʒ/v/b/,3,8,1.6666666666666667
+307,jihat,d͡ʒ i h a t̪,d͡ʒ/h/t̪,2,8,2
+308,jingalak,d͡ʒ i ŋ a l a k,d͡ʒ/ŋ/l/k,3,9,1.5
+309,joriy,d͡ʒ ɒ r i j,d͡ʒ/r/j,2,7,1.6666666666666667
+310,juda,d͡ʒ u d̪ a,d͡ʒ/d̪/,2,7,2.5
+311,juvon,d͡ʒ u v ɒ n,d͡ʒ/v/n,2,7,1.6666666666666667
+312,kabi,k a b i,k/b/,2,4,1
+313,kam,k a m,k/m,1,3,1
+314,kambag'allashadi.,k a m b a ʁ a l l a ʃ a d̪ i,k/mb/ʁ/ll/ʃ/d̪/,6,15,1.5
+315,kambag'allik,k a m b a ʁ a l l i k,k/mb/ʁ/ll/k,4,11,1.4
+316,kanda,k a n d̪ a,k/nd̪/,2,6,2
+317,karterdan,k a r t̪ e r d̪ a n,k/rt̪/rd̪/n,3,11,2
+318,kasallanish,k a s a l l a n i ʃ,k/s/ll/n/ʃ,4,10,1.2
+319,katta-katta,k a t̪ t̪ a k a t̪ t̪ a,k/t̪t̪/k/t̪t̪/,4,14,2.5
+320,kattagina,k a t̪ t̪ a ɡ i n a,k/t̪t̪/ɡ/n/,4,11,1.75
+321,kattaroq,k a t̪ t̪ a r ɒ q,k/t̪t̪/r/q,3,10,1.75
+322,"kayfiyatiga,",k a j ɸ i j a t̪ i ɡ a,k/jɸ/j/t̪/ɡ/,5,12,1.4
+323,keladi.,k e l a d̪ i,k/l/d̪/,3,7,1.3333333333333333
+324,keladigan,k e l a d̪ i ɡ a n,k/l/d̪/ɡ/n,4,10,1.2
+325,kelardi,k e l a r d̪ i,k/l/rd̪/,3,8,1.6666666666666667
+326,kelayotganini,k e l a j ɒ t̪ ɡ a n i n i,k/l/j/t̪ɡ/n/n/,6,14,1.3333333333333333
+327,keldi.,k e l d̪ i,k/ld̪/,2,6,2
+328,keldi?,k e l d̪ i,k/ld̪/,2,6,2
+329,"kelib,",k e l i b,k/l/b,2,5,1
+330,"kelin,",k e l i n,k/l/n,2,5,1
+331,kelishdi,k e l i ʃ d̪ i,k/l/ʃd̪/,3,8,1.6666666666666667
+332,kelishik,k e l i ʃ i k,k/l/ʃ/k,3,7,1
+333,kelishini,k e l i ʃ i n i,k/l/ʃ/n/,4,8,1
+334,"kelmaydi,",k e l m a j d̪ i,k/lm/jd̪/,3,9,2
+335,keltiraman.,k e l t̪ i r a m a n,k/lt̪/r/m/n,4,11,1.4
+336,keltirib,k e l t̪ i r i b,k/lt̪/r/b,3,9,1.5
+337,kerak.,k e r a k,k/r/k,2,5,1
+338,kerak?,k e r a k,k/r/k,2,5,1
+339,"kerakki,",k e r a k k i,k/r/kk/,3,7,1.3333333333333333
+340,ketadi.,k e t̪ a d̪ i,k/t̪/d̪/,3,8,1.6666666666666667
+341,ketadigandek.,k e t̪ a d̪ i ɡ a n d̪ e k,k/t̪/d̪/ɡ/nd̪/k,5,15,1.6666666666666667
+342,ketasiz.,k e t̪ a s i z,k/t̪/s/z,3,8,1.25
+343,ketdim.,k e t̪ d̪ i m,k/t̪d̪/m,2,8,2
+344,ketgan,k e t̪ ɡ a n,k/t̪ɡ/n,2,7,1.6666666666666667
+345,ketganda,k e t̪ ɡ a n d̪ a,k/t̪ɡ/nd̪/,3,10,2.3333333333333335
+346,ketganini,k e t̪ ɡ a n i n i,k/t̪ɡ/n/n/,4,10,1.5
+347,ketib,k e t̪ i b,k/t̪/b,2,6,1.3333333333333333
+348,keyin,k e j i n,k/j/n,2,5,1
+349,kichik,k i t͡ʃ i k,k/t͡ʃ/k,2,7,1.6666666666666667
+350,kiradi.,k i r a d̪ i,k/r/d̪/,3,7,1.3333333333333333
+351,kirib,k i r i b,k/r/b,2,5,1
+352,"kirishsalar,",k i r i ʃ s a l a r,k/r/ʃs/l/r,4,10,1.2
+353,kiritmaydi.,k i r i t̪ m a j d̪ i,k/r/t̪m/jd̪/,4,12,2
+354,kirmaydi.,k i r m a j d̪ i,k/rm/jd̪/,3,9,2
+355,kishi,k i ʃ i,k/ʃ/,2,4,1
+356,kitob,k i t̪ ɒ b,k/t̪/b,2,6,1.3333333333333333
+357,kitoblarni,k i t̪ ɒ b l a r n i,k/t̪/bl/rn/,4,11,1.75
+358,kitobxonlar,k i t̪ ɒ b χ ɒ n l a r,k/t̪/bχ/nl/r,4,12,1.6
+359,ko'p,k o p,k/p,1,3,1
+360,ko'payib,k o p a j i b,k/p/j/b,3,7,1
+361,ko'paytirib,k o p a j t̪ i r i b,k/p/jt̪/r/b,4,11,1.4
+362,ko'pfikrlilik,k o p ɸ i k r l i l i k,k/pɸ/krl/l/k,4,12,1.6
+363,"ko'ra,",k o r a,k/r/,2,4,1
+364,"ko'rdim,",k o r d̪ i m,k/rd̪/m,2,7,1.6666666666666667
+365,ko'rganlarni,k o r ɡ a n l a r n i,k/rɡ/nl/rn/,4,11,1.75
+366,ko'rishni,k o r i ʃ n i,k/r/ʃn/,3,7,1.3333333333333333
+367,ko'rsatdi?,k o r s a t̪ d̪ i,k/rs/t̪d̪/,3,10,2.3333333333333335
+368,ko'rsatilgan.,k o r s a t̪ i l ɡ a n,k/rs/t̪/lɡ/n,4,12,1.6
+369,ko'targanni,k o t̪ a r ɡ a n n i,k/t̪/rɡ/nn/,4,11,1.75
+370,ko'tarib,k o t̪ a r i b,k/t̪/r/b,3,8,1.25
+371,ko'tarinki,k o t̪ a r i n k i,k/t̪/r/nk/,4,10,1.5
+372,ko'z,k o z,k/z,1,3,1
+373,ko'za,k o z a,k/z/,2,4,1
+374,ko'zida,k o z i d̪ a,k/z/d̪/,3,7,1.3333333333333333
+375,ko'zlarini,k o z l a r i n i,k/zl/r/n/,4,9,1.25
+376,kompaniyada,k ɒ m p a n i j a d̪ a,k/mp/n/j/d̪/,5,12,1.4
+377,krizisga,k r i z i s ɡ a,kr/z/sɡ/,3,8,1.6666666666666667
+378,kunida,k u n i d̪ a,k/n/d̪/,3,7,1.3333333333333333
+379,kuniga,k u n i ɡ a,k/n/ɡ/,3,6,1
+380,kunlik,k u n l i k,k/nl/k,2,6,1.3333333333333333
+381,kurashish,k u r a ʃ i ʃ,k/r/ʃ/ʃ,3,7,1
+382,kurslarini,k u r s l a r i n i,k/rsl/r/n/,4,10,1.5
+383,kutdim.,k u t̪ d̪ i m,k/t̪d̪/m,2,8,2
+384,kutib,k u t̪ i b,k/t̪/b,2,6,1.3333333333333333
+385,kutubxonasining,k u t̪ u b χ ɒ n a s i n i ŋ,k/t̪/bχ/n/s/n/ŋ,6,15,1.2857142857142858
+386,la'natlab,l a ʔ n a t̪ l a b,l/ʔn/t̪l/b,3,10,1.75
+387,laboratoriyasida,l a b ɒ r a t̪ ɒ r i j a s i d̪ a,l/b/r/t̪/r/j/s/d̪/,8,18,1.25
+388,latifa.,l a t̪ i ɸ a,l/t̪/ɸ/,3,7,1.3333333333333333
+389,lekin,l e k i n,l/k/n,2,5,1
+390,loyihasini,l ɒ j i h a s i n i,l/j/h/s/n/,5,10,1
+391,lug'atning,l u ʁ a t̪ n i ŋ,l/ʁ/t̪n/ŋ,3,9,1.5
+392,ma'lumotlarim,m a ʔ l u m ɒ t̪ l a r i m,m/ʔl/m/t̪l/r/m,5,14,1.5
+393,ma'noni,m a ʔ n ɒ n i,m/ʔn/n/,3,7,1.3333333333333333
+394,"mablag',",m a b l a ʁ,m/bl/ʁ,2,6,1.3333333333333333
+395,madaniyatga,m a d̪ a n i j a t̪ ɡ a,m/d̪/n/j/t̪ɡ/,5,13,1.6
+396,mahalliy,m a h a l l i j,m/h/ll/j,3,8,1.25
+397,majlis,m a d͡ʒ l i s,m/d͡ʒl/s,2,8,2
+398,malaka,m a l a k a,m/l/k/,3,6,1
+399,mamlakat,m a m l a k a t̪,m/ml/k/t̪,3,9,1.5
+400,mamlakatda,m a m l a k a t̪ d̪ a,m/ml/k/t̪d̪/,4,12,2
+401,mantiq,m a n t̪ i q,m/nt̪/q,2,7,1.6666666666666667
+402,manzili,m a n z i l i,m/nz/l/,3,7,1.3333333333333333
+403,maqola,m a q ɒ l a,m/q/l/,3,6,1
+404,maqolalar,m a q ɒ l a l a r,m/q/l/l/r,4,9,1
+405,maradona,m a r a d̪ ɒ n a,m/r/d̪/n/,4,9,1.25
+406,maratning,m a r a t̪ n i ŋ,m/r/t̪n/ŋ,3,9,1.5
+407,markaziy,m a r k a z i j,m/rk/z/j,3,8,1.25
+408,marta,m a r t̪ a,m/rt̪/,2,6,2
+409,masal.,m a s a l,m/s/l,2,5,1
+410,masala,m a s a l a,m/s/l/,3,6,1
+411,masala.,m a s a l a,m/s/l/,3,6,1
+412,masalaga,m a s a l a ɡ a,m/s/l/ɡ/,4,8,1
+413,masalasiga,m a s a l a s i ɡ a,m/s/l/s/ɡ/,5,10,1
+414,mashina,m a ʃ i n a,m/ʃ/n/,3,6,1
+415,mashinasida,m a ʃ i n a s i d̪ a,m/ʃ/n/s/d̪/,5,11,1.2
+416,matematik,m a t̪ e m a t̪ i k,m/t̪/m/t̪/k,4,11,1.4
+417,mavjud,m a v d͡ʒ u d̪,m/vd͡ʒ/d̪,2,9,2.3333333333333335
+418,mavqeyi,m a v q e j i,m/vq/j/,3,7,1.3333333333333333
+419,mavzu,m a v z u,m/vz/,2,5,1.5
+420,mayda,m a j d̪ a,m/jd̪/,2,6,2
+421,maydonga,m a j d̪ ɒ ŋ a,m/jd̪/ŋ/,3,8,1.6666666666666667
+422,maydonlarini,m a j d̪ ɒ n l a r i n i,m/jd̪/nl/r/n/,5,13,1.6
+423,mazmuniga,m a z m u n i ɡ a,m/zm/n/ɡ/,4,9,1.25
+424,meliyev,m e l i j e v,m/l/j/v,3,7,1
+425,men,m e n,m/n,1,3,1
+426,menimcha,m e n i m t͡ʃ a,m/n/mt͡ʃ/,3,9,2
+427,mezonlarga,m e z ɒ n l a r ɡ a,m/z/nl/rɡ/,4,10,1.5
+428,milliy,m i l l i j,m/ll/j,2,6,1.3333333333333333
+429,ming,m i ŋ,m/ŋ,1,3,1
+430,minglab,m i ŋ l a b,m/ŋl/b,2,6,1.3333333333333333
+431,mo'l,m o l,m/l,1,3,1
+432,movarounnahr,m ɒ v a r ɒ u n n a h r,m/v/r/nn/hr,4,12,1.4
+433,"muhandisga,",m u h a n d̪ i s ɡ a,m/h/nd̪/sɡ/,4,11,1.75
+434,muhim.,m u h i m,m/h/m,2,5,1
+435,muhim?,m u h i m,m/h/m,2,5,1
+436,muhimligini,m u h i m l i ɡ i n i,m/h/ml/ɡ/n/,5,11,1.2
+437,mulkdor,m u l k d̪ ɒ r,m/lkd̪/r,2,8,2
+438,mulkdorlar,m u l k d̪ ɒ r l a r,m/lkd̪/rl/r,3,11,2
+439,muloyimlik,m u l ɒ j i m l i k,m/l/j/ml/k,4,10,1.2
+440,mumkin,m u m k i n,m/mk/n,2,6,1.3333333333333333
+441,mumkin.,m u m k i n,m/mk/n,2,6,1.3333333333333333
+442,munosabatlardagi,m u n ɒ s a b a t̪ l a r d̪ a ɡ i,m/n/s/b/t̪l/rd̪/ɡ/,7,18,1.5714285714285714
+443,mushaklari,m u ʃ a k l a r i,m/ʃ/kl/r/,4,9,1.25
+444,mushtariylar,m u ʃ t̪ a r i j l a r,m/ʃt̪/r/jl/r,4,12,1.6
+445,musibatni,m u s i b a t̪ n i,m/s/b/t̪n/,4,10,1.5
+446,mustaqil,m u s t̪ a q i l,m/st̪/q/l,3,9,1.5
+447,musulmonlari,m u s u l m ɒ n l a r i,m/s/lm/nl/r/,5,12,1.4
+448,muvaffaqiyat,m u v a ɸ ɸ a q i j a t̪,m/v/ɸɸ/q/j/t̪,5,13,1.3333333333333333
+449,muvaffaqiyatli,m u v a ɸ ɸ a q i j a t̪ l i,m/v/ɸɸ/q/j/t̪l/,6,15,1.5
+450,muzokaraga,m u z ɒ k a r a ɡ a,m/z/k/r/ɡ/,5,10,1
+451,nafar,n a ɸ a r,n/ɸ/r,2,5,1
+452,"nafrat,",n a ɸ r a t̪,n/ɸr/t̪,2,7,1.6666666666666667
+453,namoyishlari,n a m ɒ j i ʃ l a r i,n/m/j/ʃl/r/,5,11,1.2
+454,namozxonlar.,n a m ɒ z χ ɒ n l a r,n/m/zχ/nl/r,4,11,1.4
+455,naqd,n a q d̪,n/qd̪,1,5,2
+456,narsa,n a r s a,n/rs/,2,5,1.5
+457,narxlar,n a r χ l a r,n/rχl/r,2,7,1.6666666666666667
+458,nashr,n a ʃ r,n/ʃr,1,4,1.5
+459,nashrini,n a ʃ r i n i,n/ʃr/n/,3,7,1.3333333333333333
+460,nashriyot,n a ʃ r i j ɒ t̪,n/ʃr/j/t̪,3,9,1.5
+461,nasroniy,n a s r ɒ n i j,n/sr/n/j,3,8,1.25
+462,navbatim,n a v b a t̪ i m,n/vb/t̪/m,3,9,1.5
+463,navoiy,n a v ɒ i j,n/v/j,2,6,1
+464,nazaridan,n a z a r i d̪ a n,n/z/r/d̪/n,4,10,1.2
+465,necha,n e t͡ʃ a,n/t͡ʃ/,2,6,2
+466,nechta,n e t͡ʃ t̪ a,n/t͡ʃt̪/,2,8,3
+467,nega,n e ɡ a,n/ɡ/,2,4,1
+468,nihoyatda,n i h ɒ j a t̪ d̪ a,n/h/j/t̪d̪/,4,11,1.75
+469,nikoh,n i k ɒ h,n/k/h,2,5,1
+470,nima,n i m a,n/m/,2,4,1
+471,niqobsiz,n i q ɒ b s i z,n/q/bs/z,3,8,1.25
+472,nizolar,n i z ɒ l a r,n/z/l/r,3,7,1
+473,normal,n ɒ r m a l,n/rm/l,2,6,1.3333333333333333
+474,norozilik,n ɒ r ɒ z i l i k,n/r/z/l/k,4,9,1
+475,nuqtayi,n u q t̪ a j i,n/qt̪/j/,3,8,1.6666666666666667
+476,nutqlarida,n u t̪ q l a r i d̪ a,n/t̪ql/r/d̪/,4,12,2
+477,o'ch,o t͡ʃ,/t͡ʃ,1,4,3
+478,o'layotgan,o l a j ɒ t̪ ɡ a n,/l/j/t̪ɡ/n,4,10,1.5
+479,o'limidan,o l i m i d̪ a n,/l/m/d̪/n,4,9,1.25
+480,o'n,o n,/n,1,2,1
+481,o'ng,o ŋ,/ŋ,1,2,1
+482,o'nlab,o n l a b,/nl/b,2,5,1.5
+483,o'quvchilardan,o q u v t͡ʃ i l a r d̪ a n,/q/vt͡ʃ/l/rd̪/n,5,15,2
+484,o'ralgan,o r a l ɡ a n,/r/lɡ/n,3,7,1.3333333333333333
+485,o'rta,o r t̪ a,/rt̪/,2,5,3
+486,o'sib,o s i b,/s/b,2,4,1
+487,o'tadi,o t̪ a d̪ i,/t̪/d̪/,3,7,2
+488,o'tgan,o t̪ ɡ a n,/t̪ɡ/n,2,6,2
+489,o'tish,o t̪ i ʃ,/t̪/ʃ,2,5,1.5
+490,o'xshash,o χ ʃ a ʃ,/χʃ/ʃ,2,5,1.5
+491,o'xshayapti.,o χ ʃ a j a p t̪ i,/χʃ/j/pt̪/,4,10,2
+492,o'yinlarda,o j i n l a r d̪ a,/j/nl/rd̪/,4,10,2
+493,o'yinni,o j i n n i,/j/nn/,3,6,1.5
+494,o'yinning,o j i n n i ŋ,/j/nn/ŋ,3,7,1.3333333333333333
+495,o'z,o z,/z,1,2,1
+496,o'zbekchada,o z b e k t͡ʃ a d̪ a,/zb/kt͡ʃ/d̪/,4,12,2.6666666666666665
+497,o'zbekiston,o z b e k i s t̪ ɒ n,/zb/k/st̪/n,4,11,1.75
+498,o'zbekistonda,o z b e k i s t̪ ɒ n d̪ a,/zb/k/st̪/nd̪/,5,14,2.25
+499,o'zi,o z i,/z/,2,3,1
+500,obodonchilik,ɒ b ɒ d̪ ɒ n t͡ʃ i l i k,/b/d̪/nt͡ʃ/l/k,5,14,1.8
+501,och,ɒ t͡ʃ,/t͡ʃ,1,4,3
+502,ochgan.,ɒ t͡ʃ ɡ a n,/t͡ʃɡ/n,2,7,2.5
+503,ochlikdan,ɒ t͡ʃ l i k d̪ a n,/t͡ʃl/kd̪/n,3,11,2.6666666666666665
+504,odam,ɒ d̪ a m,/d̪/m,2,5,1.5
+505,odami,ɒ d̪ a m i,/d̪/m/,3,6,1.5
+506,odamlarni,ɒ d̪ a m l a r n i,/d̪/ml/rn/,4,10,2
+507,odatini,ɒ d̪ a t̪ i n i,/d̪/t̪/n/,4,9,1.6666666666666667
+508,ohanglar,ɒ h a ŋ l a r,/h/ŋl/r,3,7,1.3333333333333333
+509,oilamizning,ɒ i l a m i z n i ŋ,/l/m/zn/ŋ,4,10,1.25
+510,oilasi.,ɒ i l a s i,/l/s/,3,6,1
+511,oladi,ɒ l a d̪ i,/l/d̪/,3,6,1.5
+512,oladi.,ɒ l a d̪ i,/l/d̪/,3,6,1.5
+513,oldi,ɒ l d̪ i,/ld̪/,2,5,3
+514,oldilar.,ɒ l d̪ i l a r,/ld̪/l/r,3,8,1.6666666666666667
+515,olgan,ɒ l ɡ a n,/lɡ/n,2,5,1.5
+516,olgan.,ɒ l ɡ a n,/lɡ/n,2,5,1.5
+517,olib,ɒ l i b,/l/b,2,4,1
+518,"olib,",ɒ l i b,/l/b,2,4,1
+519,olish,ɒ l i ʃ,/l/ʃ,2,4,1
+520,olma,ɒ l m a,/lm/,2,4,2
+521,olmadi.,ɒ l m a d̪ i,/lm/d̪/,3,7,2
+522,olti,ɒ l t̪ i,/lt̪/,2,5,3
+523,oltin,ɒ l t̪ i n,/lt̪/n,2,6,2
+524,omonat,ɒ m ɒ n a t̪,/m/n/t̪,3,7,1.3333333333333333
+525,onangizning,ɒ n a ŋ i z n i ŋ,/n/ŋ/zn/ŋ,4,9,1.25
+526,onasi,ɒ n a s i,/n/s/,3,5,1
+527,oq,ɒ q,/q,1,2,1
+528,oqibatida,ɒ q i b a t̪ i d̪ a,/q/b/t̪/d̪/,5,11,1.5
+529,oqibatlar,ɒ q i b a t̪ l a r,/q/b/t̪l/r,4,10,1.5
+530,oqibatlarga,ɒ q i b a t̪ l a r ɡ a,/q/b/t̪l/rɡ/,5,12,1.75
+531,orqa,ɒ r q a,/rq/,2,4,2
+532,orqamdan,ɒ r q a m d̪ a n,/rq/md̪/n,3,9,2
+533,ortib,ɒ r t̪ i b,/rt̪/b,2,6,2
+534,"ortib,",ɒ r t̪ i b,/rt̪/b,2,6,2
+535,"oshirdim,",ɒ ʃ i r d̪ i m,/ʃ/rd̪/m,3,8,1.6666666666666667
+536,"oshirilgach,",ɒ ʃ i r i l ɡ a t͡ʃ,/ʃ/r/lɡ/t͡ʃ,4,11,1.75
+537,oshirilgan.,ɒ ʃ i r i l ɡ a n,/ʃ/r/lɡ/n,4,9,1.25
+538,oshirish.,ɒ ʃ i r i ʃ,/ʃ/r/ʃ,3,6,1
+539,osiyodagi,ɒ s i j ɒ d̪ a ɡ i,/s/j/d̪/ɡ/,5,10,1.25
+540,osiyoga,ɒ s i j ɒ ɡ a,/s/j/ɡ/,4,7,1
+541,osti,ɒ s t̪ i,/st̪/,2,5,3
+542,ostida.,ɒ s t̪ i d̪ a,/st̪/d̪/,3,8,2.5
+543,ovqat,ɒ v q a t̪,/vq/t̪,2,6,2
+544,oxirgi,ɒ χ i r ɡ i,/χ/rɡ/,3,6,1.5
+545,oxiriga,ɒ χ i r i ɡ a,/χ/r/ɡ/,4,7,1
+546,oy,ɒ j,/j,1,2,1
+547,oyda,ɒ j d̪ a,/jd̪/,2,5,3
+548,oydan,ɒ j d̪ a n,/jd̪/n,2,6,2
+549,oyoq,ɒ j ɒ q,/j/q,2,4,1
+550,oz,ɒ z,/z,1,2,1
+551,oziq-ovqat,ɒ z i q ɒ v q a t̪,/z/q/vq/t̪,4,10,1.5
+552,pandemiya,p a n d̪ e m i j a,p/nd̪/m/j/,4,10,1.5
+553,parlament,p a r l a m e n t̪,p/rl/m/nt̪,3,10,1.75
+554,partiya,p a r t̪ i j a,p/rt̪/j/,3,8,1.6666666666666667
+555,parvo,p a r v ɒ,p/rv/,2,5,1.5
+556,pashshani,p a ʃ ʃ a n i,p/ʃʃ/n/,3,7,1.3333333333333333
+557,paytida,p a j t̪ i d̪ a,p/jt̪/d̪/,3,9,2
+558,pedagogikada,p e d̪ a ɡ ɒ ɡ i k a d̪ a,p/d̪/ɡ/ɡ/k/d̪/,6,14,1.3333333333333333
+559,peshindan,p e ʃ i n d̪ a n,p/ʃ/nd̪/n,3,9,1.5
+560,pirpiratib.,p i r p i r a t̪ i b,p/rp/r/t̪/b,4,11,1.4
+561,planda,p l a n d̪ a,pl/nd̪/,2,7,2.5
+562,pul,p u l,p/l,1,3,1
+563,qachon,q a t͡ʃ ɒ n,q/t͡ʃ/n,2,7,1.6666666666666667
+564,qadriyatlar?,q a d̪ r i j a t̪ l a r,q/d̪r/j/t̪l/r,4,13,1.8
+565,qalqigan,q a l q i ɡ a n,q/lq/ɡ/n,3,8,1.25
+566,qaltiradim,q a l t̪ i r a d̪ i m,q/lt̪/r/d̪/m,4,12,1.6
+567,qanaqa,q a n a q a,q/n/q/,3,6,1
+568,qancha,q a n t͡ʃ a,q/nt͡ʃ/,2,7,2.5
+569,qanday,q a n d̪ a j,q/nd̪/j,2,7,1.6666666666666667
+570,qarab,q a r a b,q/r/b,2,5,1
+571,qaram,q a r a m,q/r/m,2,5,1
+572,qarindoshlari,q a r i n d̪ ɒ ʃ l a r i,q/r/nd̪/ʃl/r/,5,13,1.6
+573,qarshi,q a r ʃ i,q/rʃ/,2,5,1.5
+574,qat'iyat,q a t̪ ʔ i j a t̪,q/t̪ʔ/j/t̪,3,10,1.75
+575,qattiq,q a t̪ t̪ i q,q/t̪t̪/q,2,8,2
+576,qaysilarini,q a j s i l a r i n i,q/js/l/r/n/,5,11,1.2
+577,qayta,q a j t̪ a,q/jt̪/,2,6,2
+578,qaytadi?,q a j t̪ a d̪ i,q/jt̪/d̪/,3,9,2
+579,qidirib,q i d̪ i r i b,q/d̪/r/b,3,8,1.25
+580,qiladi,q i l a d̪ i,q/l/d̪/,3,7,1.3333333333333333
+581,qiladi.,q i l a d̪ i,q/l/d̪/,3,7,1.3333333333333333
+582,qilaman.,q i l a m a n,q/l/m/n,3,7,1
+583,"qilasan,",q i l a s a n,q/l/s/n,3,7,1
+584,qilayotgan,q i l a j ɒ t̪ ɡ a n,q/l/j/t̪ɡ/n,4,11,1.4
+585,qildi.,q i l d̪ i,q/ld̪/,2,6,2
+586,qilib,q i l i b,q/l/b,2,5,1
+587,"qilib,",q i l i b,q/l/b,2,5,1
+588,qilingan,q i l i ŋ a n,q/l/ŋ/n,3,7,1
+589,"qilinglar,",q i l i ŋ l a r,q/l/ŋl/r,3,8,1.25
+590,qilish,q i l i ʃ,q/l/ʃ,2,5,1
+591,qilishgan.,q i l i ʃ ɡ a n,q/l/ʃɡ/n,3,8,1.25
+592,qilishmagan.,q i l i ʃ m a ɡ a n,q/l/ʃm/ɡ/n,4,10,1.2
+593,qilishni,q i l i ʃ n i,q/l/ʃn/,3,7,1.3333333333333333
+594,qilmadi,q i l m a d̪ i,q/lm/d̪/,3,8,1.6666666666666667
+595,qilmagan.,q i l m a ɡ a n,q/lm/ɡ/n,3,8,1.25
+596,qirilib,q i r i l i b,q/r/l/b,3,7,1
+597,qirol,q i r ɒ l,q/r/l,2,5,1
+598,qishloqlarda,q i ʃ l ɒ q l a r d̪ a,q/ʃl/ql/rd̪/,4,12,2
+599,qiyshayib,q i j ʃ a j i b,q/jʃ/j/b,3,8,1.25
+600,qiyshiq,q i j ʃ i q,q/jʃ/q,2,6,1.3333333333333333
+601,qiziq,q i z i q,q/z/q,2,5,1
+602,qo'l,q o l,q/l,1,3,1
+603,qo'lida,q o l i d̪ a,q/l/d̪/,3,7,1.3333333333333333
+604,qo'rqqanimdan,q o r q q a n i m d̪ a n,q/rqq/n/md̪/n,4,13,1.8
+605,qo'shib,q o ʃ i b,q/ʃ/b,2,5,1
+606,qo'shimchasini,q o ʃ i m t͡ʃ a s i n i,q/ʃ/mt͡ʃ/s/n/,5,13,1.6
+607,qo'yamiz.,q o j a m i z,q/j/m/z,3,7,1
+608,qo'yardilar.,q o j a r d̪ i l a r,q/j/rd̪/l/r,4,11,1.4
+609,"qo'yaylik-da,",q o j a j l i k d̪ a,q/j/jl/kd̪/,4,11,1.75
+610,qo'ydi.,q o j d̪ i,q/jd̪/,2,6,2
+611,qo'yish,q o j i ʃ,q/j/ʃ,2,5,1
+612,qo'zichoqning,q o z i t͡ʃ ɒ q n i ŋ,q/z/t͡ʃ/qn/ŋ,4,12,1.6
+613,qoida,q ɒ i d̪ a,q/d̪/,2,6,1.5
+614,qola,q ɒ l a,q/l/,2,4,1
+615,qolaman.,q ɒ l a m a n,q/l/m/n,3,7,1
+616,qoldi,q ɒ l d̪ i,q/ld̪/,2,6,2
+617,qoldi.,q ɒ l d̪ i,q/ld̪/,2,6,2
+618,qolgan,q ɒ l ɡ a n,q/lɡ/n,2,6,1.3333333333333333
+619,qolgan.,q ɒ l ɡ a n,q/lɡ/n,2,6,1.3333333333333333
+620,qolganidan,q ɒ l ɡ a n i d̪ a n,q/lɡ/n/d̪/n,4,11,1.4
+621,qolib,q ɒ l i b,q/l/b,2,5,1
+622,qopti.,q ɒ p t̪ i,q/pt̪/,2,6,2
+623,qosimni,q ɒ s i m n i,q/s/mn/,3,7,1.3333333333333333
+624,qotillik,q ɒ t̪ i l l i k,q/t̪/ll/k,3,9,1.5
+625,"qoyil-e,",q ɒ j i l e,q/j/l/,3,6,1
+626,qudratga,q u d̪ r a t̪ ɡ a,q/d̪r/t̪ɡ/,3,10,2.3333333333333335
+627,qulab,q u l a b,q/l/b,2,5,1
+628,qurilish,q u r i l i ʃ,q/r/l/ʃ,3,7,1
+629,"qurolsozlik,",q u r ɒ l s ɒ z l i k,q/r/ls/zl/k,4,11,1.4
+630,quyida,q u j i d̪ a,q/j/d̪/,3,7,1.3333333333333333
+631,quyiladi.,q u j i l a d̪ i,q/j/l/d̪/,4,9,1.25
+632,rahbari,r a h b a r i,r/hb/r/,3,7,1.3333333333333333
+633,raqamli,r a q a m l i,r/q/ml/,3,7,1.3333333333333333
+634,raqib,r a q i b,r/q/b,2,5,1
+635,rasman,r a s m a n,r/sm/n,2,6,1.3333333333333333
+636,rasmda,r a s m d̪ a,r/smd̪/,2,7,2.5
+637,rejalashtirilgan,r e d͡ʒ a l a ʃ t̪ i r i l ɡ a n,r/d͡ʒ/l/ʃt̪/r/lɡ/n,6,18,1.7142857142857142
+638,rekordni,r e k ɒ r d̪ n i,r/k/rd̪n/,3,9,2
+639,restavratsiya,r e s t̪ a v r a t͡s i j a,r/st̪/vr/t͡s/j/,5,15,2
+640,ro'yxatdan,r o j χ a t̪ d̪ a n,r/jχ/t̪d̪/n,3,11,2
+641,ro'yxatga,r o j χ a t̪ ɡ a,r/jχ/t̪ɡ/,3,9,2
+642,rostdan,r ɒ s t̪ d̪ a n,r/st̪d̪/n,2,9,2.3333333333333335
+643,roziligi,r ɒ z i l i ɡ i,r/z/l/ɡ/,4,8,1
+644,rus,r u s,r/s,1,3,1
+645,"sababi,",s a b a b i,s/b/b/,3,6,1
+646,sabablar,s a b a b l a r,s/b/bl/r,3,8,1.25
+647,sabr,s a b r,s/br,1,4,1.5
+648,safar,s a ɸ a r,s/ɸ/r,2,5,1
+649,saharlik,s a h a r l i k,s/h/rl/k,3,8,1.25
+650,saharlikda,s a h a r l i k d̪ a,s/h/rl/kd̪/,4,11,1.75
+651,sal,s a l,s/l,1,3,1
+652,san'atkor,s a n ʔ a t̪ k ɒ r,s/nʔ/t̪k/r,3,10,1.75
+653,sarvar,s a r v a r,s/rv/r,2,6,1.3333333333333333
+654,saviyada,s a v i j a d̪ a,s/v/j/d̪/,4,9,1.25
+655,savol,s a v ɒ l,s/v/l,2,5,1
+656,savol-javob,s a v ɒ l d͡ʒ a v ɒ b,s/v/ld͡ʒ/v/b,4,12,1.6
+657,saylov,s a j l ɒ v,s/jl/v,2,6,1.3333333333333333
+658,sen,s e n,s/n,1,3,1
+659,shafqatsiz,ʃ a ɸ q a t͡s i z,ʃ/ɸq/t͡s/z,3,10,1.75
+660,shaharlarda,ʃ a h a r l a r d̪ a,ʃ/h/rl/rd̪/,4,11,1.75
+661,shahrida,ʃ a h r i d̪ a,ʃ/hr/d̪/,3,8,1.6666666666666667
+662,shaklida,ʃ a k l i d̪ a,ʃ/kl/d̪/,3,8,1.6666666666666667
+663,shakllangan.,ʃ a k l l a ŋ a n,ʃ/kll/ŋ/n,3,9,1.5
+664,sharqiy,ʃ a r q i j,ʃ/rq/j,2,6,1.3333333333333333
+665,shaxs,ʃ a χ s,ʃ/χs,1,4,1.5
+666,shaxslar,ʃ a χ s l a r,ʃ/χsl/r,2,7,1.6666666666666667
+667,shifokorlar,ʃ i ɸ ɒ k ɒ r l a r,ʃ/ɸ/k/rl/r,4,10,1.2
+668,shimoliy,ʃ i m ɒ l i j,ʃ/m/l/j,3,7,1
+669,"shishasozlik,",ʃ i ʃ a s ɒ z l i k,ʃ/ʃ/s/zl/k,4,10,1.2
+670,sho'r,ʃ o r,ʃ/r,1,3,1
+671,shomurodov,ʃ ɒ m u r ɒ d̪ ɒ v,ʃ/m/r/d̪/v,4,10,1.2
+672,shu,ʃ u,ʃ/,1,2,1
+673,shu.,ʃ u,ʃ/,1,2,1
+674,shundan,ʃ u n d̪ a n,ʃ/nd̪/n,2,7,1.6666666666666667
+675,shunga,ʃ u ŋ a,ʃ/ŋ/,2,4,1
+676,shuning,ʃ u n i ŋ,ʃ/n/ŋ,2,5,1
+677,sifati.,s i ɸ a t̪ i,s/ɸ/t̪/,3,7,1.3333333333333333
+678,sifatiga,s i ɸ a t̪ i ɡ a,s/ɸ/t̪/ɡ/,4,9,1.25
+679,sigir,s i ɡ i r,s/ɡ/r,2,5,1
+680,sinadi.,s i n a d̪ i,s/n/d̪/,3,7,1.3333333333333333
+681,sinay,s i n a j,s/n/j,2,5,1
+682,sinov,s i n ɒ v,s/n/v,2,5,1
+683,"sinsa,",s i n s a,s/ns/,2,5,1.5
+684,sistematik,s i s t̪ e m a t̪ i k,s/st̪/m/t̪/k,4,12,1.6
+685,siyosatlashgan.,s i j ɒ s a t̪ l a ʃ ɡ a n,s/j/s/t̪l/ʃɡ/n,5,14,1.5
+686,siz,s i z,s/z,1,3,1
+687,so'l,s o l,s/l,1,3,1
+688,so'm,s o m,s/m,1,3,1
+689,so'ng,s o ŋ,s/ŋ,1,3,1
+690,so'nggi,s o ŋ ɡ i,s/ŋɡ/,2,5,1.5
+691,so'z,s o z,s/z,1,3,1
+692,so'zi,s o z i,s/z/,2,4,1
+693,so'zida,s o z i d̪ a,s/z/d̪/,3,7,1.3333333333333333
+694,sof,s ɒ ɸ,s/ɸ,1,3,1
+695,sol.,s ɒ l,s/l,1,3,1
+696,soliq,s ɒ l i q,s/l/q,2,5,1
+697,soliqlarni,s ɒ l i q l a r n i,s/l/ql/rn/,4,10,1.5
+698,soni,s ɒ n i,s/n/,2,4,1
+699,sopol,s ɒ p ɒ l,s/p/l,2,5,1
+700,sosoniylar,s ɒ s ɒ n i j l a r,s/s/n/jl/r,4,10,1.2
+701,sotish,s ɒ t̪ i ʃ,s/t̪/ʃ,2,6,1.3333333333333333
+702,sovet,s ɒ v e t̪,s/v/t̪,2,6,1.3333333333333333
+703,sovg'a,s ɒ v ʁ a,s/vʁ/,2,5,1.5
+704,sportchiga,s p ɒ r t̪ t͡ʃ i ɡ a,sp/rt̪t͡ʃ/ɡ/,3,12,3
+705,sudya,s u d̪ j a,s/d̪j/,2,6,2
+706,sug'orish,s u ʁ ɒ r i ʃ,s/ʁ/r/ʃ,3,7,1
+707,suhbatimizni,s u h b a t̪ i m i z n i,s/hb/t̪/m/zn/,5,13,1.6
+708,sukut,s u k u t̪,s/k/t̪,2,6,1.3333333333333333
+709,sultonali,s u l t̪ ɒ n a l i,s/lt̪/n/l/,4,10,1.5
+710,surish,s u r i ʃ,s/r/ʃ,2,5,1
+711,ta'kidladi.,t̪ a ʔ k i d̪ l a d̪ i,t̪/ʔk/d̪l/d̪/,4,13,2.25
+712,ta'minlanadi.,t̪ a ʔ m i n l a n a d̪ i,t̪/ʔm/nl/n/d̪/,5,14,1.8
+713,ta'sir,t̪ a ʔ s i r,t̪/ʔs/r,2,7,1.6666666666666667
+714,tabaqasi,t̪ a b a q a s i,t̪/b/q/s/,4,9,1.25
+715,tabiiyki,t̪ a b i i j k i,t̪/b/jk/,3,9,1.6666666666666667
+716,tadqiqotlarda,t̪ a d̪ q i q ɒ t̪ l a r d̪ a,t̪/d̪q/q/t̪l/rd̪/,5,17,2.4
+717,tajribalar,t̪ a d͡ʒ r i b a l a r,t̪/d͡ʒr/b/l/r,4,13,1.8
+718,takrorlashiga,t̪ a k r ɒ r l a ʃ i ɡ a,t̪/kr/rl/ʃ/ɡ/,5,13,1.6
+719,tarafida,t̪ a r a ɸ i d̪ a,t̪/r/ɸ/d̪/,4,10,1.5
+720,"tariqa,",t̪ a r i q a,t̪/r/q/,3,7,1.3333333333333333
+721,tarjima,t̪ a r d͡ʒ i m a,t̪/rd͡ʒ/m/,3,10,2.3333333333333335
+722,tarjimon,t̪ a r d͡ʒ i m ɒ n,t̪/rd͡ʒ/m/n,3,11,2
+723,tark,t̪ a r k,t̪/rk,1,5,2
+724,tarmoqlar,t̪ a r m ɒ q l a r,t̪/rm/ql/r,3,10,1.75
+725,tarnov,t̪ a r n ɒ v,t̪/rn/v,2,7,1.6666666666666667
+726,tarqalishi,t̪ a r q a l i ʃ i,t̪/rq/l/ʃ/,4,10,1.5
+727,tarqatish,t̪ a r q a t̪ i ʃ,t̪/rq/t̪/ʃ,3,10,1.75
+728,tasarrufida,t̪ a s a r r u ɸ i d̪ a,t̪/s/rr/ɸ/d̪/,5,13,1.6
+729,tasdiqlangan,t̪ a s d̪ i q l a ŋ a n,t̪/sd̪/ql/ŋ/n,4,13,1.8
+730,tashkil,t̪ a ʃ k i l,t̪/ʃk/l,2,7,1.6666666666666667
+731,tashlab,t̪ a ʃ l a b,t̪/ʃl/b,2,7,1.6666666666666667
+732,tashqari,t̪ a ʃ q a r i,t̪/ʃq/r/,3,8,1.6666666666666667
+733,"tashqari,",t̪ a ʃ q a r i,t̪/ʃq/r/,3,8,1.6666666666666667
+734,tashxislar,t̪ a ʃ χ i s l a r,t̪/ʃχ/sl/r,3,10,1.75
+735,tavsiya,t̪ a v s i j a,t̪/vs/j/,3,8,1.6666666666666667
+736,taxta,t̪ a χ t̪ a,t̪/χt̪/,2,7,2.5
+737,tayyor,t̪ a j j ɒ r,t̪/jj/r,2,7,1.6666666666666667
+738,tayyorlardim.,t̪ a j j ɒ r l a r d̪ i m,t̪/jj/rl/rd̪/m,4,14,2
+739,tekislikda,t̪ e k i s l i k d̪ a,t̪/k/sl/kd̪/,4,12,2
+740,telbalik,t̪ e l b a l i k,t̪/lb/l/k,3,9,1.5
+741,teng,t̪ e ŋ,t̪/ŋ,1,4,1.5
+742,terisi.,t̪ e r i s i,t̪/r/s/,3,7,1.3333333333333333
+743,tez,t̪ e z,t̪/z,1,4,1.5
+744,tezlashtirgan.,t̪ e z l a ʃ t̪ i r ɡ a n,t̪/zl/ʃt̪/rɡ/n,4,14,2
+745,tilda,t̪ i l d̪ a,t̪/ld̪/,2,7,2.5
+746,tili,t̪ i l i,t̪/l/,2,5,1.5
+747,tilida,t̪ i l i d̪ a,t̪/l/d̪/,3,8,1.6666666666666667
+748,tilidan,t̪ i l i d̪ a n,t̪/l/d̪/n,3,9,1.5
+749,tilini,t̪ i l i n i,t̪/l/n/,3,7,1.3333333333333333
+750,tilshunos,t̪ i l ʃ u n ɒ s,t̪/lʃ/n/s,3,9,1.5
+751,tinch,t̪ i n t͡ʃ,t̪/nt͡ʃ,1,7,3
+752,tiqding-ku!,t̪ i q d̪ i ŋ k u,t̪/qd̪/ŋk/,3,10,2.3333333333333335
+753,tizimida,t̪ i z i m i d̪ a,t̪/z/m/d̪/,4,10,1.5
+754,tizimidan,t̪ i z i m i d̪ a n,t̪/z/m/d̪/n,4,11,1.4
+755,to,t̪ ɒ,t̪/,1,3,2
+756,to'g'risini,t̪ o ʁ r i s i n i,t̪/ʁr/s/n/,4,10,1.5
+757,to'liq,t̪ o l i q,t̪/l/q,2,6,1.3333333333333333
+758,to'p,t̪ o p,t̪/p,1,4,1.5
+759,to'plagan,t̪ o p l a ɡ a n,t̪/pl/ɡ/n,3,9,1.5
+760,to'q,t̪ o q,t̪/q,1,4,1.5
+761,to'qib,t̪ o q i b,t̪/q/b,2,6,1.3333333333333333
+762,to'qimachilik,t̪ o q i m a t͡ʃ i l i k,t̪/q/m/t͡ʃ/l/k,5,14,1.5
+763,to'rt,t̪ o r t̪,t̪/rt̪,1,6,2.5
+764,to'sib,t̪ o s i b,t̪/s/b,2,6,1.3333333333333333
+765,tog',t̪ ɒ ʁ,t̪/ʁ,1,4,1.5
+766,tomonidan,t̪ ɒ m ɒ n i d̪ a n,t̪/m/n/d̪/n,4,11,1.4
+767,tomonlarning,t̪ ɒ m ɒ n l a r n i ŋ,t̪/m/nl/rn/ŋ,4,12,1.6
+768,tomosha,t̪ ɒ m ɒ ʃ a,t̪/m/ʃ/,3,7,1.3333333333333333
+769,topadi.,t̪ ɒ p a d̪ i,t̪/p/d̪/,3,8,1.6666666666666667
+770,topganini,t̪ ɒ p ɡ a n i n i,t̪/pɡ/n/n/,4,10,1.5
+771,"topshirib,",t̪ ɒ p ʃ i r i b,t̪/pʃ/r/b,3,9,1.5
+772,toq,t̪ ɒ q,t̪/q,1,4,1.5
+773,toqati,t̪ ɒ q a t̪ i,t̪/q/t̪/,3,8,1.6666666666666667
+774,totli.,t̪ ɒ t̪ l i,t̪/t̪l/,2,7,2.5
+775,tovarlar,t̪ ɒ v a r l a r,t̪/v/rl/r,3,9,1.5
+776,tovog'ing,t̪ ɒ v ɒ ʁ i ŋ,t̪/v/ʁ/ŋ,3,8,1.25
+777,transportiga,t̪ r a n s p ɒ r t̪ i ɡ a,t̪r/nsp/rt̪/ɡ/,4,14,2.5
+778,tufayli,t̪ u ɸ a j l i,t̪/ɸ/jl/,3,8,1.6666666666666667
+779,tug'ma,t̪ u ʁ m a,t̪/ʁm/,2,6,2
+780,tuganmas,t̪ u ɡ a n m a s,t̪/ɡ/nm/s,3,9,1.5
+781,turdagi,t̪ u r d̪ a ɡ i,t̪/rd̪/ɡ/,3,9,2
+782,turgandim.,t̪ u r ɡ a n d̪ i m,t̪/rɡ/nd̪/m,3,11,2
+783,turibdi.,t̪ u r i b d̪ i,t̪/r/bd̪/,3,9,2
+784,turk,t̪ u r k,t̪/rk,1,5,2
+785,turlaridan,t̪ u r l a r i d̪ a n,t̪/rl/r/d̪/n,4,12,1.6
+786,turtib,t̪ u r t̪ i b,t̪/rt̪/b,2,8,2
+787,tushdi.,t̪ u ʃ d̪ i,t̪/ʃd̪/,2,7,2.5
+788,tushib,t̪ u ʃ i b,t̪/ʃ/b,2,6,1.3333333333333333
+789,"tushib,",t̪ u ʃ i b,t̪/ʃ/b,2,6,1.3333333333333333
+790,tushmaguncha,t̪ u ʃ m a ɡ u n t͡ʃ a,t̪/ʃm/ɡ/nt͡ʃ/,4,13,2.25
+791,tushunishadi,t̪ u ʃ u n i ʃ a d̪ i,t̪/ʃ/n/ʃ/d̪/,5,12,1.4
+792,tushuntirdim.,t̪ u ʃ u n t̪ i r d̪ i m,t̪/ʃ/nt̪/rd̪/m,4,14,2
+793,tushuntirib,t̪ u ʃ u n t̪ i r i b,t̪/ʃ/nt̪/r/b,4,12,1.6
+794,tutgandek,t̪ u t̪ ɡ a n d̪ e k,t̪/t̪ɡ/nd̪/k,3,12,2.25
+795,tuyg'ularingga,t̪ u j ʁ u l a r i ŋ ɡ a,t̪/jʁ/l/r/ŋɡ/,5,13,1.6
+796,tuzatganidami.,t̪ u z a t̪ ɡ a n i d̪ a m i,t̪/z/t̪ɡ/n/d̪/m/,6,16,1.6666666666666667
+797,u,u,/,1,1,N/A
+798,uchraydi.,u t͡ʃ r a j d̪ i,/t͡ʃr/jd̪/,3,10,3.5
+799,uchun,u t͡ʃ u n,/t͡ʃ/n,2,6,2
+800,"uchun,",u t͡ʃ u n,/t͡ʃ/n,2,6,2
+801,ukam!,u k a m,/k/m,2,4,1
+802,ular,u l a r,/l/r,2,4,1
+803,ularni,u l a r n i,/l/rn/,3,6,1.5
+804,ularning,u l a r n i ŋ,/l/rn/ŋ,3,7,1.3333333333333333
+805,ulug'vor,u l u ʁ v ɒ r,/l/ʁv/r,3,7,1.3333333333333333
+806,umid,u m i d̪,/m/d̪,2,5,1.5
+807,umumiy,u m u m i j,/m/m/j,3,6,1
+808,unday,u n d̪ a j,/nd̪/j,2,6,2
+809,uning,u n i ŋ,/n/ŋ,2,4,1
+810,ushbu,u ʃ b u,/ʃb/,2,4,2
+811,usta,u s t̪ a,/st̪/,2,5,3
+812,uyli-joyli,u j l i d͡ʒ ɒ j l i,/jl/d͡ʒ/jl/,4,11,2.3333333333333335
+813,uyni,u j n i,/jn/,2,4,2
+814,uyqu,u j q u,/jq/,2,4,2
+815,uyqusirab,u j q u s i r a b,/jq/s/r/b,4,9,1.25
+816,va,v a,v/,1,2,1
+817,vakillari,v a k i l l a r i,v/k/ll/r/,4,9,1.25
+818,vazifasi,v a z i ɸ a s i,v/z/ɸ/s/,4,8,1
+819,vaziyatni,v a z i j a t̪ n i,v/z/j/t̪n/,4,10,1.5
+820,vergul,v e r ɡ u l,v/rɡ/l,2,6,1.3333333333333333
+821,virusning,v i r u s n i ŋ,v/r/sn/ŋ,3,8,1.25
+822,viza,v i z a,v/z/,2,4,1
+823,xabar,χ a b a r,χ/b/r,2,5,1
+824,xabardor,χ a b a r d̪ ɒ r,χ/b/rd̪/r,3,9,1.5
+825,xalq,χ a l q,χ/lq,1,4,1.5
+826,xalqlar,χ a l q l a r,χ/lql/r,2,7,1.6666666666666667
+827,xastalik,χ a s t̪ a l i k,χ/st̪/l/k,3,9,1.5
+828,xato,χ a t̪ ɒ,χ/t̪/,2,5,1.5
+829,xato.,χ a t̪ ɒ,χ/t̪/,2,5,1.5
+830,xatolarga,χ a t̪ ɒ l a r ɡ a,χ/t̪/l/rɡ/,4,10,1.5
+831,xavfsizligi,χ a v ɸ s i z l i ɡ i,χ/vɸs/zl/ɡ/,4,11,1.75
+832,xayriya,χ a j r i j a,χ/jr/j/,3,7,1.3333333333333333
+833,xijolat,χ i d͡ʒ ɒ l a t̪,χ/d͡ʒ/l/t̪,3,10,1.75
+834,xildirlar.,χ i l d̪ i r l a r,χ/ld̪/rl/r,3,10,1.75
+835,xitoy,χ i t̪ ɒ j,χ/t̪/j,2,6,1.3333333333333333
+836,xitoyning,χ i t̪ ɒ j n i ŋ,χ/t̪/jn/ŋ,3,9,1.5
+837,xizmat,χ i z m a t̪,χ/zm/t̪,2,7,1.6666666666666667
+838,xizmatidan,χ i z m a t̪ i d̪ a n,χ/zm/t̪/d̪/n,4,12,1.6
+839,"xo'sh,",χ o ʃ,χ/ʃ,1,3,1
+840,xoqonligi,χ ɒ q ɒ n l i ɡ i,χ/q/nl/ɡ/,4,9,1.25
+841,xoqonligining,χ ɒ q ɒ n l i ɡ i n i ŋ,χ/q/nl/ɡ/n/ŋ,5,12,1.1666666666666667
+842,xorazm,χ ɒ r a z m,χ/r/zm,2,6,1.3333333333333333
+843,xos.,χ ɒ s,χ/s,1,3,1
+844,xudbin,χ u d̪ b i n,χ/d̪b/n,2,7,1.6666666666666667
+845,xufiyona,χ u ɸ i j ɒ n a,χ/ɸ/j/n/,4,8,1
+846,xunuk,χ u n u k,χ/n/k,2,5,1
+847,xurmo,χ u r m ɒ,χ/rm/,2,5,1.5
+848,ya'ni,j a ʔ n i,j/ʔn/,2,5,1.5
+849,yana,j a n a,j/n/,2,4,1
+850,yanada,j a n a d̪ a,j/n/d̪/,3,7,1.3333333333333333
+851,yaponiya,j a p ɒ n i j a,j/p/n/j/,4,8,1
+852,yarimorolidan,j a r i m ɒ r ɒ l i d̪ a n,j/r/m/r/l/d̪/n,6,14,1.1428571428571428
+853,yasalgan.,j a s a l ɡ a n,j/s/lɡ/n,3,8,1.25
+854,yashaydiganlar,j a ʃ a j d̪ i ɡ a n l a r,j/ʃ/jd̪/ɡ/nl/r,5,14,1.5
+855,yasovul,j a s ɒ v u l,j/s/v/l,3,7,1
+856,yaxshiroqmi,j a χ ʃ i r ɒ q m i,j/χʃ/r/qm/,4,10,1.5
+857,yegilari,j e ɡ i l a r i,j/ɡ/l/r/,4,8,1
+858,"yemirilishi,",j e m i r i l i ʃ i,j/m/r/l/ʃ/,5,10,1
+859,yer,j e r,j/r,1,3,1
+860,yerda,j e r d̪ a,j/rd̪/,2,6,2
+861,yerga,j e r ɡ a,j/rɡ/,2,5,1.5
+862,yerlarga,j e r l a r ɡ a,j/rl/rɡ/,3,8,1.6666666666666667
+863,yerosti,j e r ɒ s t̪ i,j/r/st̪/,3,8,1.6666666666666667
+864,yetgandi,j e t̪ ɡ a n d̪ i,j/t̪ɡ/nd̪/,3,10,2.3333333333333335
+865,"yetmayotgani,",j e t̪ m a j ɒ t̪ ɡ a n i,j/t̪m/j/t̪ɡ/n/,5,14,1.8
+866,yigit,j i ɡ i t̪,j/ɡ/t̪,2,6,1.3333333333333333
+867,yilda,j i l d̪ a,j/ld̪/,2,6,2
+868,yilgi,j i l ɡ i,j/lɡ/,2,5,1.5
+869,yo'l,j o l,j/l,1,3,1
+870,yo'l-yo'riqlari,j o l j o r i q l a r i,j/lj/r/ql/r/,5,12,1.4
+871,yo'lga,j o l ɡ a,j/lɡ/,2,5,1.5
+872,yo'q.,j o q,j/q,1,3,1
+873,yo'qolgandi,j o q ɒ l ɡ a n d̪ i,j/q/lɡ/nd̪/,4,11,1.75
+874,yoki,j ɒ k i,j/k/,2,4,1
+875,"yolg'on,",j ɒ l ʁ ɒ n,j/lʁ/n,2,6,1.3333333333333333
+876,yolg'ondan,j ɒ l ʁ ɒ n d̪ a n,j/lʁ/nd̪/n,3,10,1.75
+877,yomoni,j ɒ m ɒ n i,j/m/n/,3,6,1
+878,yoniga,j ɒ n i ɡ a,j/n/ɡ/,3,6,1
+879,yordam,j ɒ r d̪ a m,j/rd̪/m,2,7,1.6666666666666667
+880,yoriqqa,j ɒ r i q q a,j/r/qq/,3,7,1.3333333333333333
+881,yoritiladigan,j ɒ r i t̪ i l a d̪ i ɡ a n,j/r/t̪/l/d̪/ɡ/n,6,15,1.2857142857142858
+882,yoshi,j ɒ ʃ i,j/ʃ/,2,4,1
+883,yoshmi?,j ɒ ʃ m i,j/ʃm/,2,5,1.5
+884,yotadi.,j ɒ t̪ a d̪ i,j/t̪/d̪/,3,8,1.6666666666666667
+885,yozgan,j ɒ z ɡ a n,j/zɡ/n,2,6,1.3333333333333333
+886,yoziladi.,j ɒ z i l a d̪ i,j/z/l/d̪/,4,9,1.25
+887,yozilishi,j ɒ z i l i ʃ i,j/z/l/ʃ/,4,8,1
+888,yozilishning,j ɒ z i l i ʃ n i ŋ,j/z/l/ʃn/ŋ,4,10,1.2
+889,yozma,j ɒ z m a,j/zm/,2,5,1.5
+890,yuboradi.,j u b ɒ r a d̪ i,j/b/r/d̪/,4,9,1.25
+891,yuboradigan,j u b ɒ r a d̪ i ɡ a n,j/b/r/d̪/ɡ/n,5,12,1.1666666666666667
+892,yuborishi,j u b ɒ r i ʃ i,j/b/r/ʃ/,4,8,1
+893,"yuborsa,",j u b ɒ r s a,j/b/rs/,3,7,1.3333333333333333
+894,yuk,j u k,j/k,1,3,1
+895,yuksalgan.,j u k s a l ɡ a n,j/ks/lɡ/n,3,9,1.5
+896,yuqori,j u q ɒ r i,j/q/r/,3,6,1
+897,yuqori.,j u q ɒ r i,j/q/r/,3,6,1
+898,yuqoridagi,j u q ɒ r i d̪ a ɡ i,j/q/r/d̪/ɡ/,5,11,1.2
+899,yurishi,j u r i ʃ i,j/r/ʃ/,3,6,1
+900,yuz,j u z,j/z,1,3,1
+901,zaiflashib,z a i ɸ l a ʃ i b,z/ɸl/ʃ/b,3,9,1.25
+902,zarari,z a r a r i,z/r/r/,3,6,1
+903,zardushtiylik,z a r d̪ u ʃ t̪ i j l i k,z/rd̪/ʃt̪/jl/k,4,14,2
+904,zarurat,z a r u r a t̪,z/r/r/t̪,3,8,1.25
+905,zavodda,z a v ɒ d̪ d̪ a,z/v/d̪d̪/,3,9,2
+906,zebi,z e b i,z/b/,2,4,1
+907,zo'ravon,z o r a v ɒ n,z/r/v/n,3,7,1
+908,zo'ravonda,z o r a v ɒ n d̪ a,z/r/v/nd̪/,4,10,1.5
