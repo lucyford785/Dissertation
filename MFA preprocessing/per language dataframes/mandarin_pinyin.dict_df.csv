@@ -1,0 +1,2004 @@
+,Word,Transcription,Clusters,No. Syllables(Vowels),No.Phonemes,Mean cluster length
+0,a1,a1,/,1,1,N/A
+1,a2,a2,/,1,1,N/A
+2,a3,a3,/,1,1,N/A
+3,a4,a4,/,1,1,N/A
+4,a5,a5,/,1,1,N/A
+5,ai1,ai1,/,1,2,N/A
+6,ai2,ai2,/,1,2,N/A
+7,ai3,ai3,/,1,2,N/A
+8,ai4,ai4,/,1,2,N/A
+9,ai5,ai5,/,1,2,N/A
+10,an1,a1 n,/n,1,2,1
+11,an2,a2 n,/n,1,2,1
+12,an3,a3 n,/n,1,2,1
+13,an4,a4 n,/n,1,2,1
+14,an5,a5 n,/n,1,2,1
+15,ang1,a1 ng,/ng,1,3,2
+16,ang2,a2 ng,/ng,1,3,2
+17,ang3,a3 ng,/ng,1,3,2
+18,ang4,a4 ng,/ng,1,3,2
+19,ang5,a5 ng,/ng,1,3,2
+20,ao1,ao1,/,1,2,N/A
+21,ao2,ao2,/,1,2,N/A
+22,ao3,ao3,/,1,2,N/A
+23,ao4,ao4,/,1,2,N/A
+24,ao5,ao5,/,1,2,N/A
+25,ba1,b a1,b/,1,2,1
+26,ba2,b a2,b/,1,2,1
+27,ba3,b a3,b/,1,2,1
+28,ba4,b a4,b/,1,2,1
+29,ba5,b a5,b/,1,2,1
+30,bai1,b ai1,b/,1,3,1
+31,bai2,b ai2,b/,1,3,1
+32,bai3,b ai3,b/,1,3,1
+33,bai4,b ai4,b/,1,3,1
+34,bai5,b ai5,b/,1,3,1
+35,ban1,b a1 n,b/n,1,3,1
+36,ban2,b a2 n,b/n,1,3,1
+37,ban3,b a3 n,b/n,1,3,1
+38,ban4,b a4 n,b/n,1,3,1
+39,ban5,b a5 n,b/n,1,3,1
+40,bang1,b a1 ng,b/ng,1,4,1.5
+41,bang2,b a2 ng,b/ng,1,4,1.5
+42,bang3,b a3 ng,b/ng,1,4,1.5
+43,bang4,b a4 ng,b/ng,1,4,1.5
+44,bang5,b a5 ng,b/ng,1,4,1.5
+45,bao1,b ao1,b/,1,3,1
+46,bao2,b ao2,b/,1,3,1
+47,bao3,b ao3,b/,1,3,1
+48,bao4,b ao4,b/,1,3,1
+49,bao5,b ao5,b/,1,3,1
+50,bei1,b ei1,b/,1,3,1
+51,bei2,b ei2,b/,1,3,1
+52,bei3,b ei3,b/,1,3,1
+53,bei4,b ei4,b/,1,3,1
+54,ben1,b e1 n,b/n,1,3,1
+55,ben2,b e2 n,b/n,1,3,1
+56,ben3,b e3 n,b/n,1,3,1
+57,ben4,b e4 n,b/n,1,3,1
+58,ben5,b e5 n,b/n,1,3,1
+59,beng1,b e1 ng,b/ng,1,4,1.5
+60,beng2,b e2 ng,b/ng,1,4,1.5
+61,beng3,b e3 ng,b/ng,1,4,1.5
+62,beng4,b e4 ng,b/ng,1,4,1.5
+63,beng5,b e5 ng,b/ng,1,4,1.5
+64,bi1,b i1,b/,1,2,1
+65,bi2,b i2,b/,1,2,1
+66,bi3,b i3,b/,1,2,1
+67,bi4,b i4,b/,1,2,1
+68,bi5,b i5,b/,1,2,1
+69,bian1,b ia1 n,b/n,1,4,1
+70,bian2,b ia2 n,b/n,1,4,1
+71,bian3,b ia3 n,b/n,1,4,1
+72,bian4,b ia4 n,b/n,1,4,1
+73,bian5,b ia5 n,b/n,1,4,1
+74,biao1,b iao1,b/,1,4,1
+75,biao2,b iao2,b/,1,4,1
+76,biao3,b iao3,b/,1,4,1
+77,biao4,b iao4,b/,1,4,1
+78,bie1,b ie1,b/,1,3,1
+79,bie2,b ie2,b/,1,3,1
+80,bie3,b ie3,b/,1,3,1
+81,bie4,b ie4,b/,1,3,1
+82,bie5,b ie5,b/,1,3,1
+83,bin1,b i1 n,b/n,1,3,1
+84,bin2,b i2 n,b/n,1,3,1
+85,bin3,b i3 n,b/n,1,3,1
+86,bin4,b i4 n,b/n,1,3,1
+87,bin5,b i5 n,b/n,1,3,1
+88,bing1,b i1 ng,b/ng,1,4,1.5
+89,bing2,b i2 ng,b/ng,1,4,1.5
+90,bing3,b i3 ng,b/ng,1,4,1.5
+91,bing4,b i4 ng,b/ng,1,4,1.5
+92,bing5,b i5 ng,b/ng,1,4,1.5
+93,bo1,b o1,b/,1,2,1
+94,bo2,b o2,b/,1,2,1
+95,bo3,b o3,b/,1,2,1
+96,bo4,b o4,b/,1,2,1
+97,bo5,b o5,b/,1,2,1
+98,bu1,b u1,b/,1,2,1
+99,bu2,b u2,b/,1,2,1
+100,bu3,b u3,b/,1,2,1
+101,bu4,b u4,b/,1,2,1
+102,bu5,b u5,b/,1,2,1
+103,ca1,c a1,c/,1,2,1
+104,ca2,c a2,c/,1,2,1
+105,ca3,c a3,c/,1,2,1
+106,ca4,c a4,c/,1,2,1
+107,ca5,c a5,c/,1,2,1
+108,cai1,c ai1,c/,1,3,1
+109,cai2,c ai2,c/,1,3,1
+110,cai3,c ai3,c/,1,3,1
+111,cai4,c ai4,c/,1,3,1
+112,cai5,c ai5,c/,1,3,1
+113,can1,c a1 n,c/n,1,3,1
+114,can2,c a2 n,c/n,1,3,1
+115,can3,c a3 n,c/n,1,3,1
+116,can4,c a4 n,c/n,1,3,1
+117,can5,c a5 n,c/n,1,3,1
+118,cang1,c a1 ng,c/ng,1,4,1.5
+119,cang2,c a2 ng,c/ng,1,4,1.5
+120,cang3,c a3 ng,c/ng,1,4,1.5
+121,cang4,c a4 ng,c/ng,1,4,1.5
+122,cang5,c a5 ng,c/ng,1,4,1.5
+123,cao1,c ao1,c/,1,3,1
+124,cao2,c ao2,c/,1,3,1
+125,cao3,c ao3,c/,1,3,1
+126,cao4,c ao4,c/,1,3,1
+127,cao5,c ao5,c/,1,3,1
+128,ce1,c e1,c/,1,2,1
+129,ce2,c e2,c/,1,2,1
+130,ce3,c e3,c/,1,2,1
+131,ce4,c e4,c/,1,2,1
+132,ce5,c e5,c/,1,2,1
+133,cen1,c e1 n,c/n,1,3,1
+134,cen2,c e2 n,c/n,1,3,1
+135,cen3,c e3 n,c/n,1,3,1
+136,cen4,c e4 n,c/n,1,3,1
+137,cen5,c e5 n,c/n,1,3,1
+138,ceng1,c e1 ng,c/ng,1,4,1.5
+139,ceng2,c e2 ng,c/ng,1,4,1.5
+140,ceng3,c e3 ng,c/ng,1,4,1.5
+141,ceng4,c e4 ng,c/ng,1,4,1.5
+142,ceng5,c e5 ng,c/ng,1,4,1.5
+143,cha1,ch a1,ch/,1,3,2
+144,cha2,ch a2,ch/,1,3,2
+145,cha3,ch a3,ch/,1,3,2
+146,cha4,ch a4,ch/,1,3,2
+147,cha5,ch a5,ch/,1,3,2
+148,chai1,ch ai1,ch/,1,4,2
+149,chai2,ch ai2,ch/,1,4,2
+150,chai3,ch ai3,ch/,1,4,2
+151,chai4,ch ai4,ch/,1,4,2
+152,chai5,ch ai5,ch/,1,4,2
+153,chan1,ch a1 n,ch/n,1,4,1.5
+154,chan2,ch a2 n,ch/n,1,4,1.5
+155,chan3,ch a3 n,ch/n,1,4,1.5
+156,chan4,ch a4 n,ch/n,1,4,1.5
+157,chan5,ch a5 n,ch/n,1,4,1.5
+158,chang1,ch a1 ng,ch/ng,1,5,2
+159,chang2,ch a2 ng,ch/ng,1,5,2
+160,chang3,ch a3 ng,ch/ng,1,5,2
+161,chang4,ch a4 ng,ch/ng,1,5,2
+162,chang5,ch a5 ng,ch/ng,1,5,2
+163,chao1,ch ao1,ch/,1,4,2
+164,chao2,ch ao2,ch/,1,4,2
+165,chao3,ch ao3,ch/,1,4,2
+166,chao4,ch ao4,ch/,1,4,2
+167,chao5,ch ao5,ch/,1,4,2
+168,che1,ch e1,ch/,1,3,2
+169,che2,ch e2,ch/,1,3,2
+170,che3,ch e3,ch/,1,3,2
+171,che4,ch e4,ch/,1,3,2
+172,che5,ch e5,ch/,1,3,2
+173,chen1,ch e1 n,ch/n,1,4,1.5
+174,chen2,ch e2 n,ch/n,1,4,1.5
+175,chen3,ch e3 n,ch/n,1,4,1.5
+176,chen4,ch e4 n,ch/n,1,4,1.5
+177,chen5,ch e5 n,ch/n,1,4,1.5
+178,cheng1,ch e1 ng,ch/ng,1,5,2
+179,cheng2,ch e2 ng,ch/ng,1,5,2
+180,cheng3,ch e3 ng,ch/ng,1,5,2
+181,cheng4,ch e4 ng,ch/ng,1,5,2
+182,cheng5,ch e5 ng,ch/ng,1,5,2
+183,chi1,ch ii1,ch/,1,4,2
+184,chi2,ch ii2,ch/,1,4,2
+185,chi3,ch ii3,ch/,1,4,2
+186,chi4,ch ii4,ch/,1,4,2
+187,chi5,ch ii5,ch/,1,4,2
+188,chong1,ch o1 ng,ch/ng,1,5,2
+189,chong2,ch o2 ng,ch/ng,1,5,2
+190,chong3,ch o3 ng,ch/ng,1,5,2
+191,chong4,ch o4 ng,ch/ng,1,5,2
+192,chong5,ch o5 ng,ch/ng,1,5,2
+193,chou1,ch ou1,ch/,1,4,2
+194,chou2,ch ou2,ch/,1,4,2
+195,chou3,ch ou3,ch/,1,4,2
+196,chou4,ch ou4,ch/,1,4,2
+197,chou5,ch ou5,ch/,1,4,2
+198,chu1,ch u1,ch/,1,3,2
+199,chu2,ch u2,ch/,1,3,2
+200,chu3,ch u3,ch/,1,3,2
+201,chu4,ch u4,ch/,1,3,2
+202,chu5,ch u5,ch/,1,3,2
+203,chuai1,ch uai1,ch/,1,5,2
+204,chuai2,ch uai2,ch/,1,5,2
+205,chuai3,ch uai3,ch/,1,5,2
+206,chuai4,ch uai4,ch/,1,5,2
+207,chuan1,ch ua1 n,ch/n,1,5,1.5
+208,chuan2,ch ua2 n,ch/n,1,5,1.5
+209,chuan3,ch ua3 n,ch/n,1,5,1.5
+210,chuan4,ch ua4 n,ch/n,1,5,1.5
+211,chuan5,ch ua5 n,ch/n,1,5,1.5
+212,chuang1,ch ua1 ng,ch/ng,1,6,2
+213,chuang2,ch ua2 ng,ch/ng,1,6,2
+214,chuang3,ch ua3 ng,ch/ng,1,6,2
+215,chuang4,ch ua4 ng,ch/ng,1,6,2
+216,chuang5,ch ua5 ng,ch/ng,1,6,2
+217,chui1,ch uei1,ch/,1,5,2
+218,chui2,ch uei2,ch/,1,5,2
+219,chui3,ch uei3,ch/,1,5,2
+220,chui4,ch uei4,ch/,1,5,2
+221,chui5,ch uei5,ch/,1,5,2
+222,chun1,ch ue1 n,ch/n,1,5,1.5
+223,chun2,ch ue2 n,ch/n,1,5,1.5
+224,chun3,ch ue3 n,ch/n,1,5,1.5
+225,chun4,ch ue4 n,ch/n,1,5,1.5
+226,chun5,ch ue5 n,ch/n,1,5,1.5
+227,chuo1,ch uo1,ch/,1,4,2
+228,chuo2,ch uo2,ch/,1,4,2
+229,chuo3,ch uo3,ch/,1,4,2
+230,chuo4,ch uo4,ch/,1,4,2
+231,chuo5,ch uo5,ch/,1,4,2
+232,ci1,c ii1,c/,1,3,1
+233,ci2,c ii2,c/,1,3,1
+234,ci3,c ii3,c/,1,3,1
+235,ci4,c ii4,c/,1,3,1
+236,ci5,c ii5,c/,1,3,1
+237,cong1,c o1 ng,c/ng,1,4,1.5
+238,cong2,c o2 ng,c/ng,1,4,1.5
+239,cong3,c o3 ng,c/ng,1,4,1.5
+240,cong4,c o4 ng,c/ng,1,4,1.5
+241,cong5,c o5 ng,c/ng,1,4,1.5
+242,cou1,c ou1,c/,1,3,1
+243,cou2,c ou2,c/,1,3,1
+244,cou3,c ou3,c/,1,3,1
+245,cou4,c ou4,c/,1,3,1
+246,cou5,c ou5,c/,1,3,1
+247,cu1,c u1,c/,1,2,1
+248,cu2,c u2,c/,1,2,1
+249,cu3,c u3,c/,1,2,1
+250,cu4,c u4,c/,1,2,1
+251,cu5,c u5,c/,1,2,1
+252,cuan1,c ua1 n,c/n,1,4,1
+253,cuan2,c ua2 n,c/n,1,4,1
+254,cuan3,c ua3 n,c/n,1,4,1
+255,cuan4,c ua4 n,c/n,1,4,1
+256,cuan5,c ua5 n,c/n,1,4,1
+257,cui1,c uei1,c/,1,4,1
+258,cui2,c uei2,c/,1,4,1
+259,cui3,c uei3,c/,1,4,1
+260,cui4,c uei4,c/,1,4,1
+261,cui5,c uei5,c/,1,4,1
+262,cun1,c ue1 n,c/n,1,4,1
+263,cun2,c ue2 n,c/n,1,4,1
+264,cun3,c ue3 n,c/n,1,4,1
+265,cun4,c ue4 n,c/n,1,4,1
+266,cun5,c ue5 n,c/n,1,4,1
+267,cuo1,c uo1,c/,1,3,1
+268,cuo2,c uo2,c/,1,3,1
+269,cuo3,c uo3,c/,1,3,1
+270,cuo4,c uo4,c/,1,3,1
+271,cuo5,c uo5,c/,1,3,1
+272,da1,d a1,d/,1,2,1
+273,da2,d a2,d/,1,2,1
+274,da3,d a3,d/,1,2,1
+275,da4,d a4,d/,1,2,1
+276,da5,d a5,d/,1,2,1
+277,dai1,d ai1,d/,1,3,1
+278,dai2,d ai2,d/,1,3,1
+279,dai3,d ai3,d/,1,3,1
+280,dai4,d ai4,d/,1,3,1
+281,dai5,d ai5,d/,1,3,1
+282,dan1,d a1 n,d/n,1,3,1
+283,dan2,d a2 n,d/n,1,3,1
+284,dan3,d a3 n,d/n,1,3,1
+285,dan4,d a4 n,d/n,1,3,1
+286,dan5,d a5 n,d/n,1,3,1
+287,dang1,d a1 ng,d/ng,1,4,1.5
+288,dang2,d a2 ng,d/ng,1,4,1.5
+289,dang3,d a3 ng,d/ng,1,4,1.5
+290,dang4,d a4 ng,d/ng,1,4,1.5
+291,dang5,d a5 ng,d/ng,1,4,1.5
+292,dao1,d ao1,d/,1,3,1
+293,dao2,d ao2,d/,1,3,1
+294,dao3,d ao3,d/,1,3,1
+295,dao4,d ao4,d/,1,3,1
+296,dao5,d ao5,d/,1,3,1
+297,de1,d e1,d/,1,2,1
+298,de2,d e2,d/,1,2,1
+299,de3,d e3,d/,1,2,1
+300,de4,d e4,d/,1,2,1
+301,de5,d e5,d/,1,2,1
+302,dei1,d ei1,d/,1,3,1
+303,dei2,d ei2,d/,1,3,1
+304,dei3,d ei3,d/,1,3,1
+305,dei4,d ei4,d/,1,3,1
+306,den1,d e1 n,d/n,1,3,1
+307,den2,d e2 n,d/n,1,3,1
+308,den3,d e3 n,d/n,1,3,1
+309,den4,d e4 n,d/n,1,3,1
+310,den5,d e5 n,d/n,1,3,1
+311,deng1,d e1 ng,d/ng,1,4,1.5
+312,deng2,d e2 ng,d/ng,1,4,1.5
+313,deng3,d e3 ng,d/ng,1,4,1.5
+314,deng4,d e4 ng,d/ng,1,4,1.5
+315,deng5,d e5 ng,d/ng,1,4,1.5
+316,di1,d i1,d/,1,2,1
+317,di2,d i2,d/,1,2,1
+318,di3,d i3,d/,1,2,1
+319,di4,d i4,d/,1,2,1
+320,di5,d i5,d/,1,2,1
+321,dia1,d ia1,d/,1,3,1
+322,dia2,d ia2,d/,1,3,1
+323,dia3,d ia3,d/,1,3,1
+324,dia4,d ia4,d/,1,3,1
+325,dia5,d ia5,d/,1,3,1
+326,dian1,d ia1 n,d/n,1,4,1
+327,dian2,d ia2 n,d/n,1,4,1
+328,dian3,d ia3 n,d/n,1,4,1
+329,dian4,d ia4 n,d/n,1,4,1
+330,dian5,d ia5 n,d/n,1,4,1
+331,diao1,d iao1,d/,1,4,1
+332,diao2,d iao2,d/,1,4,1
+333,diao3,d iao3,d/,1,4,1
+334,diao4,d iao4,d/,1,4,1
+335,die1,d ie1,d/,1,3,1
+336,die2,d ie2,d/,1,3,1
+337,die3,d ie3,d/,1,3,1
+338,die4,d ie4,d/,1,3,1
+339,die5,d ie5,d/,1,3,1
+340,ding1,d i1 ng,d/ng,1,4,1.5
+341,ding2,d i2 ng,d/ng,1,4,1.5
+342,ding3,d i3 ng,d/ng,1,4,1.5
+343,ding4,d i4 ng,d/ng,1,4,1.5
+344,ding5,d i5 ng,d/ng,1,4,1.5
+345,diu1,d iou1,d/,1,4,1
+346,diu2,d iou2,d/,1,4,1
+347,diu3,d iou3,d/,1,4,1
+348,diu4,d iou4,d/,1,4,1
+349,dong1,d o1 ng,d/ng,1,4,1.5
+350,dong2,d o2 ng,d/ng,1,4,1.5
+351,dong3,d o3 ng,d/ng,1,4,1.5
+352,dong4,d o4 ng,d/ng,1,4,1.5
+353,dong5,d o5 ng,d/ng,1,4,1.5
+354,dou1,d ou1,d/,1,3,1
+355,dou2,d ou2,d/,1,3,1
+356,dou3,d ou3,d/,1,3,1
+357,dou4,d ou4,d/,1,3,1
+358,dou5,d ou5,d/,1,3,1
+359,du1,d u1,d/,1,2,1
+360,du2,d u2,d/,1,2,1
+361,du3,d u3,d/,1,2,1
+362,du4,d u4,d/,1,2,1
+363,du5,d u5,d/,1,2,1
+364,duan1,d ua1 n,d/n,1,4,1
+365,duan2,d ua2 n,d/n,1,4,1
+366,duan3,d ua3 n,d/n,1,4,1
+367,duan4,d ua4 n,d/n,1,4,1
+368,duan5,d ua5 n,d/n,1,4,1
+369,dui1,d uei1,d/,1,4,1
+370,dui2,d uei2,d/,1,4,1
+371,dui3,d uei3,d/,1,4,1
+372,dui4,d uei4,d/,1,4,1
+373,dui5,d uei5,d/,1,4,1
+374,dun1,d ue1 n,d/n,1,4,1
+375,dun2,d ue2 n,d/n,1,4,1
+376,dun3,d ue3 n,d/n,1,4,1
+377,dun4,d ue4 n,d/n,1,4,1
+378,dun5,d ue5 n,d/n,1,4,1
+379,duo1,d uo1,d/,1,3,1
+380,duo2,d uo2,d/,1,3,1
+381,duo3,d uo3,d/,1,3,1
+382,duo4,d uo4,d/,1,3,1
+383,duo5,d uo5,d/,1,3,1
+384,e1,e1,/,1,1,N/A
+385,e2,e2,/,1,1,N/A
+386,e3,e3,/,1,1,N/A
+387,e4,e4,/,1,1,N/A
+388,e5,e5,/,1,1,N/A
+389,ei1,ei1,/,1,2,N/A
+390,ei2,ei2,/,1,2,N/A
+391,ei3,ei3,/,1,2,N/A
+392,ei4,ei4,/,1,2,N/A
+393,en1,e1 n,/n,1,2,1
+394,en2,e2 n,/n,1,2,1
+395,en3,e3 n,/n,1,2,1
+396,en4,e4 n,/n,1,2,1
+397,en5,e5 n,/n,1,2,1
+398,eng1,e1 ng,/ng,1,3,2
+399,eng2,e2 ng,/ng,1,3,2
+400,eng3,e3 ng,/ng,1,3,2
+401,eng4,e4 ng,/ng,1,3,2
+402,eng5,e5 ng,/ng,1,3,2
+403,er1,e1 r,/r,1,2,1
+404,er2,e2 r,/r,1,2,1
+405,er3,e3 r,/r,1,2,1
+406,er4,e4 r,/r,1,2,1
+407,er5,e5 r,/r,1,2,1
+408,fa1,f a1,f/,1,2,1
+409,fa2,f a2,f/,1,2,1
+410,fa3,f a3,f/,1,2,1
+411,fa4,f a4,f/,1,2,1
+412,fa5,f a5,f/,1,2,1
+413,fan1,f a1 n,f/n,1,3,1
+414,fan2,f a2 n,f/n,1,3,1
+415,fan3,f a3 n,f/n,1,3,1
+416,fan4,f a4 n,f/n,1,3,1
+417,fan5,f a5 n,f/n,1,3,1
+418,fang1,f a1 ng,f/ng,1,4,1.5
+419,fang2,f a2 ng,f/ng,1,4,1.5
+420,fang3,f a3 ng,f/ng,1,4,1.5
+421,fang4,f a4 ng,f/ng,1,4,1.5
+422,fang5,f a5 ng,f/ng,1,4,1.5
+423,fei1,f ei1,f/,1,3,1
+424,fei2,f ei2,f/,1,3,1
+425,fei3,f ei3,f/,1,3,1
+426,fei4,f ei4,f/,1,3,1
+427,fen1,f e1 n,f/n,1,3,1
+428,fen2,f e2 n,f/n,1,3,1
+429,fen3,f e3 n,f/n,1,3,1
+430,fen4,f e4 n,f/n,1,3,1
+431,fen5,f e5 n,f/n,1,3,1
+432,feng1,f e1 ng,f/ng,1,4,1.5
+433,feng2,f e2 ng,f/ng,1,4,1.5
+434,feng3,f e3 ng,f/ng,1,4,1.5
+435,feng4,f e4 ng,f/ng,1,4,1.5
+436,feng5,f e5 ng,f/ng,1,4,1.5
+437,fo1,f o1,f/,1,2,1
+438,fo2,f o2,f/,1,2,1
+439,fo3,f o3,f/,1,2,1
+440,fo4,f o4,f/,1,2,1
+441,fo5,f o5,f/,1,2,1
+442,fou1,f ou1,f/,1,3,1
+443,fou2,f ou2,f/,1,3,1
+444,fou3,f ou3,f/,1,3,1
+445,fou4,f ou4,f/,1,3,1
+446,fou5,f ou5,f/,1,3,1
+447,fu1,f u1,f/,1,2,1
+448,fu2,f u2,f/,1,2,1
+449,fu3,f u3,f/,1,2,1
+450,fu4,f u4,f/,1,2,1
+451,fu5,f u5,f/,1,2,1
+452,ga1,g a1,g/,1,2,1
+453,ga2,g a2,g/,1,2,1
+454,ga3,g a3,g/,1,2,1
+455,ga4,g a4,g/,1,2,1
+456,ga5,g a5,g/,1,2,1
+457,gai1,g ai1,g/,1,3,1
+458,gai2,g ai2,g/,1,3,1
+459,gai3,g ai3,g/,1,3,1
+460,gai4,g ai4,g/,1,3,1
+461,gai5,g ai5,g/,1,3,1
+462,gan1,g a1 n,g/n,1,3,1
+463,gan2,g a2 n,g/n,1,3,1
+464,gan3,g a3 n,g/n,1,3,1
+465,gan4,g a4 n,g/n,1,3,1
+466,gan5,g a5 n,g/n,1,3,1
+467,gang1,g a1 ng,g/ng,1,4,1.5
+468,gang2,g a2 ng,g/ng,1,4,1.5
+469,gang3,g a3 ng,g/ng,1,4,1.5
+470,gang4,g a4 ng,g/ng,1,4,1.5
+471,gang5,g a5 ng,g/ng,1,4,1.5
+472,gao1,g ao1,g/,1,3,1
+473,gao2,g ao2,g/,1,3,1
+474,gao3,g ao3,g/,1,3,1
+475,gao4,g ao4,g/,1,3,1
+476,gao5,g ao5,g/,1,3,1
+477,ge1,g e1,g/,1,2,1
+478,ge2,g e2,g/,1,2,1
+479,ge3,g e3,g/,1,2,1
+480,ge4,g e4,g/,1,2,1
+481,ge5,g e5,g/,1,2,1
+482,gei1,g ei1,g/,1,3,1
+483,gei2,g ei2,g/,1,3,1
+484,gei3,g ei3,g/,1,3,1
+485,gei4,g ei4,g/,1,3,1
+486,gen1,g e1 n,g/n,1,3,1
+487,gen2,g e2 n,g/n,1,3,1
+488,gen3,g e3 n,g/n,1,3,1
+489,gen4,g e4 n,g/n,1,3,1
+490,gen5,g e5 n,g/n,1,3,1
+491,geng1,g e1 ng,g/ng,1,4,1.5
+492,geng2,g e2 ng,g/ng,1,4,1.5
+493,geng3,g e3 ng,g/ng,1,4,1.5
+494,geng4,g e4 ng,g/ng,1,4,1.5
+495,geng5,g e5 ng,g/ng,1,4,1.5
+496,gong1,g o1 ng,g/ng,1,4,1.5
+497,gong2,g o2 ng,g/ng,1,4,1.5
+498,gong3,g o3 ng,g/ng,1,4,1.5
+499,gong4,g o4 ng,g/ng,1,4,1.5
+500,gong5,g o5 ng,g/ng,1,4,1.5
+501,gou1,g ou1,g/,1,3,1
+502,gou2,g ou2,g/,1,3,1
+503,gou3,g ou3,g/,1,3,1
+504,gou4,g ou4,g/,1,3,1
+505,gou5,g ou5,g/,1,3,1
+506,gu1,g u1,g/,1,2,1
+507,gu2,g u2,g/,1,2,1
+508,gu3,g u3,g/,1,2,1
+509,gu4,g u4,g/,1,2,1
+510,gu5,g u5,g/,1,2,1
+511,gua1,g ua1,g/,1,3,1
+512,gua2,g ua2,g/,1,3,1
+513,gua3,g ua3,g/,1,3,1
+514,gua4,g ua4,g/,1,3,1
+515,gua5,g ua5,g/,1,3,1
+516,guai1,g uai1,g/,1,4,1
+517,guai2,g uai2,g/,1,4,1
+518,guai3,g uai3,g/,1,4,1
+519,guai4,g uai4,g/,1,4,1
+520,guan1,g ua1 n,g/n,1,4,1
+521,guan2,g ua2 n,g/n,1,4,1
+522,guan3,g ua3 n,g/n,1,4,1
+523,guan4,g ua4 n,g/n,1,4,1
+524,guan5,g ua5 n,g/n,1,4,1
+525,guang1,g ua1 ng,g/ng,1,5,1.5
+526,guang2,g ua2 ng,g/ng,1,5,1.5
+527,guang3,g ua3 ng,g/ng,1,5,1.5
+528,guang4,g ua4 ng,g/ng,1,5,1.5
+529,guang5,g ua5 ng,g/ng,1,5,1.5
+530,gui1,g uei1,g/,1,4,1
+531,gui2,g uei2,g/,1,4,1
+532,gui3,g uei3,g/,1,4,1
+533,gui4,g uei4,g/,1,4,1
+534,gui5,g uei5,g/,1,4,1
+535,gun1,g ue1 n,g/n,1,4,1
+536,gun2,g ue2 n,g/n,1,4,1
+537,gun3,g ue3 n,g/n,1,4,1
+538,gun4,g ue4 n,g/n,1,4,1
+539,gun5,g ue5 n,g/n,1,4,1
+540,guo1,g uo1,g/,1,3,1
+541,guo2,g uo2,g/,1,3,1
+542,guo3,g uo3,g/,1,3,1
+543,guo4,g uo4,g/,1,3,1
+544,guo5,g uo5,g/,1,3,1
+545,ha1,h a1,h/,1,2,1
+546,ha2,h a2,h/,1,2,1
+547,ha3,h a3,h/,1,2,1
+548,ha4,h a4,h/,1,2,1
+549,ha5,h a5,h/,1,2,1
+550,hai1,h ai1,h/,1,3,1
+551,hai2,h ai2,h/,1,3,1
+552,hai3,h ai3,h/,1,3,1
+553,hai4,h ai4,h/,1,3,1
+554,hai5,h ai5,h/,1,3,1
+555,han1,h a1 n,h/n,1,3,1
+556,han2,h a2 n,h/n,1,3,1
+557,han3,h a3 n,h/n,1,3,1
+558,han4,h a4 n,h/n,1,3,1
+559,han5,h a5 n,h/n,1,3,1
+560,hang1,h a1 ng,h/ng,1,4,1.5
+561,hang2,h a2 ng,h/ng,1,4,1.5
+562,hang3,h a3 ng,h/ng,1,4,1.5
+563,hang4,h a4 ng,h/ng,1,4,1.5
+564,hang5,h a5 ng,h/ng,1,4,1.5
+565,hao1,h ao1,h/,1,3,1
+566,hao2,h ao2,h/,1,3,1
+567,hao3,h ao3,h/,1,3,1
+568,hao4,h ao4,h/,1,3,1
+569,hao5,h ao5,h/,1,3,1
+570,he1,h e1,h/,1,2,1
+571,he2,h e2,h/,1,2,1
+572,he3,h e3,h/,1,2,1
+573,he4,h e4,h/,1,2,1
+574,he5,h e5,h/,1,2,1
+575,hei1,h ei1,h/,1,3,1
+576,hei2,h ei2,h/,1,3,1
+577,hei3,h ei3,h/,1,3,1
+578,hei4,h ei4,h/,1,3,1
+579,hen1,h e1 n,h/n,1,3,1
+580,hen2,h e2 n,h/n,1,3,1
+581,hen3,h e3 n,h/n,1,3,1
+582,hen4,h e4 n,h/n,1,3,1
+583,hen5,h e5 n,h/n,1,3,1
+584,heng1,h e1 ng,h/ng,1,4,1.5
+585,heng2,h e2 ng,h/ng,1,4,1.5
+586,heng3,h e3 ng,h/ng,1,4,1.5
+587,heng4,h e4 ng,h/ng,1,4,1.5
+588,heng5,h e5 ng,h/ng,1,4,1.5
+589,hong1,h o1 ng,h/ng,1,4,1.5
+590,hong2,h o2 ng,h/ng,1,4,1.5
+591,hong3,h o3 ng,h/ng,1,4,1.5
+592,hong4,h o4 ng,h/ng,1,4,1.5
+593,hong5,h o5 ng,h/ng,1,4,1.5
+594,hou1,h ou1,h/,1,3,1
+595,hou2,h ou2,h/,1,3,1
+596,hou3,h ou3,h/,1,3,1
+597,hou4,h ou4,h/,1,3,1
+598,hou5,h ou5,h/,1,3,1
+599,hu1,h u1,h/,1,2,1
+600,hu2,h u2,h/,1,2,1
+601,hu3,h u3,h/,1,2,1
+602,hu4,h u4,h/,1,2,1
+603,hu5,h u5,h/,1,2,1
+604,hua1,h ua1,h/,1,3,1
+605,hua2,h ua2,h/,1,3,1
+606,hua3,h ua3,h/,1,3,1
+607,hua4,h ua4,h/,1,3,1
+608,hua5,h ua5,h/,1,3,1
+609,huai1,h uai1,h/,1,4,1
+610,huai2,h uai2,h/,1,4,1
+611,huai3,h uai3,h/,1,4,1
+612,huai4,h uai4,h/,1,4,1
+613,huan1,h ua1 n,h/n,1,4,1
+614,huan2,h ua2 n,h/n,1,4,1
+615,huan3,h ua3 n,h/n,1,4,1
+616,huan4,h ua4 n,h/n,1,4,1
+617,huan5,h ua5 n,h/n,1,4,1
+618,huang1,h ua1 ng,h/ng,1,5,1.5
+619,huang2,h ua2 ng,h/ng,1,5,1.5
+620,huang3,h ua3 ng,h/ng,1,5,1.5
+621,huang4,h ua4 ng,h/ng,1,5,1.5
+622,huang5,h ua5 ng,h/ng,1,5,1.5
+623,hui1,h uei1,h/,1,4,1
+624,hui2,h uei2,h/,1,4,1
+625,hui3,h uei3,h/,1,4,1
+626,hui4,h uei4,h/,1,4,1
+627,hui5,h uei5,h/,1,4,1
+628,hun1,h ue1 n,h/n,1,4,1
+629,hun2,h ue2 n,h/n,1,4,1
+630,hun3,h ue3 n,h/n,1,4,1
+631,hun4,h ue4 n,h/n,1,4,1
+632,hun5,h ue5 n,h/n,1,4,1
+633,huo1,h uo1,h/,1,3,1
+634,huo2,h uo2,h/,1,3,1
+635,huo3,h uo3,h/,1,3,1
+636,huo4,h uo4,h/,1,3,1
+637,huo5,h uo5,h/,1,3,1
+638,ji1,j i1,j/,1,2,1
+639,ji2,j i2,j/,1,2,1
+640,ji3,j i3,j/,1,2,1
+641,ji4,j i4,j/,1,2,1
+642,ji5,j i5,j/,1,2,1
+643,jia1,j ia1,j/,1,3,1
+644,jia2,j ia2,j/,1,3,1
+645,jia3,j ia3,j/,1,3,1
+646,jia4,j ia4,j/,1,3,1
+647,jia5,j ia5,j/,1,3,1
+648,jian1,j ia1 n,j/n,1,4,1
+649,jian2,j ia2 n,j/n,1,4,1
+650,jian3,j ia3 n,j/n,1,4,1
+651,jian4,j ia4 n,j/n,1,4,1
+652,jian5,j ia5 n,j/n,1,4,1
+653,jiang1,j ia1 ng,j/ng,1,5,1.5
+654,jiang2,j ia2 ng,j/ng,1,5,1.5
+655,jiang3,j ia3 ng,j/ng,1,5,1.5
+656,jiang4,j ia4 ng,j/ng,1,5,1.5
+657,jiang5,j ia5 ng,j/ng,1,5,1.5
+658,jiao1,j iao1,j/,1,4,1
+659,jiao2,j iao2,j/,1,4,1
+660,jiao3,j iao3,j/,1,4,1
+661,jiao4,j iao4,j/,1,4,1
+662,jie1,j ie1,j/,1,3,1
+663,jie2,j ie2,j/,1,3,1
+664,jie3,j ie3,j/,1,3,1
+665,jie4,j ie4,j/,1,3,1
+666,jie5,j ie5,j/,1,3,1
+667,jin1,j i1 n,j/n,1,3,1
+668,jin2,j i2 n,j/n,1,3,1
+669,jin3,j i3 n,j/n,1,3,1
+670,jin4,j i4 n,j/n,1,3,1
+671,jin5,j i5 n,j/n,1,3,1
+672,jing1,j i1 ng,j/ng,1,4,1.5
+673,jing2,j i2 ng,j/ng,1,4,1.5
+674,jing3,j i3 ng,j/ng,1,4,1.5
+675,jing4,j i4 ng,j/ng,1,4,1.5
+676,jing5,j i5 ng,j/ng,1,4,1.5
+677,jiong1,j io1 ng,j/ng,1,5,1.5
+678,jiong2,j io2 ng,j/ng,1,5,1.5
+679,jiong3,j io3 ng,j/ng,1,5,1.5
+680,jiong4,j io4 ng,j/ng,1,5,1.5
+681,jiu1,j iou1,j/,1,4,1
+682,jiu2,j iou2,j/,1,4,1
+683,jiu3,j iou3,j/,1,4,1
+684,jiu4,j iou4,j/,1,4,1
+685,ju1,j v1,jv,0,2,2
+686,ju2,j v2,jv,0,2,2
+687,ju3,j v3,jv,0,2,2
+688,ju4,j v4,jv,0,2,2
+689,ju5,j v5,jv,0,2,2
+690,juan1,j va1 n,jv/n,1,4,1.5
+691,juan2,j va2 n,jv/n,1,4,1.5
+692,juan3,j va3 n,jv/n,1,4,1.5
+693,juan4,j va4 n,jv/n,1,4,1.5
+694,jue1,j ve1,jv/,1,3,2
+695,jue2,j ve2,jv/,1,3,2
+696,jue3,j ve3,jv/,1,3,2
+697,jue4,j ve4,jv/,1,3,2
+698,jun1,j v1 n,jvn,0,3,3
+699,jun2,j v2 n,jvn,0,3,3
+700,jun3,j v3 n,jvn,0,3,3
+701,jun4,j v4 n,jvn,0,3,3
+702,jun5,j v5 n,jvn,0,3,3
+703,ka1,k a1,k/,1,2,1
+704,ka2,k a2,k/,1,2,1
+705,ka3,k a3,k/,1,2,1
+706,ka4,k a4,k/,1,2,1
+707,ka5,k a5,k/,1,2,1
+708,kai1,k ai1,k/,1,3,1
+709,kai2,k ai2,k/,1,3,1
+710,kai3,k ai3,k/,1,3,1
+711,kai4,k ai4,k/,1,3,1
+712,kai5,k ai5,k/,1,3,1
+713,kan1,k a1 n,k/n,1,3,1
+714,kan2,k a2 n,k/n,1,3,1
+715,kan3,k a3 n,k/n,1,3,1
+716,kan4,k a4 n,k/n,1,3,1
+717,kan5,k a5 n,k/n,1,3,1
+718,kang1,k a1 ng,k/ng,1,4,1.5
+719,kang2,k a2 ng,k/ng,1,4,1.5
+720,kang3,k a3 ng,k/ng,1,4,1.5
+721,kang4,k a4 ng,k/ng,1,4,1.5
+722,kang5,k a5 ng,k/ng,1,4,1.5
+723,kao1,k ao1,k/,1,3,1
+724,kao2,k ao2,k/,1,3,1
+725,kao3,k ao3,k/,1,3,1
+726,kao4,k ao4,k/,1,3,1
+727,kao5,k ao5,k/,1,3,1
+728,ke1,k e1,k/,1,2,1
+729,ke2,k e2,k/,1,2,1
+730,ke3,k e3,k/,1,2,1
+731,ke4,k e4,k/,1,2,1
+732,ke5,k e5,k/,1,2,1
+733,kei1,k ei1,k/,1,3,1
+734,kei2,k ei2,k/,1,3,1
+735,kei3,k ei3,k/,1,3,1
+736,kei4,k ei4,k/,1,3,1
+737,ken1,k e1 n,k/n,1,3,1
+738,ken2,k e2 n,k/n,1,3,1
+739,ken3,k e3 n,k/n,1,3,1
+740,ken4,k e4 n,k/n,1,3,1
+741,ken5,k e5 n,k/n,1,3,1
+742,keng1,k e1 ng,k/ng,1,4,1.5
+743,keng2,k e2 ng,k/ng,1,4,1.5
+744,keng3,k e3 ng,k/ng,1,4,1.5
+745,keng4,k e4 ng,k/ng,1,4,1.5
+746,keng5,k e5 ng,k/ng,1,4,1.5
+747,kong1,k o1 ng,k/ng,1,4,1.5
+748,kong2,k o2 ng,k/ng,1,4,1.5
+749,kong3,k o3 ng,k/ng,1,4,1.5
+750,kong4,k o4 ng,k/ng,1,4,1.5
+751,kong5,k o5 ng,k/ng,1,4,1.5
+752,kou1,k ou1,k/,1,3,1
+753,kou2,k ou2,k/,1,3,1
+754,kou3,k ou3,k/,1,3,1
+755,kou4,k ou4,k/,1,3,1
+756,kou5,k ou5,k/,1,3,1
+757,ku1,k u1,k/,1,2,1
+758,ku2,k u2,k/,1,2,1
+759,ku3,k u3,k/,1,2,1
+760,ku4,k u4,k/,1,2,1
+761,ku5,k u5,k/,1,2,1
+762,kua1,k ua1,k/,1,3,1
+763,kua2,k ua2,k/,1,3,1
+764,kua3,k ua3,k/,1,3,1
+765,kua4,k ua4,k/,1,3,1
+766,kua5,k ua5,k/,1,3,1
+767,kuai1,k uai1,k/,1,4,1
+768,kuai2,k uai2,k/,1,4,1
+769,kuai3,k uai3,k/,1,4,1
+770,kuai4,k uai4,k/,1,4,1
+771,kuan1,k ua1 n,k/n,1,4,1
+772,kuan2,k ua2 n,k/n,1,4,1
+773,kuan3,k ua3 n,k/n,1,4,1
+774,kuan4,k ua4 n,k/n,1,4,1
+775,kuan5,k ua5 n,k/n,1,4,1
+776,kuang1,k ua1 ng,k/ng,1,5,1.5
+777,kuang2,k ua2 ng,k/ng,1,5,1.5
+778,kuang3,k ua3 ng,k/ng,1,5,1.5
+779,kuang4,k ua4 ng,k/ng,1,5,1.5
+780,kuang5,k ua5 ng,k/ng,1,5,1.5
+781,kui1,k uei1,k/,1,4,1
+782,kui2,k uei2,k/,1,4,1
+783,kui3,k uei3,k/,1,4,1
+784,kui4,k uei4,k/,1,4,1
+785,kui5,k uei5,k/,1,4,1
+786,kun1,k ue1 n,k/n,1,4,1
+787,kun2,k ue2 n,k/n,1,4,1
+788,kun3,k ue3 n,k/n,1,4,1
+789,kun4,k ue4 n,k/n,1,4,1
+790,kun5,k ue5 n,k/n,1,4,1
+791,kuo1,k uo1,k/,1,3,1
+792,kuo2,k uo2,k/,1,3,1
+793,kuo3,k uo3,k/,1,3,1
+794,kuo4,k uo4,k/,1,3,1
+795,kuo5,k uo5,k/,1,3,1
+796,la1,l a1,l/,1,2,1
+797,la2,l a2,l/,1,2,1
+798,la3,l a3,l/,1,2,1
+799,la4,l a4,l/,1,2,1
+800,la5,l a5,l/,1,2,1
+801,lai1,l ai1,l/,1,3,1
+802,lai2,l ai2,l/,1,3,1
+803,lai3,l ai3,l/,1,3,1
+804,lai4,l ai4,l/,1,3,1
+805,lai5,l ai5,l/,1,3,1
+806,lan1,l a1 n,l/n,1,3,1
+807,lan2,l a2 n,l/n,1,3,1
+808,lan3,l a3 n,l/n,1,3,1
+809,lan4,l a4 n,l/n,1,3,1
+810,lan5,l a5 n,l/n,1,3,1
+811,lang1,l a1 ng,l/ng,1,4,1.5
+812,lang2,l a2 ng,l/ng,1,4,1.5
+813,lang3,l a3 ng,l/ng,1,4,1.5
+814,lang4,l a4 ng,l/ng,1,4,1.5
+815,lang5,l a5 ng,l/ng,1,4,1.5
+816,lao1,l ao1,l/,1,3,1
+817,lao2,l ao2,l/,1,3,1
+818,lao3,l ao3,l/,1,3,1
+819,lao4,l ao4,l/,1,3,1
+820,lao5,l ao5,l/,1,3,1
+821,le1,l e1,l/,1,2,1
+822,le2,l e2,l/,1,2,1
+823,le3,l e3,l/,1,2,1
+824,le4,l e4,l/,1,2,1
+825,le5,l e5,l/,1,2,1
+826,lei1,l ei1,l/,1,3,1
+827,lei2,l ei2,l/,1,3,1
+828,lei3,l ei3,l/,1,3,1
+829,lei4,l ei4,l/,1,3,1
+830,leng1,l e1 ng,l/ng,1,4,1.5
+831,leng2,l e2 ng,l/ng,1,4,1.5
+832,leng3,l e3 ng,l/ng,1,4,1.5
+833,leng4,l e4 ng,l/ng,1,4,1.5
+834,leng5,l e5 ng,l/ng,1,4,1.5
+835,li1,l i1,l/,1,2,1
+836,li2,l i2,l/,1,2,1
+837,li3,l i3,l/,1,2,1
+838,li4,l i4,l/,1,2,1
+839,li5,l i5,l/,1,2,1
+840,lia1,l ia1,l/,1,3,1
+841,lia2,l ia2,l/,1,3,1
+842,lia3,l ia3,l/,1,3,1
+843,lia4,l ia4,l/,1,3,1
+844,lia5,l ia5,l/,1,3,1
+845,lian1,l ia1 n,l/n,1,4,1
+846,lian2,l ia2 n,l/n,1,4,1
+847,lian3,l ia3 n,l/n,1,4,1
+848,lian4,l ia4 n,l/n,1,4,1
+849,lian5,l ia5 n,l/n,1,4,1
+850,liang1,l ia1 ng,l/ng,1,5,1.5
+851,liang2,l ia2 ng,l/ng,1,5,1.5
+852,liang3,l ia3 ng,l/ng,1,5,1.5
+853,liang4,l ia4 ng,l/ng,1,5,1.5
+854,liang5,l ia5 ng,l/ng,1,5,1.5
+855,liao1,l iao1,l/,1,4,1
+856,liao2,l iao2,l/,1,4,1
+857,liao3,l iao3,l/,1,4,1
+858,liao4,l iao4,l/,1,4,1
+859,lie1,l ie1,l/,1,3,1
+860,lie2,l ie2,l/,1,3,1
+861,lie3,l ie3,l/,1,3,1
+862,lie4,l ie4,l/,1,3,1
+863,lie5,l ie5,l/,1,3,1
+864,lin1,l i1 n,l/n,1,3,1
+865,lin2,l i2 n,l/n,1,3,1
+866,lin3,l i3 n,l/n,1,3,1
+867,lin4,l i4 n,l/n,1,3,1
+868,lin5,l i5 n,l/n,1,3,1
+869,ling1,l i1 ng,l/ng,1,4,1.5
+870,ling2,l i2 ng,l/ng,1,4,1.5
+871,ling3,l i3 ng,l/ng,1,4,1.5
+872,ling4,l i4 ng,l/ng,1,4,1.5
+873,ling5,l i5 ng,l/ng,1,4,1.5
+874,liu1,l iou1,l/,1,4,1
+875,liu2,l iou2,l/,1,4,1
+876,liu3,l iou3,l/,1,4,1
+877,liu4,l iou4,l/,1,4,1
+878,lo1,l o1,l/,1,2,1
+879,lo2,l o2,l/,1,2,1
+880,lo3,l o3,l/,1,2,1
+881,lo4,l o4,l/,1,2,1
+882,lo5,l o5,l/,1,2,1
+883,long1,l o1 ng,l/ng,1,4,1.5
+884,long2,l o2 ng,l/ng,1,4,1.5
+885,long3,l o3 ng,l/ng,1,4,1.5
+886,long4,l o4 ng,l/ng,1,4,1.5
+887,long5,l o5 ng,l/ng,1,4,1.5
+888,lou1,l ou1,l/,1,3,1
+889,lou2,l ou2,l/,1,3,1
+890,lou3,l ou3,l/,1,3,1
+891,lou4,l ou4,l/,1,3,1
+892,lou5,l ou5,l/,1,3,1
+893,lu1,l u1,l/,1,2,1
+894,lu2,l u2,l/,1,2,1
+895,lu3,l u3,l/,1,2,1
+896,lu4,l u4,l/,1,2,1
+897,lu5,l u5,l/,1,2,1
+898,luan1,l ua1 n,l/n,1,4,1
+899,luan2,l ua2 n,l/n,1,4,1
+900,luan3,l ua3 n,l/n,1,4,1
+901,luan4,l ua4 n,l/n,1,4,1
+902,luan5,l ua5 n,l/n,1,4,1
+903,lue1,l ve1,lv/,1,3,2
+904,lue2,l ve2,lv/,1,3,2
+905,lue3,l ve3,lv/,1,3,2
+906,lue4,l ve4,lv/,1,3,2
+907,lun1,l ue1 n,l/n,1,4,1
+908,lun2,l ue2 n,l/n,1,4,1
+909,lun3,l ue3 n,l/n,1,4,1
+910,lun4,l ue4 n,l/n,1,4,1
+911,lun5,l ue5 n,l/n,1,4,1
+912,luo1,l uo1,l/,1,3,1
+913,luo2,l uo2,l/,1,3,1
+914,luo3,l uo3,l/,1,3,1
+915,luo4,l uo4,l/,1,3,1
+916,luo5,l uo5,l/,1,3,1
+917,lv1,l v1,lv,0,2,2
+918,lv2,l v2,lv,0,2,2
+919,lv3,l v3,lv,0,2,2
+920,lv4,l v4,lv,0,2,2
+921,lv5,l v5,lv,0,2,2
+922,lve1,l ve1,lv/,1,3,2
+923,lve2,l ve2,lv/,1,3,2
+924,lve3,l ve3,lv/,1,3,2
+925,lve4,l ve4,lv/,1,3,2
+926,ma1,m a1,m/,1,2,1
+927,ma2,m a2,m/,1,2,1
+928,ma3,m a3,m/,1,2,1
+929,ma4,m a4,m/,1,2,1
+930,ma5,m a5,m/,1,2,1
+931,mai1,m ai1,m/,1,3,1
+932,mai2,m ai2,m/,1,3,1
+933,mai3,m ai3,m/,1,3,1
+934,mai4,m ai4,m/,1,3,1
+935,mai5,m ai5,m/,1,3,1
+936,man1,m a1 n,m/n,1,3,1
+937,man2,m a2 n,m/n,1,3,1
+938,man3,m a3 n,m/n,1,3,1
+939,man4,m a4 n,m/n,1,3,1
+940,man5,m a5 n,m/n,1,3,1
+941,mang1,m a1 ng,m/ng,1,4,1.5
+942,mang2,m a2 ng,m/ng,1,4,1.5
+943,mang3,m a3 ng,m/ng,1,4,1.5
+944,mang4,m a4 ng,m/ng,1,4,1.5
+945,mang5,m a5 ng,m/ng,1,4,1.5
+946,mao1,m ao1,m/,1,3,1
+947,mao2,m ao2,m/,1,3,1
+948,mao3,m ao3,m/,1,3,1
+949,mao4,m ao4,m/,1,3,1
+950,mao5,m ao5,m/,1,3,1
+951,me1,m e1,m/,1,2,1
+952,me2,m e2,m/,1,2,1
+953,me3,m e3,m/,1,2,1
+954,me4,m e4,m/,1,2,1
+955,me5,m e5,m/,1,2,1
+956,mei1,m ei1,m/,1,3,1
+957,mei2,m ei2,m/,1,3,1
+958,mei3,m ei3,m/,1,3,1
+959,mei4,m ei4,m/,1,3,1
+960,men1,m e1 n,m/n,1,3,1
+961,men2,m e2 n,m/n,1,3,1
+962,men3,m e3 n,m/n,1,3,1
+963,men4,m e4 n,m/n,1,3,1
+964,men5,m e5 n,m/n,1,3,1
+965,meng1,m e1 ng,m/ng,1,4,1.5
+966,meng2,m e2 ng,m/ng,1,4,1.5
+967,meng3,m e3 ng,m/ng,1,4,1.5
+968,meng4,m e4 ng,m/ng,1,4,1.5
+969,meng5,m e5 ng,m/ng,1,4,1.5
+970,mi1,m i1,m/,1,2,1
+971,mi2,m i2,m/,1,2,1
+972,mi3,m i3,m/,1,2,1
+973,mi4,m i4,m/,1,2,1
+974,mi5,m i5,m/,1,2,1
+975,mian1,m ia1 n,m/n,1,4,1
+976,mian2,m ia2 n,m/n,1,4,1
+977,mian3,m ia3 n,m/n,1,4,1
+978,mian4,m ia4 n,m/n,1,4,1
+979,mian5,m ia5 n,m/n,1,4,1
+980,miao1,m iao1,m/,1,4,1
+981,miao2,m iao2,m/,1,4,1
+982,miao3,m iao3,m/,1,4,1
+983,miao4,m iao4,m/,1,4,1
+984,mie1,m ie1,m/,1,3,1
+985,mie2,m ie2,m/,1,3,1
+986,mie3,m ie3,m/,1,3,1
+987,mie4,m ie4,m/,1,3,1
+988,mie5,m ie5,m/,1,3,1
+989,min1,m i1 n,m/n,1,3,1
+990,min2,m i2 n,m/n,1,3,1
+991,min3,m i3 n,m/n,1,3,1
+992,min4,m i4 n,m/n,1,3,1
+993,min5,m i5 n,m/n,1,3,1
+994,ming1,m i1 ng,m/ng,1,4,1.5
+995,ming2,m i2 ng,m/ng,1,4,1.5
+996,ming3,m i3 ng,m/ng,1,4,1.5
+997,ming4,m i4 ng,m/ng,1,4,1.5
+998,ming5,m i5 ng,m/ng,1,4,1.5
+999,miu1,m iou1,m/,1,4,1
+1000,miu2,m iou2,m/,1,4,1
+1001,miu3,m iou3,m/,1,4,1
+1002,miu4,m iou4,m/,1,4,1
+1003,mo1,m o1,m/,1,2,1
+1004,mo2,m o2,m/,1,2,1
+1005,mo3,m o3,m/,1,2,1
+1006,mo4,m o4,m/,1,2,1
+1007,mo5,m o5,m/,1,2,1
+1008,mou1,m ou1,m/,1,3,1
+1009,mou2,m ou2,m/,1,3,1
+1010,mou3,m ou3,m/,1,3,1
+1011,mou4,m ou4,m/,1,3,1
+1012,mou5,m ou5,m/,1,3,1
+1013,mu1,m u1,m/,1,2,1
+1014,mu2,m u2,m/,1,2,1
+1015,mu3,m u3,m/,1,2,1
+1016,mu4,m u4,m/,1,2,1
+1017,mu5,m u5,m/,1,2,1
+1018,na1,n a1,n/,1,2,1
+1019,na2,n a2,n/,1,2,1
+1020,na3,n a3,n/,1,2,1
+1021,na4,n a4,n/,1,2,1
+1022,na5,n a5,n/,1,2,1
+1023,nai1,n ai1,n/,1,3,1
+1024,nai2,n ai2,n/,1,3,1
+1025,nai3,n ai3,n/,1,3,1
+1026,nai4,n ai4,n/,1,3,1
+1027,nai5,n ai5,n/,1,3,1
+1028,nan1,n a1 n,n/n,1,3,1
+1029,nan2,n a2 n,n/n,1,3,1
+1030,nan3,n a3 n,n/n,1,3,1
+1031,nan4,n a4 n,n/n,1,3,1
+1032,nan5,n a5 n,n/n,1,3,1
+1033,nang1,n a1 ng,n/ng,1,4,1.5
+1034,nang2,n a2 ng,n/ng,1,4,1.5
+1035,nang3,n a3 ng,n/ng,1,4,1.5
+1036,nang4,n a4 ng,n/ng,1,4,1.5
+1037,nang5,n a5 ng,n/ng,1,4,1.5
+1038,nao1,n ao1,n/,1,3,1
+1039,nao2,n ao2,n/,1,3,1
+1040,nao3,n ao3,n/,1,3,1
+1041,nao4,n ao4,n/,1,3,1
+1042,nao5,n ao5,n/,1,3,1
+1043,ne1,n e1,n/,1,2,1
+1044,ne2,n e2,n/,1,2,1
+1045,ne3,n e3,n/,1,2,1
+1046,ne4,n e4,n/,1,2,1
+1047,ne5,n e5,n/,1,2,1
+1048,nei1,n ei1,n/,1,3,1
+1049,nei2,n ei2,n/,1,3,1
+1050,nei3,n ei3,n/,1,3,1
+1051,nei4,n ei4,n/,1,3,1
+1052,nen1,n e1 n,n/n,1,3,1
+1053,nen2,n e2 n,n/n,1,3,1
+1054,nen3,n e3 n,n/n,1,3,1
+1055,nen4,n e4 n,n/n,1,3,1
+1056,nen5,n e5 n,n/n,1,3,1
+1057,neng1,n e1 ng,n/ng,1,4,1.5
+1058,neng2,n e2 ng,n/ng,1,4,1.5
+1059,neng3,n e3 ng,n/ng,1,4,1.5
+1060,neng4,n e4 ng,n/ng,1,4,1.5
+1061,neng5,n e5 ng,n/ng,1,4,1.5
+1062,ni1,n i1,n/,1,2,1
+1063,ni2,n i2,n/,1,2,1
+1064,ni3,n i3,n/,1,2,1
+1065,ni4,n i4,n/,1,2,1
+1066,ni5,n i5,n/,1,2,1
+1067,nian1,n ia1 n,n/n,1,4,1
+1068,nian2,n ia2 n,n/n,1,4,1
+1069,nian3,n ia3 n,n/n,1,4,1
+1070,nian4,n ia4 n,n/n,1,4,1
+1071,nian5,n ia5 n,n/n,1,4,1
+1072,niang1,n ia1 ng,n/ng,1,5,1.5
+1073,niang2,n ia2 ng,n/ng,1,5,1.5
+1074,niang3,n ia3 ng,n/ng,1,5,1.5
+1075,niang4,n ia4 ng,n/ng,1,5,1.5
+1076,niang5,n ia5 ng,n/ng,1,5,1.5
+1077,niao1,n iao1,n/,1,4,1
+1078,niao2,n iao2,n/,1,4,1
+1079,niao3,n iao3,n/,1,4,1
+1080,niao4,n iao4,n/,1,4,1
+1081,nie1,n ie1,n/,1,3,1
+1082,nie2,n ie2,n/,1,3,1
+1083,nie3,n ie3,n/,1,3,1
+1084,nie4,n ie4,n/,1,3,1
+1085,nie5,n ie5,n/,1,3,1
+1086,nin1,n i1 n,n/n,1,3,1
+1087,nin2,n i2 n,n/n,1,3,1
+1088,nin3,n i3 n,n/n,1,3,1
+1089,nin4,n i4 n,n/n,1,3,1
+1090,nin5,n i5 n,n/n,1,3,1
+1091,ning1,n i1 ng,n/ng,1,4,1.5
+1092,ning2,n i2 ng,n/ng,1,4,1.5
+1093,ning3,n i3 ng,n/ng,1,4,1.5
+1094,ning4,n i4 ng,n/ng,1,4,1.5
+1095,ning5,n i5 ng,n/ng,1,4,1.5
+1096,niu1,n iou1,n/,1,4,1
+1097,niu2,n iou2,n/,1,4,1
+1098,niu3,n iou3,n/,1,4,1
+1099,niu4,n iou4,n/,1,4,1
+1100,nong1,n o1 ng,n/ng,1,4,1.5
+1101,nong2,n o2 ng,n/ng,1,4,1.5
+1102,nong3,n o3 ng,n/ng,1,4,1.5
+1103,nong4,n o4 ng,n/ng,1,4,1.5
+1104,nong5,n o5 ng,n/ng,1,4,1.5
+1105,nou1,n ou1,n/,1,3,1
+1106,nou2,n ou2,n/,1,3,1
+1107,nou3,n ou3,n/,1,3,1
+1108,nou4,n ou4,n/,1,3,1
+1109,nou5,n ou5,n/,1,3,1
+1110,nu1,n u1,n/,1,2,1
+1111,nu2,n u2,n/,1,2,1
+1112,nu3,n u3,n/,1,2,1
+1113,nu4,n u4,n/,1,2,1
+1114,nu5,n u5,n/,1,2,1
+1115,nuan1,n ua1 n,n/n,1,4,1
+1116,nuan2,n ua2 n,n/n,1,4,1
+1117,nuan3,n ua3 n,n/n,1,4,1
+1118,nuan4,n ua4 n,n/n,1,4,1
+1119,nuan5,n ua5 n,n/n,1,4,1
+1120,nue1,n ve1,nv/,1,3,2
+1121,nue2,n ve2,nv/,1,3,2
+1122,nue3,n ve3,nv/,1,3,2
+1123,nue4,n ve4,nv/,1,3,2
+1124,nuo1,n uo1,n/,1,3,1
+1125,nuo2,n uo2,n/,1,3,1
+1126,nuo3,n uo3,n/,1,3,1
+1127,nuo4,n uo4,n/,1,3,1
+1128,nuo5,n uo5,n/,1,3,1
+1129,nv1,n v1,nv,0,2,2
+1130,nv2,n v2,nv,0,2,2
+1131,nv3,n v3,nv,0,2,2
+1132,nv4,n v4,nv,0,2,2
+1133,nv5,n v5,nv,0,2,2
+1134,o1,o1,/,1,1,N/A
+1135,o2,o2,/,1,1,N/A
+1136,o3,o3,/,1,1,N/A
+1137,o4,o4,/,1,1,N/A
+1138,o5,o5,/,1,1,N/A
+1139,ou1,ou1,/,1,2,N/A
+1140,ou2,ou2,/,1,2,N/A
+1141,ou3,ou3,/,1,2,N/A
+1142,ou4,ou4,/,1,2,N/A
+1143,ou5,ou5,/,1,2,N/A
+1144,pa1,p a1,p/,1,2,1
+1145,pa2,p a2,p/,1,2,1
+1146,pa3,p a3,p/,1,2,1
+1147,pa4,p a4,p/,1,2,1
+1148,pa5,p a5,p/,1,2,1
+1149,pai1,p ai1,p/,1,3,1
+1150,pai2,p ai2,p/,1,3,1
+1151,pai3,p ai3,p/,1,3,1
+1152,pai4,p ai4,p/,1,3,1
+1153,pai5,p ai5,p/,1,3,1
+1154,pan1,p a1 n,p/n,1,3,1
+1155,pan2,p a2 n,p/n,1,3,1
+1156,pan3,p a3 n,p/n,1,3,1
+1157,pan4,p a4 n,p/n,1,3,1
+1158,pan5,p a5 n,p/n,1,3,1
+1159,pang1,p a1 ng,p/ng,1,4,1.5
+1160,pang2,p a2 ng,p/ng,1,4,1.5
+1161,pang3,p a3 ng,p/ng,1,4,1.5
+1162,pang4,p a4 ng,p/ng,1,4,1.5
+1163,pang5,p a5 ng,p/ng,1,4,1.5
+1164,pao1,p ao1,p/,1,3,1
+1165,pao2,p ao2,p/,1,3,1
+1166,pao3,p ao3,p/,1,3,1
+1167,pao4,p ao4,p/,1,3,1
+1168,pao5,p ao5,p/,1,3,1
+1169,pei1,p ei1,p/,1,3,1
+1170,pei2,p ei2,p/,1,3,1
+1171,pei3,p ei3,p/,1,3,1
+1172,pei4,p ei4,p/,1,3,1
+1173,pen1,p e1 n,p/n,1,3,1
+1174,pen2,p e2 n,p/n,1,3,1
+1175,pen3,p e3 n,p/n,1,3,1
+1176,pen4,p e4 n,p/n,1,3,1
+1177,pen5,p e5 n,p/n,1,3,1
+1178,peng1,p e1 ng,p/ng,1,4,1.5
+1179,peng2,p e2 ng,p/ng,1,4,1.5
+1180,peng3,p e3 ng,p/ng,1,4,1.5
+1181,peng4,p e4 ng,p/ng,1,4,1.5
+1182,peng5,p e5 ng,p/ng,1,4,1.5
+1183,pi1,p i1,p/,1,2,1
+1184,pi2,p i2,p/,1,2,1
+1185,pi3,p i3,p/,1,2,1
+1186,pi4,p i4,p/,1,2,1
+1187,pi5,p i5,p/,1,2,1
+1188,pian1,p ia1 n,p/n,1,4,1
+1189,pian2,p ia2 n,p/n,1,4,1
+1190,pian3,p ia3 n,p/n,1,4,1
+1191,pian4,p ia4 n,p/n,1,4,1
+1192,pian5,p ia5 n,p/n,1,4,1
+1193,piao1,p iao1,p/,1,4,1
+1194,piao2,p iao2,p/,1,4,1
+1195,piao3,p iao3,p/,1,4,1
+1196,piao4,p iao4,p/,1,4,1
+1197,pie1,p ie1,p/,1,3,1
+1198,pie2,p ie2,p/,1,3,1
+1199,pie3,p ie3,p/,1,3,1
+1200,pie4,p ie4,p/,1,3,1
+1201,pie5,p ie5,p/,1,3,1
+1202,pin1,p i1 n,p/n,1,3,1
+1203,pin2,p i2 n,p/n,1,3,1
+1204,pin3,p i3 n,p/n,1,3,1
+1205,pin4,p i4 n,p/n,1,3,1
+1206,pin5,p i5 n,p/n,1,3,1
+1207,ping1,p i1 ng,p/ng,1,4,1.5
+1208,ping2,p i2 ng,p/ng,1,4,1.5
+1209,ping3,p i3 ng,p/ng,1,4,1.5
+1210,ping4,p i4 ng,p/ng,1,4,1.5
+1211,ping5,p i5 ng,p/ng,1,4,1.5
+1212,po1,p o1,p/,1,2,1
+1213,po2,p o2,p/,1,2,1
+1214,po3,p o3,p/,1,2,1
+1215,po4,p o4,p/,1,2,1
+1216,po5,p o5,p/,1,2,1
+1217,pou1,p ou1,p/,1,3,1
+1218,pou2,p ou2,p/,1,3,1
+1219,pou3,p ou3,p/,1,3,1
+1220,pou4,p ou4,p/,1,3,1
+1221,pou5,p ou5,p/,1,3,1
+1222,pu1,p u1,p/,1,2,1
+1223,pu2,p u2,p/,1,2,1
+1224,pu3,p u3,p/,1,2,1
+1225,pu4,p u4,p/,1,2,1
+1226,pu5,p u5,p/,1,2,1
+1227,qi1,q i1,q/,1,2,1
+1228,qi2,q i2,q/,1,2,1
+1229,qi3,q i3,q/,1,2,1
+1230,qi4,q i4,q/,1,2,1
+1231,qi5,q i5,q/,1,2,1
+1232,qia1,q ia1,q/,1,3,1
+1233,qia2,q ia2,q/,1,3,1
+1234,qia3,q ia3,q/,1,3,1
+1235,qia4,q ia4,q/,1,3,1
+1236,qia5,q ia5,q/,1,3,1
+1237,qian1,q ia1 n,q/n,1,4,1
+1238,qian2,q ia2 n,q/n,1,4,1
+1239,qian3,q ia3 n,q/n,1,4,1
+1240,qian4,q ia4 n,q/n,1,4,1
+1241,qian5,q ia5 n,q/n,1,4,1
+1242,qiang1,q ia1 ng,q/ng,1,5,1.5
+1243,qiang2,q ia2 ng,q/ng,1,5,1.5
+1244,qiang3,q ia3 ng,q/ng,1,5,1.5
+1245,qiang4,q ia4 ng,q/ng,1,5,1.5
+1246,qiang5,q ia5 ng,q/ng,1,5,1.5
+1247,qiao1,q iao1,q/,1,4,1
+1248,qiao2,q iao2,q/,1,4,1
+1249,qiao3,q iao3,q/,1,4,1
+1250,qiao4,q iao4,q/,1,4,1
+1251,qie1,q ie1,q/,1,3,1
+1252,qie2,q ie2,q/,1,3,1
+1253,qie3,q ie3,q/,1,3,1
+1254,qie4,q ie4,q/,1,3,1
+1255,qie5,q ie5,q/,1,3,1
+1256,qin1,q i1 n,q/n,1,3,1
+1257,qin2,q i2 n,q/n,1,3,1
+1258,qin3,q i3 n,q/n,1,3,1
+1259,qin4,q i4 n,q/n,1,3,1
+1260,qin5,q i5 n,q/n,1,3,1
+1261,qing1,q i1 ng,q/ng,1,4,1.5
+1262,qing2,q i2 ng,q/ng,1,4,1.5
+1263,qing3,q i3 ng,q/ng,1,4,1.5
+1264,qing4,q i4 ng,q/ng,1,4,1.5
+1265,qing5,q i5 ng,q/ng,1,4,1.5
+1266,qiong1,q io1 ng,q/ng,1,5,1.5
+1267,qiong2,q io2 ng,q/ng,1,5,1.5
+1268,qiong3,q io3 ng,q/ng,1,5,1.5
+1269,qiong4,q io4 ng,q/ng,1,5,1.5
+1270,qiu1,q iou1,q/,1,4,1
+1271,qiu2,q iou2,q/,1,4,1
+1272,qiu3,q iou3,q/,1,4,1
+1273,qiu4,q iou4,q/,1,4,1
+1274,qu1,q v1,qv,0,2,2
+1275,qu2,q v2,qv,0,2,2
+1276,qu3,q v3,qv,0,2,2
+1277,qu4,q v4,qv,0,2,2
+1278,qu5,q v5,qv,0,2,2
+1279,quan1,q va1 n,qv/n,1,4,1.5
+1280,quan2,q va2 n,qv/n,1,4,1.5
+1281,quan3,q va3 n,qv/n,1,4,1.5
+1282,quan4,q va4 n,qv/n,1,4,1.5
+1283,que1,q ve1,qv/,1,3,2
+1284,que2,q ve2,qv/,1,3,2
+1285,que3,q ve3,qv/,1,3,2
+1286,que4,q ve4,qv/,1,3,2
+1287,qun1,q v1 n,qvn,0,3,3
+1288,qun2,q v2 n,qvn,0,3,3
+1289,qun3,q v3 n,qvn,0,3,3
+1290,qun4,q v4 n,qvn,0,3,3
+1291,qun5,q v5 n,qvn,0,3,3
+1292,r1,e1 r,/r,1,2,1
+1293,r2,e2 r,/r,1,2,1
+1294,r3,e3 r,/r,1,2,1
+1295,r4,e4 r,/r,1,2,1
+1296,r5,e5 r,/r,1,2,1
+1297,ran1,r a1 n,r/n,1,3,1
+1298,ran2,r a2 n,r/n,1,3,1
+1299,ran3,r a3 n,r/n,1,3,1
+1300,ran4,r a4 n,r/n,1,3,1
+1301,ran5,r a5 n,r/n,1,3,1
+1302,rang1,r a1 ng,r/ng,1,4,1.5
+1303,rang2,r a2 ng,r/ng,1,4,1.5
+1304,rang3,r a3 ng,r/ng,1,4,1.5
+1305,rang4,r a4 ng,r/ng,1,4,1.5
+1306,rang5,r a5 ng,r/ng,1,4,1.5
+1307,rao1,r ao1,r/,1,3,1
+1308,rao2,r ao2,r/,1,3,1
+1309,rao3,r ao3,r/,1,3,1
+1310,rao4,r ao4,r/,1,3,1
+1311,rao5,r ao5,r/,1,3,1
+1312,re1,r e1,r/,1,2,1
+1313,re2,r e2,r/,1,2,1
+1314,re3,r e3,r/,1,2,1
+1315,re4,r e4,r/,1,2,1
+1316,re5,r e5,r/,1,2,1
+1317,ren1,r e1 n,r/n,1,3,1
+1318,ren2,r e2 n,r/n,1,3,1
+1319,ren3,r e3 n,r/n,1,3,1
+1320,ren4,r e4 n,r/n,1,3,1
+1321,ren5,r e5 n,r/n,1,3,1
+1322,reng1,r e1 ng,r/ng,1,4,1.5
+1323,reng2,r e2 ng,r/ng,1,4,1.5
+1324,reng3,r e3 ng,r/ng,1,4,1.5
+1325,reng4,r e4 ng,r/ng,1,4,1.5
+1326,reng5,r e5 ng,r/ng,1,4,1.5
+1327,ri1,r ii1,r/,1,3,1
+1328,ri2,r ii2,r/,1,3,1
+1329,ri3,r ii3,r/,1,3,1
+1330,ri4,r ii4,r/,1,3,1
+1331,ri5,r ii5,r/,1,3,1
+1332,rong1,r o1 ng,r/ng,1,4,1.5
+1333,rong2,r o2 ng,r/ng,1,4,1.5
+1334,rong3,r o3 ng,r/ng,1,4,1.5
+1335,rong4,r o4 ng,r/ng,1,4,1.5
+1336,rong5,r o5 ng,r/ng,1,4,1.5
+1337,rou1,r ou1,r/,1,3,1
+1338,rou2,r ou2,r/,1,3,1
+1339,rou3,r ou3,r/,1,3,1
+1340,rou4,r ou4,r/,1,3,1
+1341,rou5,r ou5,r/,1,3,1
+1342,ru1,r u1,r/,1,2,1
+1343,ru2,r u2,r/,1,2,1
+1344,ru3,r u3,r/,1,2,1
+1345,ru4,r u4,r/,1,2,1
+1346,ru5,r u5,r/,1,2,1
+1347,rua1,r ua1,r/,1,3,1
+1348,rua2,r ua2,r/,1,3,1
+1349,rua3,r ua3,r/,1,3,1
+1350,rua4,r ua4,r/,1,3,1
+1351,rua5,r ua5,r/,1,3,1
+1352,ruan1,r ua1 n,r/n,1,4,1
+1353,ruan2,r ua2 n,r/n,1,4,1
+1354,ruan3,r ua3 n,r/n,1,4,1
+1355,ruan4,r ua4 n,r/n,1,4,1
+1356,ruan5,r ua5 n,r/n,1,4,1
+1357,rui1,r uei1,r/,1,4,1
+1358,rui2,r uei2,r/,1,4,1
+1359,rui3,r uei3,r/,1,4,1
+1360,rui4,r uei4,r/,1,4,1
+1361,rui5,r uei5,r/,1,4,1
+1362,run1,r ue1 n,r/n,1,4,1
+1363,run2,r ue2 n,r/n,1,4,1
+1364,run3,r ue3 n,r/n,1,4,1
+1365,run4,r ue4 n,r/n,1,4,1
+1366,run5,r ue5 n,r/n,1,4,1
+1367,ruo1,r uo1,r/,1,3,1
+1368,ruo2,r uo2,r/,1,3,1
+1369,ruo3,r uo3,r/,1,3,1
+1370,ruo4,r uo4,r/,1,3,1
+1371,ruo5,r uo5,r/,1,3,1
+1372,sa1,s a1,s/,1,2,1
+1373,sa2,s a2,s/,1,2,1
+1374,sa3,s a3,s/,1,2,1
+1375,sa4,s a4,s/,1,2,1
+1376,sa5,s a5,s/,1,2,1
+1377,sai1,s ai1,s/,1,3,1
+1378,sai2,s ai2,s/,1,3,1
+1379,sai3,s ai3,s/,1,3,1
+1380,sai4,s ai4,s/,1,3,1
+1381,sai5,s ai5,s/,1,3,1
+1382,san1,s a1 n,s/n,1,3,1
+1383,san2,s a2 n,s/n,1,3,1
+1384,san3,s a3 n,s/n,1,3,1
+1385,san4,s a4 n,s/n,1,3,1
+1386,san5,s a5 n,s/n,1,3,1
+1387,sang1,s a1 ng,s/ng,1,4,1.5
+1388,sang2,s a2 ng,s/ng,1,4,1.5
+1389,sang3,s a3 ng,s/ng,1,4,1.5
+1390,sang4,s a4 ng,s/ng,1,4,1.5
+1391,sang5,s a5 ng,s/ng,1,4,1.5
+1392,sao1,s ao1,s/,1,3,1
+1393,sao2,s ao2,s/,1,3,1
+1394,sao3,s ao3,s/,1,3,1
+1395,sao4,s ao4,s/,1,3,1
+1396,sao5,s ao5,s/,1,3,1
+1397,se1,s e1,s/,1,2,1
+1398,se2,s e2,s/,1,2,1
+1399,se3,s e3,s/,1,2,1
+1400,se4,s e4,s/,1,2,1
+1401,se5,s e5,s/,1,2,1
+1402,sen1,s e1 n,s/n,1,3,1
+1403,sen2,s e2 n,s/n,1,3,1
+1404,sen3,s e3 n,s/n,1,3,1
+1405,sen4,s e4 n,s/n,1,3,1
+1406,sen5,s e5 n,s/n,1,3,1
+1407,seng1,s e1 ng,s/ng,1,4,1.5
+1408,seng2,s e2 ng,s/ng,1,4,1.5
+1409,seng3,s e3 ng,s/ng,1,4,1.5
+1410,seng4,s e4 ng,s/ng,1,4,1.5
+1411,seng5,s e5 ng,s/ng,1,4,1.5
+1412,sha1,sh a1,sh/,1,3,2
+1413,sha2,sh a2,sh/,1,3,2
+1414,sha3,sh a3,sh/,1,3,2
+1415,sha4,sh a4,sh/,1,3,2
+1416,sha5,sh a5,sh/,1,3,2
+1417,shai1,sh ai1,sh/,1,4,2
+1418,shai2,sh ai2,sh/,1,4,2
+1419,shai3,sh ai3,sh/,1,4,2
+1420,shai4,sh ai4,sh/,1,4,2
+1421,shai5,sh ai5,sh/,1,4,2
+1422,shan1,sh a1 n,sh/n,1,4,1.5
+1423,shan2,sh a2 n,sh/n,1,4,1.5
+1424,shan3,sh a3 n,sh/n,1,4,1.5
+1425,shan4,sh a4 n,sh/n,1,4,1.5
+1426,shan5,sh a5 n,sh/n,1,4,1.5
+1427,shang1,sh a1 ng,sh/ng,1,5,2
+1428,shang2,sh a2 ng,sh/ng,1,5,2
+1429,shang3,sh a3 ng,sh/ng,1,5,2
+1430,shang4,sh a4 ng,sh/ng,1,5,2
+1431,shang5,sh a5 ng,sh/ng,1,5,2
+1432,shao1,sh ao1,sh/,1,4,2
+1433,shao2,sh ao2,sh/,1,4,2
+1434,shao3,sh ao3,sh/,1,4,2
+1435,shao4,sh ao4,sh/,1,4,2
+1436,shao5,sh ao5,sh/,1,4,2
+1437,she1,sh e1,sh/,1,3,2
+1438,she2,sh e2,sh/,1,3,2
+1439,she3,sh e3,sh/,1,3,2
+1440,she4,sh e4,sh/,1,3,2
+1441,she5,sh e5,sh/,1,3,2
+1442,shei1,sh ei1,sh/,1,4,2
+1443,shei2,sh ei2,sh/,1,4,2
+1444,shei3,sh ei3,sh/,1,4,2
+1445,shei4,sh ei4,sh/,1,4,2
+1446,shen1,sh e1 n,sh/n,1,4,1.5
+1447,shen2,sh e2 n,sh/n,1,4,1.5
+1448,shen3,sh e3 n,sh/n,1,4,1.5
+1449,shen4,sh e4 n,sh/n,1,4,1.5
+1450,shen5,sh e5 n,sh/n,1,4,1.5
+1451,sheng1,sh e1 ng,sh/ng,1,5,2
+1452,sheng2,sh e2 ng,sh/ng,1,5,2
+1453,sheng3,sh e3 ng,sh/ng,1,5,2
+1454,sheng4,sh e4 ng,sh/ng,1,5,2
+1455,sheng5,sh e5 ng,sh/ng,1,5,2
+1456,shi1,sh ii1,sh/,1,4,2
+1457,shi2,sh ii2,sh/,1,4,2
+1458,shi3,sh ii3,sh/,1,4,2
+1459,shi4,sh ii4,sh/,1,4,2
+1460,shi5,sh ii5,sh/,1,4,2
+1461,shou1,sh ou1,sh/,1,4,2
+1462,shou2,sh ou2,sh/,1,4,2
+1463,shou3,sh ou3,sh/,1,4,2
+1464,shou4,sh ou4,sh/,1,4,2
+1465,shou5,sh ou5,sh/,1,4,2
+1466,shu1,sh u1,sh/,1,3,2
+1467,shu2,sh u2,sh/,1,3,2
+1468,shu3,sh u3,sh/,1,3,2
+1469,shu4,sh u4,sh/,1,3,2
+1470,shu5,sh u5,sh/,1,3,2
+1471,shua1,sh ua1,sh/,1,4,2
+1472,shua2,sh ua2,sh/,1,4,2
+1473,shua3,sh ua3,sh/,1,4,2
+1474,shua4,sh ua4,sh/,1,4,2
+1475,shua5,sh ua5,sh/,1,4,2
+1476,shuai1,sh uai1,sh/,1,5,2
+1477,shuai2,sh uai2,sh/,1,5,2
+1478,shuai3,sh uai3,sh/,1,5,2
+1479,shuai4,sh uai4,sh/,1,5,2
+1480,shuan1,sh ua1 n,sh/n,1,5,1.5
+1481,shuan2,sh ua2 n,sh/n,1,5,1.5
+1482,shuan3,sh ua3 n,sh/n,1,5,1.5
+1483,shuan4,sh ua4 n,sh/n,1,5,1.5
+1484,shuan5,sh ua5 n,sh/n,1,5,1.5
+1485,shuang1,sh ua1 ng,sh/ng,1,6,2
+1486,shuang2,sh ua2 ng,sh/ng,1,6,2
+1487,shuang3,sh ua3 ng,sh/ng,1,6,2
+1488,shuang4,sh ua4 ng,sh/ng,1,6,2
+1489,shuang5,sh ua5 ng,sh/ng,1,6,2
+1490,shui1,sh uei1,sh/,1,5,2
+1491,shui2,sh uei2,sh/,1,5,2
+1492,shui3,sh uei3,sh/,1,5,2
+1493,shui4,sh uei4,sh/,1,5,2
+1494,shui5,sh uei5,sh/,1,5,2
+1495,shun1,sh ue1 n,sh/n,1,5,1.5
+1496,shun2,sh ue2 n,sh/n,1,5,1.5
+1497,shun3,sh ue3 n,sh/n,1,5,1.5
+1498,shun4,sh ue4 n,sh/n,1,5,1.5
+1499,shun5,sh ue5 n,sh/n,1,5,1.5
+1500,shuo1,sh uo1,sh/,1,4,2
+1501,shuo2,sh uo2,sh/,1,4,2
+1502,shuo3,sh uo3,sh/,1,4,2
+1503,shuo4,sh uo4,sh/,1,4,2
+1504,shuo5,sh uo5,sh/,1,4,2
+1505,si1,s ii1,s/,1,3,1
+1506,si2,s ii2,s/,1,3,1
+1507,si3,s ii3,s/,1,3,1
+1508,si4,s ii4,s/,1,3,1
+1509,si5,s ii5,s/,1,3,1
+1510,song1,s o1 ng,s/ng,1,4,1.5
+1511,song2,s o2 ng,s/ng,1,4,1.5
+1512,song3,s o3 ng,s/ng,1,4,1.5
+1513,song4,s o4 ng,s/ng,1,4,1.5
+1514,song5,s o5 ng,s/ng,1,4,1.5
+1515,sou1,s ou1,s/,1,3,1
+1516,sou2,s ou2,s/,1,3,1
+1517,sou3,s ou3,s/,1,3,1
+1518,sou4,s ou4,s/,1,3,1
+1519,sou5,s ou5,s/,1,3,1
+1520,su1,s u1,s/,1,2,1
+1521,su2,s u2,s/,1,2,1
+1522,su3,s u3,s/,1,2,1
+1523,su4,s u4,s/,1,2,1
+1524,su5,s u5,s/,1,2,1
+1525,suan1,s ua1 n,s/n,1,4,1
+1526,suan2,s ua2 n,s/n,1,4,1
+1527,suan3,s ua3 n,s/n,1,4,1
+1528,suan4,s ua4 n,s/n,1,4,1
+1529,suan5,s ua5 n,s/n,1,4,1
+1530,sui1,s uei1,s/,1,4,1
+1531,sui2,s uei2,s/,1,4,1
+1532,sui3,s uei3,s/,1,4,1
+1533,sui4,s uei4,s/,1,4,1
+1534,sui5,s uei5,s/,1,4,1
+1535,sun1,s ue1 n,s/n,1,4,1
+1536,sun2,s ue2 n,s/n,1,4,1
+1537,sun3,s ue3 n,s/n,1,4,1
+1538,sun4,s ue4 n,s/n,1,4,1
+1539,sun5,s ue5 n,s/n,1,4,1
+1540,suo1,s uo1,s/,1,3,1
+1541,suo2,s uo2,s/,1,3,1
+1542,suo3,s uo3,s/,1,3,1
+1543,suo4,s uo4,s/,1,3,1
+1544,suo5,s uo5,s/,1,3,1
+1545,ta1,t a1,t/,1,2,1
+1546,ta2,t a2,t/,1,2,1
+1547,ta3,t a3,t/,1,2,1
+1548,ta4,t a4,t/,1,2,1
+1549,ta5,t a5,t/,1,2,1
+1550,tai1,t ai1,t/,1,3,1
+1551,tai2,t ai2,t/,1,3,1
+1552,tai3,t ai3,t/,1,3,1
+1553,tai4,t ai4,t/,1,3,1
+1554,tai5,t ai5,t/,1,3,1
+1555,tan1,t a1 n,t/n,1,3,1
+1556,tan2,t a2 n,t/n,1,3,1
+1557,tan3,t a3 n,t/n,1,3,1
+1558,tan4,t a4 n,t/n,1,3,1
+1559,tan5,t a5 n,t/n,1,3,1
+1560,tang1,t a1 ng,t/ng,1,4,1.5
+1561,tang2,t a2 ng,t/ng,1,4,1.5
+1562,tang3,t a3 ng,t/ng,1,4,1.5
+1563,tang4,t a4 ng,t/ng,1,4,1.5
+1564,tang5,t a5 ng,t/ng,1,4,1.5
+1565,tao1,t ao1,t/,1,3,1
+1566,tao2,t ao2,t/,1,3,1
+1567,tao3,t ao3,t/,1,3,1
+1568,tao4,t ao4,t/,1,3,1
+1569,tao5,t ao5,t/,1,3,1
+1570,te1,t e1,t/,1,2,1
+1571,te2,t e2,t/,1,2,1
+1572,te3,t e3,t/,1,2,1
+1573,te4,t e4,t/,1,2,1
+1574,te5,t e5,t/,1,2,1
+1575,tei1,t ei1,t/,1,3,1
+1576,tei2,t ei2,t/,1,3,1
+1577,tei3,t ei3,t/,1,3,1
+1578,tei4,t ei4,t/,1,3,1
+1579,teng1,t e1 ng,t/ng,1,4,1.5
+1580,teng2,t e2 ng,t/ng,1,4,1.5
+1581,teng3,t e3 ng,t/ng,1,4,1.5
+1582,teng4,t e4 ng,t/ng,1,4,1.5
+1583,teng5,t e5 ng,t/ng,1,4,1.5
+1584,ti1,t i1,t/,1,2,1
+1585,ti2,t i2,t/,1,2,1
+1586,ti3,t i3,t/,1,2,1
+1587,ti4,t i4,t/,1,2,1
+1588,ti5,t i5,t/,1,2,1
+1589,tian1,t ia1 n,t/n,1,4,1
+1590,tian2,t ia2 n,t/n,1,4,1
+1591,tian3,t ia3 n,t/n,1,4,1
+1592,tian4,t ia4 n,t/n,1,4,1
+1593,tian5,t ia5 n,t/n,1,4,1
+1594,tiao1,t iao1,t/,1,4,1
+1595,tiao2,t iao2,t/,1,4,1
+1596,tiao3,t iao3,t/,1,4,1
+1597,tiao4,t iao4,t/,1,4,1
+1598,tie1,t ie1,t/,1,3,1
+1599,tie2,t ie2,t/,1,3,1
+1600,tie3,t ie3,t/,1,3,1
+1601,tie4,t ie4,t/,1,3,1
+1602,tie5,t ie5,t/,1,3,1
+1603,ting1,t i1 ng,t/ng,1,4,1.5
+1604,ting2,t i2 ng,t/ng,1,4,1.5
+1605,ting3,t i3 ng,t/ng,1,4,1.5
+1606,ting4,t i4 ng,t/ng,1,4,1.5
+1607,ting5,t i5 ng,t/ng,1,4,1.5
+1608,tong1,t o1 ng,t/ng,1,4,1.5
+1609,tong2,t o2 ng,t/ng,1,4,1.5
+1610,tong3,t o3 ng,t/ng,1,4,1.5
+1611,tong4,t o4 ng,t/ng,1,4,1.5
+1612,tong5,t o5 ng,t/ng,1,4,1.5
+1613,tou1,t ou1,t/,1,3,1
+1614,tou2,t ou2,t/,1,3,1
+1615,tou3,t ou3,t/,1,3,1
+1616,tou4,t ou4,t/,1,3,1
+1617,tou5,t ou5,t/,1,3,1
+1618,tu1,t u1,t/,1,2,1
+1619,tu2,t u2,t/,1,2,1
+1620,tu3,t u3,t/,1,2,1
+1621,tu4,t u4,t/,1,2,1
+1622,tu5,t u5,t/,1,2,1
+1623,tuan1,t ua1 n,t/n,1,4,1
+1624,tuan2,t ua2 n,t/n,1,4,1
+1625,tuan3,t ua3 n,t/n,1,4,1
+1626,tuan4,t ua4 n,t/n,1,4,1
+1627,tuan5,t ua5 n,t/n,1,4,1
+1628,tui1,t uei1,t/,1,4,1
+1629,tui2,t uei2,t/,1,4,1
+1630,tui3,t uei3,t/,1,4,1
+1631,tui4,t uei4,t/,1,4,1
+1632,tui5,t uei5,t/,1,4,1
+1633,tun1,t ue1 n,t/n,1,4,1
+1634,tun2,t ue2 n,t/n,1,4,1
+1635,tun3,t ue3 n,t/n,1,4,1
+1636,tun4,t ue4 n,t/n,1,4,1
+1637,tun5,t ue5 n,t/n,1,4,1
+1638,tuo1,t uo1,t/,1,3,1
+1639,tuo2,t uo2,t/,1,3,1
+1640,tuo3,t uo3,t/,1,3,1
+1641,tuo4,t uo4,t/,1,3,1
+1642,tuo5,t uo5,t/,1,3,1
+1643,wa1,ua1,/,1,2,N/A
+1644,wa2,ua2,/,1,2,N/A
+1645,wa3,ua3,/,1,2,N/A
+1646,wa4,ua4,/,1,2,N/A
+1647,wa5,ua5,/,1,2,N/A
+1648,wai1,uai1,/,1,3,N/A
+1649,wai2,uai2,/,1,3,N/A
+1650,wai3,uai3,/,1,3,N/A
+1651,wai4,uai4,/,1,3,N/A
+1652,wan1,ua1 n,/n,1,3,1
+1653,wan2,ua2 n,/n,1,3,1
+1654,wan3,ua3 n,/n,1,3,1
+1655,wan4,ua4 n,/n,1,3,1
+1656,wan5,ua5 n,/n,1,3,1
+1657,wang1,ua1 ng,/ng,1,4,2
+1658,wang2,ua2 ng,/ng,1,4,2
+1659,wang3,ua3 ng,/ng,1,4,2
+1660,wang4,ua4 ng,/ng,1,4,2
+1661,wang5,ua5 ng,/ng,1,4,2
+1662,wei1,uei1,/,1,3,N/A
+1663,wei2,uei2,/,1,3,N/A
+1664,wei3,uei3,/,1,3,N/A
+1665,wei4,uei4,/,1,3,N/A
+1666,wei5,uei5,/,1,3,N/A
+1667,wen1,ue1 n,/n,1,3,1
+1668,wen2,ue2 n,/n,1,3,1
+1669,wen3,ue3 n,/n,1,3,1
+1670,wen4,ue4 n,/n,1,3,1
+1671,wen5,ue5 n,/n,1,3,1
+1672,weng1,ue1 n,/n,1,3,1
+1673,weng2,ue2 n,/n,1,3,1
+1674,weng3,ue3 n,/n,1,3,1
+1675,weng4,ue4 n,/n,1,3,1
+1676,weng5,ue5 n,/n,1,3,1
+1677,wo1,uo1,/,1,2,N/A
+1678,wo2,uo2,/,1,2,N/A
+1679,wo3,uo3,/,1,2,N/A
+1680,wo4,uo4,/,1,2,N/A
+1681,wo5,uo5,/,1,2,N/A
+1682,wu1,u1,/,1,1,N/A
+1683,wu2,u2,/,1,1,N/A
+1684,wu3,u3,/,1,1,N/A
+1685,wu4,u4,/,1,1,N/A
+1686,wu5,u5,/,1,1,N/A
+1687,xi1,x i1,x/,1,2,1
+1688,xi2,x i2,x/,1,2,1
+1689,xi3,x i3,x/,1,2,1
+1690,xi4,x i4,x/,1,2,1
+1691,xi5,x i5,x/,1,2,1
+1692,xia1,x ia1,x/,1,3,1
+1693,xia2,x ia2,x/,1,3,1
+1694,xia3,x ia3,x/,1,3,1
+1695,xia4,x ia4,x/,1,3,1
+1696,xia5,x ia5,x/,1,3,1
+1697,xian1,x ia1 n,x/n,1,4,1
+1698,xian2,x ia2 n,x/n,1,4,1
+1699,xian3,x ia3 n,x/n,1,4,1
+1700,xian4,x ia4 n,x/n,1,4,1
+1701,xian5,x ia5 n,x/n,1,4,1
+1702,xiang1,x ia1 ng,x/ng,1,5,1.5
+1703,xiang2,x ia2 ng,x/ng,1,5,1.5
+1704,xiang3,x ia3 ng,x/ng,1,5,1.5
+1705,xiang4,x ia4 ng,x/ng,1,5,1.5
+1706,xiang5,x ia5 ng,x/ng,1,5,1.5
+1707,xiao1,x iao1,x/,1,4,1
+1708,xiao2,x iao2,x/,1,4,1
+1709,xiao3,x iao3,x/,1,4,1
+1710,xiao4,x iao4,x/,1,4,1
+1711,xie1,x ie1,x/,1,3,1
+1712,xie2,x ie2,x/,1,3,1
+1713,xie3,x ie3,x/,1,3,1
+1714,xie4,x ie4,x/,1,3,1
+1715,xie5,x ie5,x/,1,3,1
+1716,xin1,x i1 n,x/n,1,3,1
+1717,xin2,x i2 n,x/n,1,3,1
+1718,xin3,x i3 n,x/n,1,3,1
+1719,xin4,x i4 n,x/n,1,3,1
+1720,xin5,x i5 n,x/n,1,3,1
+1721,xing1,x i1 ng,x/ng,1,4,1.5
+1722,xing2,x i2 ng,x/ng,1,4,1.5
+1723,xing3,x i3 ng,x/ng,1,4,1.5
+1724,xing4,x i4 ng,x/ng,1,4,1.5
+1725,xing5,x i5 ng,x/ng,1,4,1.5
+1726,xiong1,x io1 ng,x/ng,1,5,1.5
+1727,xiong2,x io2 ng,x/ng,1,5,1.5
+1728,xiong3,x io3 ng,x/ng,1,5,1.5
+1729,xiong4,x io4 ng,x/ng,1,5,1.5
+1730,xiu1,x iou1,x/,1,4,1
+1731,xiu2,x iou2,x/,1,4,1
+1732,xiu3,x iou3,x/,1,4,1
+1733,xiu4,x iou4,x/,1,4,1
+1734,xu1,x v1,xv,0,2,2
+1735,xu2,x v2,xv,0,2,2
+1736,xu3,x v3,xv,0,2,2
+1737,xu4,x v4,xv,0,2,2
+1738,xu5,x v5,xv,0,2,2
+1739,xuan1,x va1 n,xv/n,1,4,1.5
+1740,xuan2,x va2 n,xv/n,1,4,1.5
+1741,xuan3,x va3 n,xv/n,1,4,1.5
+1742,xuan4,x va4 n,xv/n,1,4,1.5
+1743,xue1,x ve1,xv/,1,3,2
+1744,xue2,x ve2,xv/,1,3,2
+1745,xue3,x ve3,xv/,1,3,2
+1746,xue4,x ve4,xv/,1,3,2
+1747,xun1,x v1 n,xvn,0,3,3
+1748,xun2,x v2 n,xvn,0,3,3
+1749,xun3,x v3 n,xvn,0,3,3
+1750,xun4,x v4 n,xvn,0,3,3
+1751,xun5,x v5 n,xvn,0,3,3
+1752,ya1,ia1,/,1,2,N/A
+1753,ya2,ia2,/,1,2,N/A
+1754,ya3,ia3,/,1,2,N/A
+1755,ya4,ia4,/,1,2,N/A
+1756,ya5,ia5,/,1,2,N/A
+1757,yan1,ia1 n,/n,1,3,1
+1758,yan2,ia2 n,/n,1,3,1
+1759,yan3,ia3 n,/n,1,3,1
+1760,yan4,ia4 n,/n,1,3,1
+1761,yan5,ia5 n,/n,1,3,1
+1762,yang1,ia1 ng,/ng,1,4,2
+1763,yang2,ia2 ng,/ng,1,4,2
+1764,yang3,ia3 ng,/ng,1,4,2
+1765,yang4,ia4 ng,/ng,1,4,2
+1766,yang5,ia5 ng,/ng,1,4,2
+1767,yao1,iao1,/,1,3,N/A
+1768,yao2,iao2,/,1,3,N/A
+1769,yao3,iao3,/,1,3,N/A
+1770,yao4,iao4,/,1,3,N/A
+1771,ye1,ie1,/,1,2,N/A
+1772,ye2,ie2,/,1,2,N/A
+1773,ye3,ie3,/,1,2,N/A
+1774,ye4,ie4,/,1,2,N/A
+1775,ye5,ie5,/,1,2,N/A
+1776,yi1,i1,/,1,1,N/A
+1777,yi2,i2,/,1,1,N/A
+1778,yi3,i3,/,1,1,N/A
+1779,yi4,i4,/,1,1,N/A
+1780,yi5,i5,/,1,1,N/A
+1781,yin1,i1 n,/n,1,2,1
+1782,yin2,i2 n,/n,1,2,1
+1783,yin3,i3 n,/n,1,2,1
+1784,yin4,i4 n,/n,1,2,1
+1785,yin5,i5 n,/n,1,2,1
+1786,ying1,i1 ng,/ng,1,3,2
+1787,ying2,i2 ng,/ng,1,3,2
+1788,ying3,i3 ng,/ng,1,3,2
+1789,ying4,i4 ng,/ng,1,3,2
+1790,ying5,i5 ng,/ng,1,3,2
+1791,yo1,iou1,/,1,3,N/A
+1792,yo2,iou2,/,1,3,N/A
+1793,yo3,iou3,/,1,3,N/A
+1794,yo4,iou4,/,1,3,N/A
+1795,yong1,io1 ng,/ng,1,4,2
+1796,yong2,io2 ng,/ng,1,4,2
+1797,yong3,io3 ng,/ng,1,4,2
+1798,yong4,io4 ng,/ng,1,4,2
+1799,you1,iou1,/,1,3,N/A
+1800,you2,iou2,/,1,3,N/A
+1801,you3,iou3,/,1,3,N/A
+1802,you4,iou4,/,1,3,N/A
+1803,yu1,v1,v,0,1,1
+1804,yu2,v2,v,0,1,1
+1805,yu3,v3,v,0,1,1
+1806,yu4,v4,v,0,1,1
+1807,yu5,v5,v,0,1,1
+1808,yuan1,va1 n,v/n,1,3,1
+1809,yuan2,va2 n,v/n,1,3,1
+1810,yuan3,va3 n,v/n,1,3,1
+1811,yuan4,va4 n,v/n,1,3,1
+1812,yue1,ve1,v/,1,2,1
+1813,yue2,ve2,v/,1,2,1
+1814,yue3,ve3,v/,1,2,1
+1815,yue4,ve4,v/,1,2,1
+1816,yun1,v1 n,vn,0,2,2
+1817,yun2,v2 n,vn,0,2,2
+1818,yun3,v3 n,vn,0,2,2
+1819,yun4,v4 n,vn,0,2,2
+1820,yun5,v5 n,vn,0,2,2
+1821,za1,z a1,z/,1,2,1
+1822,za2,z a2,z/,1,2,1
+1823,za3,z a3,z/,1,2,1
+1824,za4,z a4,z/,1,2,1
+1825,za5,z a5,z/,1,2,1
+1826,zai1,z ai1,z/,1,3,1
+1827,zai2,z ai2,z/,1,3,1
+1828,zai3,z ai3,z/,1,3,1
+1829,zai4,z ai4,z/,1,3,1
+1830,zai5,z ai5,z/,1,3,1
+1831,zan1,z a1 n,z/n,1,3,1
+1832,zan2,z a2 n,z/n,1,3,1
+1833,zan3,z a3 n,z/n,1,3,1
+1834,zan4,z a4 n,z/n,1,3,1
+1835,zan5,z a5 n,z/n,1,3,1
+1836,zang1,z a1 ng,z/ng,1,4,1.5
+1837,zang2,z a2 ng,z/ng,1,4,1.5
+1838,zang3,z a3 ng,z/ng,1,4,1.5
+1839,zang4,z a4 ng,z/ng,1,4,1.5
+1840,zang5,z a5 ng,z/ng,1,4,1.5
+1841,zao1,z ao1,z/,1,3,1
+1842,zao2,z ao2,z/,1,3,1
+1843,zao3,z ao3,z/,1,3,1
+1844,zao4,z ao4,z/,1,3,1
+1845,zao5,z ao5,z/,1,3,1
+1846,ze1,z e1,z/,1,2,1
+1847,ze2,z e2,z/,1,2,1
+1848,ze3,z e3,z/,1,2,1
+1849,ze4,z e4,z/,1,2,1
+1850,ze5,z e5,z/,1,2,1
+1851,zei1,z ei1,z/,1,3,1
+1852,zei2,z ei2,z/,1,3,1
+1853,zei3,z ei3,z/,1,3,1
+1854,zei4,z ei4,z/,1,3,1
+1855,zen1,z e1 n,z/n,1,3,1
+1856,zen2,z e2 n,z/n,1,3,1
+1857,zen3,z e3 n,z/n,1,3,1
+1858,zen4,z e4 n,z/n,1,3,1
+1859,zen5,z e5 n,z/n,1,3,1
+1860,zeng1,z e1 ng,z/ng,1,4,1.5
+1861,zeng2,z e2 ng,z/ng,1,4,1.5
+1862,zeng3,z e3 ng,z/ng,1,4,1.5
+1863,zeng4,z e4 ng,z/ng,1,4,1.5
+1864,zeng5,z e5 ng,z/ng,1,4,1.5
+1865,zha1,zh a1,zh/,1,3,2
+1866,zha2,zh a2,zh/,1,3,2
+1867,zha3,zh a3,zh/,1,3,2
+1868,zha4,zh a4,zh/,1,3,2
+1869,zha5,zh a5,zh/,1,3,2
+1870,zhai1,zh ai1,zh/,1,4,2
+1871,zhai2,zh ai2,zh/,1,4,2
+1872,zhai3,zh ai3,zh/,1,4,2
+1873,zhai4,zh ai4,zh/,1,4,2
+1874,zhai5,zh ai5,zh/,1,4,2
+1875,zhan1,zh a1 n,zh/n,1,4,1.5
+1876,zhan2,zh a2 n,zh/n,1,4,1.5
+1877,zhan3,zh a3 n,zh/n,1,4,1.5
+1878,zhan4,zh a4 n,zh/n,1,4,1.5
+1879,zhan5,zh a5 n,zh/n,1,4,1.5
+1880,zhang1,zh a1 ng,zh/ng,1,5,2
+1881,zhang2,zh a2 ng,zh/ng,1,5,2
+1882,zhang3,zh a3 ng,zh/ng,1,5,2
+1883,zhang4,zh a4 ng,zh/ng,1,5,2
+1884,zhang5,zh a5 ng,zh/ng,1,5,2
+1885,zhao1,zh ao1,zh/,1,4,2
+1886,zhao2,zh ao2,zh/,1,4,2
+1887,zhao3,zh ao3,zh/,1,4,2
+1888,zhao4,zh ao4,zh/,1,4,2
+1889,zhao5,zh ao5,zh/,1,4,2
+1890,zhe1,zh e1,zh/,1,3,2
+1891,zhe2,zh e2,zh/,1,3,2
+1892,zhe3,zh e3,zh/,1,3,2
+1893,zhe4,zh e4,zh/,1,3,2
+1894,zhe5,zh e5,zh/,1,3,2
+1895,zhei1,zh ei1,zh/,1,4,2
+1896,zhei2,zh ei2,zh/,1,4,2
+1897,zhei3,zh ei3,zh/,1,4,2
+1898,zhei4,zh ei4,zh/,1,4,2
+1899,zhen1,zh e1 n,zh/n,1,4,1.5
+1900,zhen2,zh e2 n,zh/n,1,4,1.5
+1901,zhen3,zh e3 n,zh/n,1,4,1.5
+1902,zhen4,zh e4 n,zh/n,1,4,1.5
+1903,zhen5,zh e5 n,zh/n,1,4,1.5
+1904,zheng1,zh e1 ng,zh/ng,1,5,2
+1905,zheng2,zh e2 ng,zh/ng,1,5,2
+1906,zheng3,zh e3 ng,zh/ng,1,5,2
+1907,zheng4,zh e4 ng,zh/ng,1,5,2
+1908,zheng5,zh e5 ng,zh/ng,1,5,2
+1909,zhi1,zh ii1,zh/,1,4,2
+1910,zhi2,zh ii2,zh/,1,4,2
+1911,zhi3,zh ii3,zh/,1,4,2
+1912,zhi4,zh ii4,zh/,1,4,2
+1913,zhi5,zh ii5,zh/,1,4,2
+1914,zhong1,zh o1 ng,zh/ng,1,5,2
+1915,zhong2,zh o2 ng,zh/ng,1,5,2
+1916,zhong3,zh o3 ng,zh/ng,1,5,2
+1917,zhong4,zh o4 ng,zh/ng,1,5,2
+1918,zhong5,zh o5 ng,zh/ng,1,5,2
+1919,zhou1,zh ou1,zh/,1,4,2
+1920,zhou2,zh ou2,zh/,1,4,2
+1921,zhou3,zh ou3,zh/,1,4,2
+1922,zhou4,zh ou4,zh/,1,4,2
+1923,zhou5,zh ou5,zh/,1,4,2
+1924,zhu1,zh u1,zh/,1,3,2
+1925,zhu2,zh u2,zh/,1,3,2
+1926,zhu3,zh u3,zh/,1,3,2
+1927,zhu4,zh u4,zh/,1,3,2
+1928,zhu5,zh u5,zh/,1,3,2
+1929,zhua1,zh ua1,zh/,1,4,2
+1930,zhua2,zh ua2,zh/,1,4,2
+1931,zhua3,zh ua3,zh/,1,4,2
+1932,zhua4,zh ua4,zh/,1,4,2
+1933,zhua5,zh ua5,zh/,1,4,2
+1934,zhuai1,zh uai1,zh/,1,5,2
+1935,zhuai2,zh uai2,zh/,1,5,2
+1936,zhuai3,zh uai3,zh/,1,5,2
+1937,zhuai4,zh uai4,zh/,1,5,2
+1938,zhuan1,zh ua1 n,zh/n,1,5,1.5
+1939,zhuan2,zh ua2 n,zh/n,1,5,1.5
+1940,zhuan3,zh ua3 n,zh/n,1,5,1.5
+1941,zhuan4,zh ua4 n,zh/n,1,5,1.5
+1942,zhuan5,zh ua5 n,zh/n,1,5,1.5
+1943,zhuang1,zh ua1 ng,zh/ng,1,6,2
+1944,zhuang2,zh ua2 ng,zh/ng,1,6,2
+1945,zhuang3,zh ua3 ng,zh/ng,1,6,2
+1946,zhuang4,zh ua4 ng,zh/ng,1,6,2
+1947,zhuang5,zh ua5 ng,zh/ng,1,6,2
+1948,zhui1,zh uei1,zh/,1,5,2
+1949,zhui2,zh uei2,zh/,1,5,2
+1950,zhui3,zh uei3,zh/,1,5,2
+1951,zhui4,zh uei4,zh/,1,5,2
+1952,zhui5,zh uei5,zh/,1,5,2
+1953,zhun1,zh ue1 n,zh/n,1,5,1.5
+1954,zhun2,zh ue2 n,zh/n,1,5,1.5
+1955,zhun3,zh ue3 n,zh/n,1,5,1.5
+1956,zhun4,zh ue4 n,zh/n,1,5,1.5
+1957,zhun5,zh ue5 n,zh/n,1,5,1.5
+1958,zhuo1,zh uo1,zh/,1,4,2
+1959,zhuo2,zh uo2,zh/,1,4,2
+1960,zhuo3,zh uo3,zh/,1,4,2
+1961,zhuo4,zh uo4,zh/,1,4,2
+1962,zhuo5,zh uo5,zh/,1,4,2
+1963,zi1,z ii1,z/,1,3,1
+1964,zi2,z ii2,z/,1,3,1
+1965,zi3,z ii3,z/,1,3,1
+1966,zi4,z ii4,z/,1,3,1
+1967,zi5,z ii5,z/,1,3,1
+1968,zong1,z o1 ng,z/ng,1,4,1.5
+1969,zong2,z o2 ng,z/ng,1,4,1.5
+1970,zong3,z o3 ng,z/ng,1,4,1.5
+1971,zong4,z o4 ng,z/ng,1,4,1.5
+1972,zong5,z o5 ng,z/ng,1,4,1.5
+1973,zou1,z ou1,z/,1,3,1
+1974,zou2,z ou2,z/,1,3,1
+1975,zou3,z ou3,z/,1,3,1
+1976,zou4,z ou4,z/,1,3,1
+1977,zou5,z ou5,z/,1,3,1
+1978,zu1,z u1,z/,1,2,1
+1979,zu2,z u2,z/,1,2,1
+1980,zu3,z u3,z/,1,2,1
+1981,zu4,z u4,z/,1,2,1
+1982,zu5,z u5,z/,1,2,1
+1983,zuan1,z ua1 n,z/n,1,4,1
+1984,zuan2,z ua2 n,z/n,1,4,1
+1985,zuan3,z ua3 n,z/n,1,4,1
+1986,zuan4,z ua4 n,z/n,1,4,1
+1987,zuan5,z ua5 n,z/n,1,4,1
+1988,zui1,z uei1,z/,1,4,1
+1989,zui2,z uei2,z/,1,4,1
+1990,zui3,z uei3,z/,1,4,1
+1991,zui4,z uei4,z/,1,4,1
+1992,zui5,z uei5,z/,1,4,1
+1993,zun1,z ue1 n,z/n,1,4,1
+1994,zun2,z ue2 n,z/n,1,4,1
+1995,zun3,z ue3 n,z/n,1,4,1
+1996,zun4,z ue4 n,z/n,1,4,1
+1997,zun5,z ue5 n,z/n,1,4,1
+1998,zuo1,z uo1,z/,1,3,1
+1999,zuo2,z uo2,z/,1,3,1
+2000,zuo3,z uo3,z/,1,3,1
+2001,zuo4,z uo4,z/,1,3,1
+2002,zuo5,z uo5,z/,1,3,1
