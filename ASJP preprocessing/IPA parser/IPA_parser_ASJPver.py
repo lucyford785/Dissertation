@@ -3,6 +3,7 @@ import unicodedata
 import numpy as np
 import pandas as pd
 from IPAParser_3_0 import IPAParser
+from os.path import expanduser #anonymous file handling
 
 def strip_modifiers(phoneme):
     RED_FLAGS = ["MODIFIER", "COMBINING", "SUPERSCRIPT", "DIGIT"]
@@ -23,8 +24,8 @@ def main():
     all_phonemes_w_names = []
     failures = []
     csv_paths = glob(
-        '/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/ASJP_dfs/ASJP_pre_parsing_df.csv'
-    )
+        expanduser('~/Desktop/UOM CCL/Semester 2/Dissertation/ASJP_dfs/ASJP_pre_parsing_df.csv'
+    ))
     for path in csv_paths:
         path_phonemes = set()
         df = pd.read_csv(path)
@@ -49,6 +50,7 @@ def main():
                         f'{simplified_phoneme}: {parse.as_dict()["type"]}\n'
                     )
                 except:
+                    
                     # Tracking paths correctly
                     failures.append(f"{repr(simplified_phoneme)} ({repr(phoneme)}): {path}\n")
 

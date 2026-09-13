@@ -1,21 +1,19 @@
-#no contributor cleaning or Macroarea cleaning in this:
-#REPLACE MANUAL CALCULATIONS WITH R FUNCTIONS
-
 library(tidyverse)
 library(dplyr)
 library(Hmisc)
 library(ggplot2)
 library(corrplot)
 
+#set seed for reproducability when sampling
 set.seed(12)
 
-big_ASJP<-read.csv('/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/big_df_ASJP.csv')
+big_ASJP<-read.csv(file.path(path.expand("~"),"Desktop","UOM CCL","Semester 2","Dissertation","big_df_ASJP.csv"))
 
-PHOIBLE_raw<-read_csv('/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/PHOIBLE/cldf-datasets-phoible-f36deac/cldf/contributions.csv')
+PHOIBLE_raw<-read_csv(file.path(path.expand("~"),"Desktop","UOM CCL","Semester 2","Dissertation","PHOIBLE","cldf-datasets-phoible-f36deac","cldf","contributions.csv"))
 
-PHOIBLE_langs<-read_csv('/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/PHOIBLE/cldf-datasets-phoible-f36deac/cldf/languages.csv')
+PHOIBLE_langs<-read_csv(file.path(path.expand("~"),"Desktop","UOM CCL","Semester 2","Dissertation","PHOIBLE","cldf-datasets-phoible-f36deac","cldf","languages.csv"))
 
-PHOIBLE_values<-read_csv('/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/PHOIBLE/cldf-datasets-phoible-f36deac/cldf/values.csv')
+PHOIBLE_values<-read_csv(file.path(path.expand("~"),"Desktop","UOM CCL","Semester 2","Dissertation","PHOIBLE","cldf-datasets-phoible-f36deac","cldf","values.csv"))
 
 PHOIBLE_IDs<-PHOIBLE_values%>%
   select(Language_ID, Contribution_ID)%>%
@@ -33,15 +31,15 @@ PHOIBLE_df_merged$Name.x<-NULL
 PHOIBLE_df_merged$Name_ph_langs<-PHOIBLE_df_merged$Name.y
 PHOIBLE_df_merged$Name.y<-NULL
 
-ASJP_langs<-read.csv('/Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/ASJP_full/lexibank-asjp-0127953/cldf/languages.csv')
+ASJP_langs<-read.csv(file.path(path.expand("~"),"Desktop","UOM CCL","Semester 2","Dissertation","ASJP_full","lexibank-asjp-0127953","cldf","languages.csv"))
 
 ASJP_langs$Language_ID<-ASJP_langs$ID
 
 ASJP_df<-merge(big_ASJP, ASJP_langs, by='Language_ID', all=TRUE)
 
-#now merge with ASJP also using glottocode (no WALS for now)
-df<-merge(PHOIBLE_df_merged, ASJP_df, by='Glottocode') #all has to be false for intersection of two
-
+#now merge with ASJP also using glottocode
+df<-merge(PHOIBLE_df_merged, ASJP_df, by='Glottocode') #all has to be false (default) for intersection of two
+?merge
 df$Name_ASJP<-df$Name
 df$Name<-NULL
 
@@ -93,28 +91,21 @@ cor_sample<-function(df){
     sample_n(1)
   
   #clean df to numerical values only
-  #count_consonants
   cor_df<-sampled_df_2%>%
     select(Phon_Inv_Size, Cons_Inv_Size, Word_length_phon, Word_length_syll, Mean_cluster_length)
   
   cor_df$Glottocode<-NULL
-  #cor(cor_df, method='spearman')
   cor_mat<-as.matrix(cor_df)
   result<-rcorr(cor_mat, type="spearman")
   list(cor=result$r, p=result$P)
 
 }
 
-#result$P #p values
-#result$r #correlation values
 mats_1k<-replicate(1000, cor_sample(df), simplify=FALSE) #simplify false means each iteration gets stored?
 
 #separate results to take means
 p_vals<-lapply(mats_1k, `[[`, "p")
 cors_1k<-lapply(mats_1k, `[[`, "cor")
-
-#mean_cors_1k<-reduce(cors_1k, `+`) /length(cors_1k) #purrr reduce
-#p_values<-reduce(mats_1k$P, `+`)/length
 
 #adjust p values for multiple correlations - FDR
 p_vals<-lapply(p_vals, p.adjust, method='BH')
@@ -135,20 +126,14 @@ filtered_cors <- Map(
 mean_cors_1k<-reduce(filtered_cors, `+`) /length(filtered_cors) #purrr reduce
 
 #p values - proportion of significant correlations:
-#NB:don't keep this
 sig_prop <- Reduce( #base Reduce
   "+",
   lapply(p_vals, function(x) x < 0.05)
 ) / length(p_vals)
 
 sig_prop
-######## HOW TO INTERPRET PROPORTIONS AS SIG OR NOT? #####
-
-#new correlation averaging - only average over significant correlations:
-
 
 #compute standard deviation and confidence intervals:
-#NB: use tapply with built in sd func - don't keep this
 sd_1k<- Reduce("+",
                  lapply(cors_1k, function(m)
                    (m - mean_cors_1k)^2)
@@ -160,9 +145,7 @@ sd_1k<- sqrt(sd_1k)
 
 corrplot(mean_cors_1k, method='number')
 
-#add a title in writing later
-
-#further visualisations? - copy dmitry plots for pairwise relationships
+#further statistics:
 df%>%
   count(Family=="Isolate")
 

@@ -1,13 +1,16 @@
+#NB: run after ASJP_stats_clean (data imports and initial analysis)
+
 library(dplyr)
 library(tidyverse)
-library(mco) #still needed?
-#library(emoa) #for finding pareto optimal solutions with more control than mco
-library(ggplot2)
-#library(ggcube) #for 3d visualisation in ggplot2
+library(mco) 
+library(ggplot2) 
 library(plotly)
 library(purrr)
 
+#set seed for sampling reproducability
 set.seed(12)
+
+#rename for interpretability
 df$Macroarea<-df$Macroarea.y
 
 pareto_sample<-function(df){
@@ -23,19 +26,16 @@ pareto_sample<-function(df){
     sample_n(1)
   
   #clean df to numerical values only
-  #count_consonants
   sampled_df_2%>%
     select(Glottocode, Family, Macroarea, Phon_Inv_Size, Word_length_syll, Mean_cluster_length)
 
 }
 
-pareto_1k<-replicate(1000, pareto_sample(df), simplify=FALSE) #simplify false means each iteration gets stored?
+pareto_1k<-replicate(1000, pareto_sample(df), simplify=FALSE)
 pareto_df<-as.data.frame(pareto_1k)%>%
     group_by(Glottocode, Family, Macroarea)%>%
     summarise_at(vars("Phon_Inv_Size", "Word_length_syll", "Mean_cluster_length"), mean)
   
-
-#pareto_df<-pareto_sample(df)
 
 #by default all variables minimised
 best<-paretoFilter(as.matrix(pareto_df))
@@ -101,115 +101,6 @@ plot_ly(
   )%>%
   layout(title = "Pareto optimal solutions to the tradeoff between word length (syllables) and phoneme inventory size (Grouped by macroarea)")
 
-#mcl wls
-fit <- loess(
-  Mean_cluster_length ~ Word_length_syll,
-  data = best
-)
-
-newdat <- data.frame(
-  Word_length_syll = seq(
-    min(best$Word_length_syll),
-    max(best$Word_length_syll),
-    length.out = 200
-  )
-)
-
-newdat$pred <- predict(fit, newdat)
-
-plot_ly(
-  data = best,
-  x = ~Word_length_syll,
-  y = ~Mean_cluster_length,
-  text=~Glottocode,
-  mode = "markers",
-  type = "scatter"
-) |>
-  add_lines(
-    data = newdat,
-    x = ~Word_length_syll,
-    y = ~pred,
-    line = list(color = "red", width = 3)
-  )
-
-######### mcl wls again (pareto boundary) ########
-
-best2 <- best[order(best$Word_length_syll), ]
-plot_ly(
-  data = best2,
-  x = ~Word_length_syll,
-  y = ~Mean_cluster_length,
-  text=~Glottocode,
-  mode = "markers",
-  type = "scatter"
-) |>
-  add_lines(
-    data = best2,
-    x = ~Word_length_syll,
-    y = ~Mean_cluster_length,
-    name = "Pareto frontier",
-    line = list(color = "red", width = 3)
-  )
-
-###### mcl pis ########
-fit <- loess(
-  Mean_cluster_length ~ Phon_Inv_Size,
-  data = best
-)
-
-newdat <- data.frame(
-  Phon_Inv_Size = seq(
-    min(best$Phon_Inv_Size),
-    max(best$Phon_Inv_Size),
-    length.out = 200
-  )
-)
-
-newdat$pred <- predict(fit, newdat)
-
-plot_ly(
-  data = best,
-  x = ~Phon_Inv_Size,
-  y = ~Mean_cluster_length,
-  mode = "markers",
-  type = "scatter"
-) |>
-  add_lines(
-    data = newdat,
-    x = ~Phon_Inv_Size,
-    y = ~pred,
-    line = list(color = "red", width = 3)
-  )
-
-###### pis wls ########
-fit <- loess(
-  Phon_Inv_Size ~ Word_length_syll,
-  data = best
-)
-
-newdat <- data.frame(
-  Word_length_syll = seq(
-    min(best$Word_length_syll),
-    max(best$Word_length_syll),
-    length.out = 200
-  )
-)
-
-newdat$pred <- predict(fit, newdat)
-
-plot_ly(
-  data = best,
-  x = ~Word_length_syll,
-  y = ~Phon_Inv_Size,
-  mode = "markers",
-  type = "scatter"
-) |>
-  add_lines(
-    data = newdat,
-    x = ~Word_length_syll,
-    y = ~pred,
-    line = list(color = "red", width = 3)
-  )
 
 #extra measures:
 best%>%
