@@ -1,0 +1,15 @@
+'' ('ˤː'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/maltese_cv.dict_df.csv
+'' ('̃'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/guarani_cv.dict_df.csv
+'sh' ('sh'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'va' ('va1'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'va' ('va2'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'va' ('va3'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'va' ('va4'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'ve' ('ve1'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'ve' ('ve2'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'ve' ('ve3'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'ve' ('ve4'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'zh' ('zh'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/mandarin_pinyin.dict_df.csv
+'ɝ' ('ɝ'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/english_mfa.dict_df.csv
+'ɝ' ('ɝ'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/english_nonnative_mfa.dict_df.csv
+'ɝ' ('ɝ'): /Users/lucyford/Desktop/UOM CCL/Semester 2/Dissertation/Language dfs/english_us_mfa.dict_df.csv
