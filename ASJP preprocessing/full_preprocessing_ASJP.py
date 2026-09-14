@@ -1,10 +1,8 @@
 #####PER LANGUAGE PREPROCESSING#####
 
 #import libraries
-import numpy as np
 import pandas as pd
 import re
-import os
 from statistics import mean, StatisticsError #for error handling in cluster calcs
 from pathlib import Path #for anonymous file handling
 
